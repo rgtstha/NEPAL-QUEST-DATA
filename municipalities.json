@@ -4,7 +4,7 @@
         "nepali": "आठबीस",
         "district": "Dailekh",
         "province": "Karnali",
-        "population2021": 29227,
+        "population": 29227,
         "area": 168,
         "website": "https://aathabismun.gov.np/"
     },
@@ -13,7 +13,7 @@
         "nepali": "अाठबिसकाेट",
         "district": "Rukum West",
         "province": "Karnali",
-        "population2021": 33601,
+        "population": 33601,
         "area": 560.34,
         "website": "https://aathbiskotmun.gov.np/"
     },
@@ -22,7 +22,7 @@
         "nepali": "अमरगढी",
         "district": "Dadeldhura",
         "province": "Sudurpashchim",
-        "population2021": 21245,
+        "population": 21245,
         "area": 139.33,
         "website": "https://amargadhimun.gov.np/en"
     },
@@ -31,7 +31,7 @@
         "nepali": "अर्जुनधारा",
         "district": "Jhapa",
         "province": "Province No. 1",
-        "population2021": 60204,
+        "population": 60204,
         "area": 109.86,
         "website": "https://www.shaniarjunmun.gov.np/en"
     },
@@ -40,7 +40,7 @@
         "nepali": "औरही",
         "district": "Mahottari",
         "province": "Madhesh",
-        "population2021": 31751,
+        "population": 31751,
         "area": 35.76,
         "website": "https://aurahimunmahottari.gov.np/"
     },
@@ -49,7 +49,7 @@
         "nepali": "बडीमालिका",
         "district": "Bajura",
         "province": "Sudurpashchim",
-        "population2021": 16818,
+        "population": 16818,
         "area": 276,
         "website": "https://www.badimalikamun.gov.np/en"
     },
@@ -58,7 +58,7 @@
         "nepali": "बागचौर",
         "district": "Salyan",
         "province": "Karnali",
-        "population2021": 34118,
+        "population": 34118,
         "area": 163.14,
         "website": "https://bagchaurmun.gov.np/en"
     },
@@ -67,7 +67,7 @@
         "nepali": "बागलुङ",
         "district": "Baglung",
         "province": "Gandaki",
-        "population2021": 57823,
+        "population": 57823,
         "area": 98.01,
         "website": "https://baglungmun.gov.np/?language=en"
     },
@@ -76,7 +76,7 @@
         "nepali": "बागमती",
         "district": "Sarlahi",
         "province": "Madhesh",
-        "population2021": 40399,
+        "population": 40399,
         "area": 101.18,
         "website": "https://www.bagmatimunsarlahi.gov.np/"
     },
@@ -85,7 +85,7 @@
         "nepali": "बहुदरमाई",
         "district": "Parsa",
         "province": "Madhesh",
-        "population2021": 39673,
+        "population": 39673,
         "area": 31.55,
         "website": "https://www.bahudarmaimun.gov.np/"
     },
@@ -94,7 +94,7 @@
         "nepali": "बलरा",
         "district": "Sarlahi",
         "province": "Madhesh",
-        "population2021": 45194,
+        "population": 45194,
         "area": 48.55,
         "website": "https://www.balramun.gov.np/"
     },
@@ -103,7 +103,7 @@
         "nepali": "बलवा",
         "district": "Mahottari",
         "province": "Madhesh",
-        "population2021": 42341,
+        "population": 42341,
         "area": 44.07,
         "website": "https://balwamun.gov.np/"
     },
@@ -112,7 +112,7 @@
         "nepali": "बनेपा",
         "district": "Kavrepalanchok",
         "province": "Bagmati",
-        "population2021": 55628,
+        "population": 55628,
         "area": 55,
         "website": "https://banepamun.gov.np/en"
     },
@@ -121,7 +121,7 @@
         "nepali": "बनगाड कुपिण्डे",
         "district": "Salyan",
         "province": "Karnali",
-        "population2021": 36052,
+        "population": 36052,
         "area": 338.21,
         "website": "https://www.bangadkupindemun.gov.np/"
     },
@@ -130,7 +130,7 @@
         "nepali": "बाणगंगा",
         "district": "Kapilvastu",
         "province": "Lumbini",
-        "population2021": 75242,
+        "population": 75242,
         "area": 233.68,
         "website": "https://www.bangangamun.gov.np/en"
     },
@@ -139,7 +139,7 @@
         "nepali": "बासगढी",
         "district": "Bardiya",
         "province": "Lumbini",
-        "population2021": 55875,
+        "population": 55875,
         "area": 206.08,
         "website": "https://www.bansgadhimun.gov.np/en"
     },
@@ -148,7 +148,7 @@
         "nepali": "बराहक्षेत्र",
         "district": "Sunsari",
         "province": "Province No. 1",
-        "population2021": 77408,
+        "population": 77408,
         "area": 222.09,
         "website": "https://barahamun.gov.np/"
     },
@@ -157,7 +157,7 @@
         "nepali": "बरहथवा",
         "district": "Sarlahi",
         "province": "Madhesh",
-        "population2021": 69822,
+        "population": 69822,
         "area": 107.05,
         "website": "https://barhathwamun.gov.np/en"
     },
@@ -166,7 +166,7 @@
         "nepali": "बारबर्दिया",
         "district": "Bardiya",
         "province": "Lumbini",
-        "population2021": 68012,
+        "population": 68012,
         "area": 226.09,
         "website": "https://barbardiyamun.gov.np/"
     },
@@ -175,7 +175,7 @@
         "nepali": "बर्दघाट",
         "district": "Parasi",
         "province": "Lumbini",
-        "population2021": 55382,
+        "population": 55382,
         "area": 162.05,
         "website": "https://bardghatmun.gov.np/en/"
     },
@@ -184,7 +184,7 @@
         "nepali": "बर्दिबास",
         "district": "Mahottari",
         "province": "Madhesh",
-        "population2021": 66354,
+        "population": 66354,
         "area": 315.57,
         "website": "https://www.bardibasmun.gov.np/en"
     },
@@ -193,7 +193,7 @@
         "nepali": "बाह्रविसे",
         "district": "Sindhupalchok",
         "province": "Bagmati",
-        "population2021": 26700,
+        "population": 26700,
         "area": 96.73,
         "website": "https://www.bahrabisemun.gov.np/"
     },
@@ -202,7 +202,7 @@
         "nepali": "बौधीमाई",
         "district": "Rautahat",
         "province": "Madhesh",
-        "population2021": 36265,
+        "population": 36265,
         "area": 34.343,
         "website": "https://www.baudhimaimun.gov.np/"
     },
@@ -211,7 +211,7 @@
         "nepali": "वेदकोट",
         "district": "Kanchanpur",
         "province": "Sudurpashchim",
-        "population2021": 49479,
+        "population": 49479,
         "area": 159.92,
         "website": "https://bedkotmun.gov.np/en"
     },
@@ -220,7 +220,7 @@
         "nepali": "वेलका",
         "district": "Udayapur",
         "province": "Province No. 1",
-        "population2021": 42356,
+        "population": 42356,
         "area": 344.73,
         "website": "https://www.belakamun.gov.np/"
     },
@@ -229,7 +229,7 @@
         "nepali": "बेलौरी",
         "district": "Kanchanpur",
         "province": "Sudurpashchim",
-        "population2021": 53544,
+        "population": 53544,
         "area": 123.37,
         "website": "https://www.belaurimun.gov.np/en"
     },
@@ -238,7 +238,7 @@
         "nepali": "बेलवारी",
         "district": "Morang",
         "province": "Province No. 1",
-        "population2021": 65892,
+        "population": 65892,
         "area": 132.79,
         "website": "https://www.belbarimun.gov.np/en"
     },
@@ -247,7 +247,7 @@
         "nepali": "बेलकोटगढी",
         "district": "Nuwakot",
         "province": "Bagmati",
-        "population2021": 39888,
+        "population": 39888,
         "area": 155.6,
         "website": "https://www.belkotgadhimun.gov.np/"
     },
@@ -256,7 +256,7 @@
         "nepali": "बेनी",
         "district": "Myagdi",
         "province": "Gandaki",
-        "population2021": 33498,
+        "population": 33498,
         "area": 76.57,
         "website": "https://www.benimun.gov.np/en"
     },
@@ -265,7 +265,7 @@
         "nepali": "बेसीशहर",
         "district": "Lamjung",
         "province": "Gandaki",
-        "population2021": 39356,
+        "population": 39356,
         "area": 127.64,
         "website": "https://www.besishaharmun.gov.np/en"
     },
@@ -274,7 +274,7 @@
         "nepali": "भद्रपुर",
         "district": "Jhapa",
         "province": "Province No. 1",
-        "population2021": 65543,
+        "population": 65543,
         "area": 96.35,
         "website": "https://bhadrapur.municipality.gov.np/en"
     },
@@ -283,7 +283,7 @@
         "nepali": "भजनी",
         "district": "Kailali",
         "province": "Sudurpashchim",
-        "population2021": 51845,
+        "population": 51845,
         "area": 176.25,
         "website": "https://www.bhajanitrishaktimun.gov.np/en"
     },
@@ -292,7 +292,7 @@
         "nepali": "भक्तपुर",
         "district": "Bhaktapur",
         "province": "Bagmati",
-        "population2021": 81728,
+        "population": 81728,
         "area": 6.89,
         "website": "https://bhaktapurmun.gov.np/en"
     },
@@ -301,7 +301,7 @@
         "nepali": "भँगाहा",
         "district": "Mahottari",
         "province": "Madhesh",
-        "population2021": 46754,
+        "population": 46754,
         "area": 77.21,
         "website": "https://bhagahamun.gov.np/"
     },
@@ -310,7 +310,7 @@
         "nepali": "भानु",
         "district": "Tanahun",
         "province": "Gandaki",
-        "population2021": 45792,
+        "population": 45792,
         "area": 184,
         "website": "https://www.sabailamun.gov.np/en"
     },
@@ -319,7 +319,7 @@
         "nepali": "भेरी",
         "district": "Jajarkot",
         "province": "Karnali",
-        "population2021": 33515,
+        "population": 33515,
         "area": 219.77,
         "website": "https://bherimalikamun.gov.np/en"
     },
@@ -328,7 +328,7 @@
         "nepali": "भेरीगंगा",
         "district": "Surkhet",
         "province": "Karnali",
-        "population2021": 41407,
+        "population": 41407,
         "area": 256.2,
         "website": "https://www.bherigangamun.gov.np/en"
     },
@@ -337,7 +337,7 @@
         "nepali": "भिमाद",
         "district": "Tanahun",
         "province": "Gandaki",
-        "population2021": 31362,
+        "population": 31362,
         "area": 129,
         "website": "https://www.bhimadmun.gov.np/"
     },
@@ -346,7 +346,7 @@
         "nepali": "भीमदत्त",
         "district": "Kanchanpur",
         "province": "Sudurpashchim",
-        "population2021": 123316,
+        "population": 123316,
         "area": 78.24,
         "website": "https://bheemdattamun.gov.np/en"
     },
@@ -355,7 +355,7 @@
         "nepali": "भीमेश्वर",
         "district": "Dolakha",
         "province": "Bagmati",
-        "population2021": 31480,
+        "population": 31480,
         "area": 132.5,
         "website": "https://bhimeshwormun.gov.np/en"
     },
@@ -364,7 +364,7 @@
         "nepali": "भिरकोट",
         "district": "Syangja",
         "province": "Gandaki",
-        "population2021": 25583,
+        "population": 25583,
         "area": 78.23,
         "website": "https://bheerkotmun.gov.np/en"
     },
@@ -373,7 +373,7 @@
         "nepali": "भोजपुर",
         "district": "Bhojpur",
         "province": "Province No. 1",
-        "population2021": 27204,
+        "population": 27204,
         "area": 159.51,
         "website": "https://www.bhojpurmun.gov.np/en"
     },
@@ -382,7 +382,7 @@
         "nepali": "भूमिकास्थान",
         "district": "Arghakhanchi",
         "province": "Lumbini",
-        "population2021": 32640,
+        "population": 32640,
         "area": 159.13,
         "website": "https://www.bhumikasthanmun.gov.np/"
     },
@@ -391,7 +391,7 @@
         "nepali": "विदेह",
         "district": "Dhanusha",
         "province": "Madhesh",
-        "population2021": 32266,
+        "population": 32266,
         "area": 45.51,
         "website": "https://www.bidehamun.gov.np/"
     },
@@ -400,7 +400,7 @@
         "nepali": "विदुर",
         "district": "Nuwakot",
         "province": "Bagmati",
-        "population2021": 54351,
+        "population": 54351,
         "area": 130.01,
         "website": "https://bidurmun.gov.np/en"
     },
@@ -409,7 +409,7 @@
         "nepali": "वीरेन्द्रनगर",
         "district": "Surkhet",
         "province": "Karnali",
-        "population2021": 154886,
+        "population": 154886,
         "area": 245.06,
         "website": "https://birendranagarmun.gov.np/en"
     },
@@ -418,7 +418,7 @@
         "nepali": "बिर्तामोड",
         "district": "Jhapa",
         "province": "Province No. 1",
-        "population2021": 117355,
+        "population": 117355,
         "area": 78.24,
         "website": "https://www.birtamodmun.gov.np/en"
     },
@@ -427,7 +427,7 @@
         "nepali": "बोदेबरसाईन",
         "district": "Saptari",
         "province": "Madhesh",
-        "population2021": 43229,
+        "population": 43229,
         "area": 58.93,
         "website": "https://www.bodebarsainmun.gov.np/"
     },
@@ -436,7 +436,7 @@
         "nepali": "बृन्दावन",
         "district": "Rautahat",
         "province": "Madhesh",
-        "population2021": 42735,
+        "population": 42735,
         "area": 95.4,
         "website": "https://www.brindawanmun.gov.np/"
     },
@@ -445,7 +445,7 @@
         "nepali": "बुद्धभूमी",
         "district": "Kapilvastu",
         "province": "Lumbini",
-        "population2021": 64949,
+        "population": 64949,
         "area": 366.67,
         "website": "https://buddhabhumimun.gov.np/"
     },
@@ -454,7 +454,7 @@
         "nepali": "बुढानिलकण्ठ",
         "district": "Kathmandu",
         "province": "Bagmati",
-        "population2021": 179688,
+        "population": 179688,
         "area": 34.8,
         "website": "https://www.budhanilkanthamun.gov.np/en"
     },
@@ -463,7 +463,7 @@
         "nepali": "बुढीगंगा",
         "district": "Bajura",
         "province": "Sudurpashchim",
-        "population2021": 21677,
+        "population": 21677,
         "area": 59.2,
         "website": "https://www.budhigangamunbajura.gov.np/"
     },
@@ -472,7 +472,7 @@
         "nepali": "बुढीनन्दा",
         "district": "Bajura",
         "province": "Sudurpashchim",
-        "population2021": 18776,
+        "population": 18776,
         "area": 232.48,
         "website": "https://www.budhinandamun.gov.np/"
     },
@@ -481,7 +481,7 @@
         "nepali": "बुंगल",
         "district": "Bajhang",
         "province": "Sudurpashchim",
-        "population2021": 33224,
+        "population": 33224,
         "area": 447.59,
         "website": "https://www.bungalmun.gov.np/"
     },
@@ -490,7 +490,7 @@
         "nepali": "चैनपुर",
         "district": "Sankhuwasabha",
         "province": "Province No. 1",
-        "population2021": 27308,
+        "population": 27308,
         "area": 223.69,
         "website": "https://www.chainpurmun.gov.np/en"
     },
@@ -499,7 +499,7 @@
         "nepali": "चामुण्डा विन्द्रासैनी",
         "district": "Dailekh",
         "province": "Karnali",
-        "population2021": 26149,
+        "population": 26149,
         "area": 90.6,
         "website": "https://chamundabindrasainimun.gov.np/"
     },
@@ -508,7 +508,7 @@
         "nepali": "चन्दननाथ",
         "district": "Jumla",
         "province": "Karnali",
-        "population2021": 19047,
+        "population": 19047,
         "area": 102.03,
         "website": "https://www.chandannathmun.gov.np/en"
     },
@@ -517,7 +517,7 @@
         "nepali": "कृष बन्जाडे",
         "district": "Kathmandu",
         "province": "Bagmati",
-        "population2021": 136928,
+        "population": 136928,
         "area": 43.9,
         "website": "https://www.chandragirimun.gov.np/en"
     },
@@ -526,7 +526,7 @@
         "nepali": "चन्द्रपुर",
         "district": "Rautahat",
         "province": "Madhesh",
-        "population2021": 72059,
+        "population": 72059,
         "area": 249.96,
         "website": "https://www.chandrapurmun.gov.np/en"
     },
@@ -535,7 +535,7 @@
         "nepali": "चाँगुनारायण",
         "district": "Bhaktapur",
         "province": "Bagmati",
-        "population2021": 55430,
+        "population": 55430,
         "area": 62.98,
         "website": "https://www.changunarayanmun.gov.np/en"
     },
@@ -544,7 +544,7 @@
         "nepali": "चापाकोट",
         "district": "Syangja",
         "province": "Gandaki",
-        "population2021": 26042,
+        "population": 26042,
         "area": 120.59,
         "website": "https://www.chapakotmun.gov.np/en"
     },
@@ -553,7 +553,7 @@
         "nepali": "चौदण्डीगढी",
         "district": "Udayapur",
         "province": "Province No. 1",
-        "population2021": 48578,
+        "population": 48578,
         "area": 283.78,
         "website": "https://chaudandigadhimun.gov.np/"
     },
@@ -562,7 +562,7 @@
         "nepali": "चौरजहारी",
         "district": "Western Rukum",
         "province": "Karnali",
-        "population2021": 27438,
+        "population": 27438,
         "area": 107.38,
         "website": "https://chaurjaharimun.gov.np/en"
     },
@@ -571,7 +571,7 @@
         "nepali": "चौतारा साँगाचोकगढी",
         "district": "Sindhupalchok",
         "province": "Bagmati",
-        "population2021": 51347,
+        "population": 51347,
         "area": 165.25,
         "website": "https://www.chautarasangachowkgadhimun.gov.np/"
     },
@@ -580,7 +580,7 @@
         "nepali": "छायाँनाथ रारा",
         "district": "Mugu",
         "province": "Karnali",
-        "population2021": 20078,
+        "population": 20078,
         "area": 480.67,
         "website": "https://www.chhayanathraramun.gov.np/"
     },
@@ -589,7 +589,7 @@
         "nepali": "छेडागाड",
         "district": "Jajarkot",
         "province": "Karnali",
-        "population2021": 35295,
+        "population": 35295,
         "area": 284.2,
         "website": "https://chhedagadmun.gov.np/"
     },
@@ -598,7 +598,7 @@
         "nepali": "क्षिरेश्वरनाथ",
         "district": "Dhanusha",
         "province": "Madhesh",
-        "population2021": 42541,
+        "population": 42541,
         "area": 50.85,
         "website": "https://www.kshireshwornathmun.gov.np/"
     },
@@ -607,7 +607,7 @@
         "nepali": "दक्नेश्वारी",
         "district": "Saptari",
         "province": "Madhesh",
-        "population2021": 44782,
+        "population": 44782,
         "area": 69.11,
         "website": "https://www.dakneshworimun.gov.np/"
     },
@@ -616,7 +616,7 @@
         "nepali": "दक्षिणकाली",
         "district": "Kathmandu",
         "province": "Bagmati",
-        "population2021": 24296,
+        "population": 24296,
         "area": 42.68,
         "website": "https://www.daxinkalimun.gov.np/en"
     },
@@ -625,7 +625,7 @@
         "nepali": "दमक",
         "district": "Jhapa",
         "province": "Province No. 1",
-        "population2021": 107410,
+        "population": 107410,
         "area": 70.86,
         "website": "https://damakmun.gov.np/en"
     },
@@ -634,7 +634,7 @@
         "nepali": "दशरथचन्द",
         "district": "Baitadi",
         "province": "Sudurpashchim",
-        "population2021": 34575,
+        "population": 34575,
         "area": 135.15,
         "website": "https://dasharathchandmun.gov.np/en"
     },
@@ -643,7 +643,7 @@
         "nepali": "देउमाई",
         "district": "Ilam",
         "province": "Province No. 1",
-        "population2021": 32927,
+        "population": 32927,
         "area": 191.63,
         "website": "https://www.deumaimun.gov.np/en"
     },
@@ -652,7 +652,7 @@
         "nepali": "देवचुली",
         "district": "Nawalpur",
         "province": "Gandaki",
-        "population2021": 42603,
+        "population": 42603,
         "area": 112.72,
         "website": "https://www.devchulimun.gov.np/en"
     },
@@ -661,7 +661,7 @@
         "nepali": "देवदह",
         "district": "Rupandehi",
         "province": "Lumbini",
-        "population2021": 53523,
+        "population": 53523,
         "area": 136.95,
         "website": "https://www.devdahamun.gov.np/en"
     },
@@ -670,7 +670,7 @@
         "nepali": "देवाही गोनाही",
         "district": "Rautahat",
         "province": "Madhesh",
-        "population2021": 32146,
+        "population": 32146,
         "area": 33.99,
         "website": "https://www.dewahigonahimun.gov.np/"
     },
@@ -679,7 +679,7 @@
         "nepali": "धनगढीमाई",
         "district": "Siraha",
         "province": "Madhesh",
-        "population2021": 47449,
+        "population": 47449,
         "area": 159.51,
         "website": "https://dhangadhimaimun.gov.np/en"
     },
@@ -688,7 +688,7 @@
         "nepali": "धनकुटा",
         "district": "Dhankuta",
         "province": "Province No. 1",
-        "population2021": 36619,
+        "population": 36619,
         "area": 111,
         "website": "https://dhankutamun.gov.np/en"
     },
@@ -697,7 +697,7 @@
         "nepali": "धनुषाधाम",
         "district": "Dhanusha",
         "province": "Madhesh",
-        "population2021": 45665,
+        "population": 45665,
         "area": 91.64,
         "website": "https://www.dhanushadhammun.gov.np/en"
     },
@@ -706,7 +706,7 @@
         "nepali": "धर्मदेवी",
         "district": "Sankhuwasabha",
         "province": "Province No. 1",
-        "population2021": 18235,
+        "population": 18235,
         "area": 132.82,
         "website": "https://www.dharmadevimun.gov.np/"
     },
@@ -715,7 +715,7 @@
         "nepali": "ढोरपाटन",
         "district": "Baglung",
         "province": "Gandaki",
-        "population2021": 26215,
+        "population": 26215,
         "area": 222.85,
         "website": "https://www.dhorpatanmun.gov.np/"
     },
@@ -724,7 +724,7 @@
         "nepali": "धुलिखेल",
         "district": "Kavrepalanchok",
         "province": "Bagmati",
-        "population2021": 32162,
+        "population": 32162,
         "area": 55,
         "website": "https://dhulikhelmun.gov.np/en"
     },
@@ -733,7 +733,7 @@
         "nepali": "धुनीबेंशी",
         "district": "Dhading",
         "province": "Bagmati",
-        "population2021": 31029,
+        "population": 31029,
         "area": 96.3
     },
     {
@@ -741,7 +741,7 @@
         "nepali": "दिपायल सिलगढी",
         "district": "Doti",
         "province": "Sudurpashchim",
-        "population2021": 32941,
+        "population": 32941,
         "area": 126.62,
         "website": "https://dipayalsilgadhimun.gov.np/en"
     },
@@ -750,7 +750,7 @@
         "nepali": "दुधौली",
         "district": "Sindhuli",
         "province": "Bagmati",
-        "population2021": 65302,
+        "population": 65302,
         "area": 390.39,
         "website": "https://www.dudhaulimun.gov.np/en"
     },
@@ -759,7 +759,7 @@
         "nepali": "दुहवी",
         "district": "Sunsari",
         "province": "Province No. 1",
-        "population2021": 56269,
+        "population": 56269,
         "area": 73.67,
         "website": "https://www.duhabibhaluwamun.gov.np/en"
     },
@@ -768,7 +768,7 @@
         "nepali": "दुल्लु",
         "district": "Dailekh",
         "province": "Karnali",
-        "population2021": 41540,
+        "population": 41540,
         "area": 156.77,
         "website": "https://www.dullumun.gov.np/en"
     },
@@ -777,7 +777,7 @@
         "nepali": "गढीमाई",
         "district": "Rautahat",
         "province": "Madhesh",
-        "population2021": 40410,
+        "population": 40410,
         "area": 49.44,
         "website": "https://www.gadhimaimun.gov.np/"
     },
@@ -786,7 +786,7 @@
         "nepali": "गैडाकोट",
         "district": "Nawalpur",
         "province": "Gandaki",
-        "population2021": 58836,
+        "population": 58836,
         "area": 159.93,
         "website": "https://www.gaindakotmun.gov.np/en"
     },
@@ -795,7 +795,7 @@
         "nepali": "गल्कोट",
         "district": "Baglung",
         "province": "Gandaki",
-        "population2021": 33097,
+        "population": 33097,
         "area": 194.39,
         "website": "https://www.galkotmun.gov.np/"
     },
@@ -804,7 +804,7 @@
         "nepali": "गल्याङ",
         "district": "Syangja",
         "province": "Gandaki",
-        "population2021": 36967,
+        "population": 36967,
         "area": 122.71,
         "website": "https://www.galyangmun.gov.np/"
     },
@@ -813,7 +813,7 @@
         "nepali": "गणेशमान चारनाथ",
         "district": "Dhanusha",
         "province": "Madhesh",
-        "population2021": 37300,
+        "population": 37300,
         "area": 244.31,
         "website": "https://www.ganeshmancharnathmun.gov.np/"
     },
@@ -822,7 +822,7 @@
         "nepali": "गरुडा",
         "district": "Rautahat",
         "province": "Madhesh",
-        "population2021": 50481,
+        "population": 50481,
         "area": 44.46,
         "website": "https://www.garudamun.gov.np/en"
     },
@@ -831,7 +831,7 @@
         "nepali": "गौर",
         "district": "Rautahat",
         "province": "Madhesh",
-        "population2021": 34937,
+        "population": 34937,
         "area": 21.53,
         "website": "https://gaurmun.gov.np/en"
     },
@@ -840,7 +840,7 @@
         "nepali": "गौरादह",
         "district": "Jhapa",
         "province": "Province No. 1",
-        "population2021": 53033,
+        "population": 53033,
         "area": 149.86,
         "website": "https://gauradahamun.gov.np/en"
     },
@@ -849,7 +849,7 @@
         "nepali": "गौरीगंगा",
         "district": "Kailali",
         "province": "Sudurpashchim",
-        "population2021": 55314,
+        "population": 55314,
         "area": 244.44,
         "website": "https://gaurigangamun.gov.np/"
     },
@@ -858,7 +858,7 @@
         "nepali": "गौशाला",
         "district": "Mahottari",
         "province": "Madhesh",
-        "population2021": 66673,
+        "population": 66673,
         "area": 144.73,
         "website": "https://www.gaushalamun.gov.np/en"
     },
@@ -867,7 +867,7 @@
         "nepali": "घोडाघोडी",
         "district": "Kailali",
         "province": "Sudurpashchim",
-        "population2021": 75586,
+        "population": 75586,
         "area": 354.45,
         "website": "https://www.ghodaghodimun.gov.np/en"
     },
@@ -876,7 +876,7 @@
         "nepali": "गोडैता",
         "district": "Sarlahi",
         "province": "Madhesh",
-        "population2021": 47687,
+        "population": 47687,
         "area": 48.62,
         "website": "https://www.godaitamun.gov.np/"
     },
@@ -885,7 +885,7 @@
         "nepali": "गोदावरी",
         "district": "Lalitpur",
         "province": "Bagmati",
-        "population2021": 100972,
+        "population": 100972,
         "area": 96.11,
         "website": "https://godawarimunlalitpur.gov.np/en"
     },
@@ -894,7 +894,7 @@
         "nepali": "गोदावरी",
         "district": "Kailali",
         "province": "Sudurpashchim",
-        "population2021": 78018,
+        "population": 78018,
         "area": 305.63,
         "website": "https://www.attariyamun.gov.np/en"
     },
@@ -903,7 +903,7 @@
         "nepali": "गोकर्णेश्वर",
         "district": "Kathmandu",
         "province": "Bagmati",
-        "population2021": 151200,
+        "population": 151200,
         "area": 58.5,
         "website": "https://gokarneshwormun.gov.np/en"
     },
@@ -912,7 +912,7 @@
         "nepali": "गोलबजार",
         "district": "Siraha",
         "province": "Madhesh",
-        "population2021": 51137,
+        "population": 51137,
         "area": 111.94
     },
     {
@@ -920,7 +920,7 @@
         "nepali": "गोरखा",
         "district": "Gorkha",
         "province": "Gandaki",
-        "population2021": 49272,
+        "population": 49272,
         "area": 131.86,
         "website": "https://gorkhamun.gov.np/en"
     },
@@ -929,7 +929,7 @@
         "nepali": "गुजरा",
         "district": "Rautahat",
         "province": "Madhesh",
-        "population2021": 46592,
+        "population": 46592,
         "area": 150.33,
         "website": "https://www.gujaramun.gov.np/"
     },
@@ -938,7 +938,7 @@
         "nepali": "गुलरिया",
         "district": "Bardiya",
         "province": "Lumbini",
-        "population2021": 66679,
+        "population": 66679,
         "area": 118.21,
         "website": "https://gulariyamun.gov.np/en"
     },
@@ -947,7 +947,7 @@
         "nepali": "गुर्भाकोट",
         "district": "Surkhet",
         "province": "Karnali",
-        "population2021": 43765,
+        "population": 43765,
         "area": 228.62,
         "website": "https://gurbhakotmun.gov.np/"
     },
@@ -956,7 +956,7 @@
         "nepali": "हलेसी तुवाचुङ",
         "district": "Khotang",
         "province": "Province No. 1",
-        "population2021": 29532,
+        "population": 29532,
         "area": 280.17,
         "website": "https://www.halesituwachungmun.gov.np/"
     },
@@ -965,7 +965,7 @@
         "nepali": "हंसपुर",
         "district": "Dhanusha",
         "province": "Madhesh",
-        "population2021": 39145,
+        "population": 39145,
         "area": 48.71,
         "website": "https://www.hansapurmun.gov.np/"
     },
@@ -974,7 +974,7 @@
         "nepali": "हनुमाननगर कंकालिनी",
         "district": "Saptari",
         "province": "Madhesh",
-        "population2021": 45734,
+        "population": 45734,
         "area": 118.19,
         "website": "https://www.hanumannagarkankalinimun.gov.np/"
     },
@@ -983,7 +983,7 @@
         "nepali": "हरिपुर",
         "district": "Sarlahi",
         "province": "Madhesh",
-        "population2021": 37351,
+        "population": 37351,
         "area": 66.86,
         "website": "https://www.haripurmun.gov.np/"
     },
@@ -992,7 +992,7 @@
         "nepali": "हरिपुर्वा",
         "district": "Sarlahi",
         "province": "Madhesh",
-        "population2021": 36042,
+        "population": 36042,
         "area": 30.5,
         "website": "https://www.haripurwamun.gov.np/"
     },
@@ -1001,7 +1001,7 @@
         "nepali": "हरिवन",
         "district": "Sarlahi",
         "province": "Madhesh",
-        "population2021": 43928,
+        "population": 43928,
         "area": 86.12,
         "website": "https://www.harionmun.gov.np/"
     },
@@ -1010,7 +1010,7 @@
         "nepali": "इलाम",
         "district": "Ilam",
         "province": "Province No. 1",
-        "population2021": 48536,
+        "population": 48536,
         "area": 173.32,
         "website": "https://ilammun.gov.np/en"
     },
@@ -1019,7 +1019,7 @@
         "nepali": "ईनरुवा",
         "district": "Sunsari",
         "province": "Province No. 1",
-        "population2021": 63593,
+        "population": 63593,
         "area": 77.92,
         "website": "https://inaruwamun.gov.np/en"
     },
@@ -1028,7 +1028,7 @@
         "nepali": "ईशनाथ",
         "district": "Rautahat",
         "province": "Madhesh",
-        "population2021": 41435,
+        "population": 41435,
         "area": 35.18,
         "website": "https://www.ishnathmun.gov.np/"
     },
@@ -1037,7 +1037,7 @@
         "nepali": "ईश्वरपूर",
         "district": "Sarlahi",
         "province": "Madhesh",
-        "population2021": 59986,
+        "population": 59986,
         "area": 163.83,
         "website": "https://www.ishworpurmun.gov.np/en"
     },
@@ -1046,7 +1046,7 @@
         "nepali": "जैमिनी",
         "district": "Baglung",
         "province": "Gandaki",
-        "population2021": 31430,
+        "population": 31430,
         "area": 118.71,
         "website": "https://www.jaiminimun.gov.np/"
     },
@@ -1055,7 +1055,7 @@
         "nepali": "जलेश्वर",
         "district": "Mahottari",
         "province": "Madhesh",
-        "population2021": 58549,
+        "population": 58549,
         "area": 44.26,
         "website": "https://jaleshwarmun.gov.np/en"
     },
@@ -1064,7 +1064,7 @@
         "nepali": "जयपृथ्वी",
         "district": "Bajhang",
         "province": "Sudurpashchim",
-        "population2021": 22191,
+        "population": 22191,
         "area": 166.79,
         "website": "https://www.jayaprithvimun.gov.np/en"
     },
@@ -1073,7 +1073,7 @@
         "nepali": "जिरी",
         "district": "Dolakha",
         "province": "Bagmati",
-        "population2021": 15515,
+        "population": 15515,
         "area": 211.27,
         "website": "https://www.jirimun.gov.np/en"
     },
@@ -1082,7 +1082,7 @@
         "nepali": "कविलासी",
         "district": "Sarlahi",
         "province": "Madhesh",
-        "population2021": 42336,
+        "population": 42336,
         "area": 48.11,
         "website": "https://www.belakamun.gov.np/"
     },
@@ -1091,7 +1091,7 @@
         "nepali": "कागेश्वरी मनोहरा",
         "district": "Kathmandu",
         "province": "Bagmati",
-        "population2021": 133327,
+        "population": 133327,
         "area": 27.38,
         "website": "https://www.kageshworimanoharamun.gov.np/en"
     },
@@ -1100,7 +1100,7 @@
         "nepali": "कालिका",
         "district": "Chitwan",
         "province": "Bagmati",
-        "population2021": 41742,
+        "population": 41742,
         "area": 149.08,
         "website": "https://kalikamun.gov.np/en"
     },
@@ -1109,7 +1109,7 @@
         "nepali": "कल्याणपुर",
         "district": "Siraha",
         "province": "Madhesh",
-        "population2021": 49288,
+        "population": 49288,
         "area": 76.81,
         "website": "https://www.kalyanpurmun.gov.np/"
     },
@@ -1118,7 +1118,7 @@
         "nepali": "कमला",
         "district": "Dhanusha",
         "province": "Madhesh",
-        "population2021": 38877,
+        "population": 38877,
         "area": 65.85,
         "website": "https://www.kamalamun.gov.np/"
     },
@@ -1127,7 +1127,7 @@
         "nepali": "कमलामाई",
         "district": "Sindhuli",
         "province": "Bagmati",
-        "population2021": 65064,
+        "population": 65064,
         "area": 482.57,
         "website": "https://kamalamaimun.gov.np/en"
     },
@@ -1136,7 +1136,7 @@
         "nepali": "कमलबजार",
         "district": "Achham",
         "province": "Sudurpashchim",
-        "population2021": 23738,
+        "population": 23738,
         "area": 120.78,
         "website": "https://kamalbazarmun.gov.np/en"
     },
@@ -1145,7 +1145,7 @@
         "nepali": "कञ्चनरूप",
         "district": "Saptari",
         "province": "Madhesh",
-        "population2021": 35238,
+        "population": 35238,
         "area": 117.34,
         "website": "https://www.kanchanrupmun.gov.np/en"
     },
@@ -1154,7 +1154,7 @@
         "nepali": "कन्काई",
         "district": "Jhapa",
         "province": "Province No. 1",
-        "population2021": 40141,
+        "population": 40141,
         "area": 80.98,
         "website": "https://www.kankaimun.gov.np/en"
     },
@@ -1163,7 +1163,7 @@
         "nepali": "कपिलवस्तु",
         "district": "Kapilvastu",
         "province": "Lumbini",
-        "population2021": 76394,
+        "population": 76394,
         "area": 136.91,
         "website": "https://kapilvastumun.gov.np/en"
     },
@@ -1172,7 +1172,7 @@
         "nepali": "कर्जन्हा",
         "district": "Siraha",
         "province": "Madhesh",
-        "population2021": 30965,
+        "population": 30965,
         "area": 76.84,
         "website": "https://www.karjanhamun.gov.np/"
     },
@@ -1181,7 +1181,7 @@
         "nepali": "कटहरीया",
         "district": "Rautahat",
         "province": "Madhesh",
-        "population2021": 38413,
+        "population": 38413,
         "area": 40.69,
         "website": "https://www.katahariyamun.gov.np/"
     },
@@ -1190,7 +1190,7 @@
         "nepali": "कटारी",
         "district": "Udayapur",
         "province": "Province No. 1",
-        "population2021": 56146,
+        "population": 56146,
         "area": 424.89,
         "website": "https://www.kataarimun.gov.np/en"
     },
@@ -1199,7 +1199,7 @@
         "nepali": "कावासोती",
         "district": "Nawalpur",
         "province": "Gandaki",
-        "population2021": 62421,
+        "population": 62421,
         "area": 108.34,
         "website": "https://www.kawasotimun.gov.np/en"
     },
@@ -1208,7 +1208,7 @@
         "nepali": "खडक",
         "district": "Saptari",
         "province": "Madhesh",
-        "population2021": 45367,
+        "population": 45367,
         "area": 93.77,
         "website": "https://www.khadakmun.gov.np/"
     },
@@ -1217,7 +1217,7 @@
         "nepali": "खैरहनी",
         "district": "Chitwan",
         "province": "Bagmati",
-        "population2021": 56094,
+        "population": 56094,
         "area": 85.55,
         "website": "https://www.khairhanimun.gov.np/en"
     },
@@ -1226,7 +1226,7 @@
         "nepali": "खाँडाचक्र",
         "district": "Kalikot",
         "province": "Karnali",
-        "population2021": 20288,
+        "population": 20288,
         "area": 133.29,
         "website": "https://khandachakramun.gov.np/"
     },
@@ -1235,7 +1235,7 @@
         "nepali": "खादँवारी",
         "district": "Sankhuwasabha",
         "province": "Province No. 1",
-        "population2021": 31177,
+        "population": 31177,
         "area": 122.78,
         "website": "https://khandbarimun.gov.np/"
     },
@@ -1244,7 +1244,7 @@
         "nepali": "किर्तिपुर",
         "district": "Kathmandu",
         "province": "Bagmati",
-        "population2021": 65602,
+        "population": 65602,
         "area": 14.76,
         "website": "https://kirtipurmun.gov.np/en"
     },
@@ -1253,7 +1253,7 @@
         "nepali": "कोहलपुर",
         "district": "Banke",
         "province": "Lumbini",
-        "population2021": 100289,
+        "population": 100289,
         "area": 184.26,
         "website": "https://www.kohalpurmun.gov.np/en"
     },
@@ -1262,7 +1262,7 @@
         "nepali": "कोल्हवी",
         "district": "Bara",
         "province": "Madhesh",
-        "population2021": 43036,
+        "population": 43036,
         "area": 157.4,
         "website": "https://www.kolhabimun.gov.np/en"
     },
@@ -1271,7 +1271,7 @@
         "nepali": "कृष्णनगर",
         "district": "Kapilvastu",
         "province": "Lumbini",
-        "population2021": 62370,
+        "population": 62370,
         "area": 96.66,
         "website": "https://www.krishnanagarmun.gov.np/en"
     },
@@ -1280,7 +1280,7 @@
         "nepali": "कृष्णपुर",
         "district": "Kanchanpur",
         "province": "Sudurpashchim",
-        "population2021": 56643,
+        "population": 56643,
         "area": 252.75,
         "website": "https://krishnapurmun.gov.np/en"
     },
@@ -1289,7 +1289,7 @@
         "nepali": "कुश्मा",
         "district": "Parbat",
         "province": "Gandaki",
-        "population2021": 39600,
+        "population": 39600,
         "area": 93.18,
         "website": "https://www.kushmamun.gov.np/en"
     },
@@ -1298,7 +1298,7 @@
         "nepali": "लहान",
         "district": "Siraha",
         "province": "Madhesh",
-        "population2021": 102955,
+        "population": 102955,
         "area": 167.17,
         "website": "https://lahanmun.gov.np/en"
     },
@@ -1307,7 +1307,7 @@
         "nepali": "लालबन्दी",
         "district": "Sarlahi",
         "province": "Madhesh",
-        "population2021": 59395,
+        "population": 59395,
         "area": 238.5,
         "website": "https://www.laalbandimun.gov.np/en"
     },
@@ -1316,7 +1316,7 @@
         "nepali": "लालिगुराँस",
         "district": "Terathum",
         "province": "Province No. 1",
-        "population2021": 16970,
+        "population": 16970,
         "area": 90.27,
         "website": "https://laliguransmun.gov.np/en"
     },
@@ -1325,7 +1325,7 @@
         "nepali": "लमही",
         "district": "Dang",
         "province": "Lumbini",
-        "population2021": 47655,
+        "population": 47655,
         "area": 326.66,
         "website": "https://www.lamahimun.gov.np/en"
     },
@@ -1334,7 +1334,7 @@
         "nepali": "लम्की चुहा",
         "district": "Kailali",
         "province": "Sudurpashchim",
-        "population2021": 90941,
+        "population": 90941,
         "area": 225,
         "website": "https://www.lamkichuhamun.gov.np/en"
     },
@@ -1343,7 +1343,7 @@
         "nepali": "लेकबेशी",
         "district": "Surkhet",
         "province": "Karnali",
-        "population2021": 30295,
+        "population": 30295,
         "area": 180.92,
         "website": "https://www.lekbeshimun.gov.np/"
     },
@@ -1352,7 +1352,7 @@
         "nepali": "लेटाङ",
         "district": "Morang",
         "province": "Province No. 1",
-        "population2021": 32053,
+        "population": 32053,
         "area": 219.23,
         "website": "https://www.letangbhogatenimun.gov.np/en"
     },
@@ -1361,7 +1361,7 @@
         "nepali": "लोहरपट्टी",
         "district": "Mahottari",
         "province": "Madhesh",
-        "population2021": 39579,
+        "population": 39579,
         "area": 50.06,
         "website": "https://loharpattimun.gov.np/"
     },
@@ -1370,7 +1370,7 @@
         "nepali": "लुम्बिनी सांस्कृतिक",
         "district": "Rupandehi",
         "province": "Lumbini",
-        "population2021": 72497,
+        "population": 72497,
         "area": 112.21,
         "website": "https://www.lumbinisanskritikmun.gov.np/"
     },
@@ -1379,7 +1379,7 @@
         "nepali": "माधव नारायण",
         "district": "Rautahat",
         "province": "Madhesh",
-        "population2021": 35175,
+        "population": 35175,
         "area": 48.53,
         "website": "https://www.nagrainmun.gov.np/"
     },
@@ -1388,7 +1388,7 @@
         "nepali": "मधुवन",
         "district": "Bardiya",
         "province": "Lumbini",
-        "population2021": 46437,
+        "population": 46437,
         "area": 129.73,
         "website": "https://www.madhuwanmun.gov.np/"
     },
@@ -1397,7 +1397,7 @@
         "nepali": "मध्यनेपाल",
         "district": "Lamjung",
         "province": "Gandaki",
-        "population2021": 23385,
+        "population": 23385,
         "area": 113.86,
         "website": "https://madhyanepalmun.gov.np/en"
     },
@@ -1406,7 +1406,7 @@
         "nepali": "मध्यविन्दु",
         "district": "Nawalpur",
         "province": "Gandaki",
-        "population2021": 54140,
+        "population": 54140,
         "area": 233.35,
         "website": "https://madhyabindumun.gov.np/en"
     },
@@ -1415,7 +1415,7 @@
         "nepali": "मध्यपुर थिमी",
         "district": "Bhaktapur",
         "province": "Bagmati",
-        "population2021": 119955,
+        "population": 119955,
         "area": 11.47,
         "website": "https://madhyapurthimimun.gov.np/en"
     },
@@ -1424,7 +1424,7 @@
         "nepali": "माडी",
         "district": "Chitwan",
         "province": "Bagmati",
-        "population2021": 37683,
+        "population": 37683,
         "area": 218.24,
         "website": "https://www.maddimun.gov.np/en"
     },
@@ -1433,7 +1433,7 @@
         "nepali": "मादी",
         "district": "Sankhuwasabha",
         "province": "Province No. 1",
-        "population2021": 14470,
+        "population": 14470,
         "area": 110.1,
         "website": "https://www.madimun.gov.np/en"
     },
@@ -1442,7 +1442,7 @@
         "nepali": "महागढीमाई",
         "district": "Bara",
         "province": "Madhesh",
-        "population2021": 54474,
+        "population": 54474,
         "area": 55.32,
         "website": "https://www.mahagadimaimun.gov.np/en"
     },
@@ -1451,7 +1451,7 @@
         "nepali": "माहाकाली",
         "district": "Kanchanpur",
         "province": "Sudurpashchim",
-        "population2021": 39253,
+        "population": 39253,
         "area": 56.84,
         "website": "https://www.mahakalimunkanchanpur.gov.np/"
     },
@@ -1460,7 +1460,7 @@
         "nepali": "महाकाली",
         "district": "Darchula",
         "province": "Sudurpashchim",
-        "population2021": 21231,
+        "population": 21231,
         "area": 135.11,
         "website": "https://www.mahakalimundarchula.gov.np/"
     },
@@ -1469,7 +1469,7 @@
         "nepali": "महालक्ष्मी",
         "district": "Lalitpur",
         "province": "Bagmati",
-        "population2021": 118710,
+        "population": 118710,
         "area": 26.51,
         "website": "https://www.mahalaxmimun.gov.np/en"
     },
@@ -1478,7 +1478,7 @@
         "nepali": "महालक्ष्मी",
         "district": "Dhankuta",
         "province": "Province No. 1",
-        "population2021": 24800,
+        "population": 24800,
         "area": 126.3,
         "website": "https://www.mahalaxmimundhankuta.gov.np/"
     },
@@ -1487,7 +1487,7 @@
         "nepali": "महाराजगंज",
         "district": "Kapilvastu",
         "province": "Lumbini",
-        "population2021": 54800,
+        "population": 54800,
         "area": 112.21,
         "website": "https://maharajgunjmun.gov.np/"
     },
@@ -1496,7 +1496,7 @@
         "nepali": "माई",
         "district": "Ilam",
         "province": "Province No. 1",
-        "population2021": 32576,
+        "population": 32576,
         "area": 246.11,
         "website": "https://www.maimun.gov.np/"
     },
@@ -1505,7 +1505,7 @@
         "nepali": "मलङ्गवा",
         "district": "Sarlahi",
         "province": "Madhesh",
-        "population2021": 46516,
+        "population": 46516,
         "area": 30.44,
         "website": "https://malangwamun.gov.np/?language=en"
     },
@@ -1514,7 +1514,7 @@
         "nepali": "मनरा शिसवा",
         "district": "Mahottari",
         "province": "Madhesh",
-        "population2021": 49692,
+        "population": 49692,
         "area": 49.73
     },
     {
@@ -1522,7 +1522,7 @@
         "nepali": "मण्डनदेउपुर",
         "district": "Kavrepalanchok",
         "province": "Bagmati",
-        "population2021": 32659,
+        "population": 32659,
         "area": 89,
         "website": "https://www.mandandeupurmun.gov.np/"
     },
@@ -1531,7 +1531,7 @@
         "nepali": "मंगलसेन",
         "district": "Achham",
         "province": "Sudurpashchim",
-        "population2021": 32331,
+        "population": 32331,
         "area": 220.14,
         "website": "https://www.mangalsenmun.gov.np/en"
     },
@@ -1540,7 +1540,7 @@
         "nepali": "मन्थली",
         "district": "Ramechhap",
         "province": "Bagmati",
-        "population2021": 45416,
+        "population": 45416,
         "area": 211.78,
         "website": "https://www.manthalimun.gov.np/en"
     },
@@ -1549,7 +1549,7 @@
         "nepali": "मटिहानी",
         "district": "Mahottari",
         "province": "Madhesh",
-        "population2021": 31026,
+        "population": 31026,
         "area": 29.02,
         "website": "https://matihanimun.gov.np/"
     },
@@ -1558,7 +1558,7 @@
         "nepali": "मौलापुर",
         "district": "Rautahat",
         "province": "Madhesh",
-        "population2021": 26431,
+        "population": 26431,
         "area": 34.75,
         "website": "https://www.maulapurmun.gov.np/"
     },
@@ -1567,7 +1567,7 @@
         "nepali": "मेचीनगर",
         "district": "Jhapa",
         "province": "Province No. 1",
-        "population2021": 131520,
+        "population": 131520,
         "area": 192.85,
         "website": "https://mechinagarmun.gov.np/"
     },
@@ -1576,7 +1576,7 @@
         "nepali": "मेलम्ची",
         "district": "Sindhupalchok",
         "province": "Bagmati",
-        "population2021": 45343,
+        "population": 45343,
         "area": 158.17,
         "website": "https://www.melamchimun.gov.np/en"
     },
@@ -1585,7 +1585,7 @@
         "nepali": "मेलौली",
         "district": "Baitadi",
         "province": "Sudurpashchim",
-        "population2021": 22545,
+        "population": 22545,
         "area": 119.43,
         "website": "https://www.melaulimun.gov.np/"
     },
@@ -1594,7 +1594,7 @@
         "nepali": "मिर्चैया",
         "district": "Siraha",
         "province": "Madhesh",
-        "population2021": 50079,
+        "population": 50079,
         "area": 91.97,
         "website": "https://www.mirchaiyamun.gov.np/en"
     },
@@ -1603,7 +1603,7 @@
         "nepali": "मिथिला",
         "district": "Dhanusha",
         "province": "Madhesh",
-        "population2021": 45164,
+        "population": 45164,
         "area": 187.93,
         "website": "https://www.mithilamun.gov.np/en"
     },
@@ -1612,7 +1612,7 @@
         "nepali": "मिथिला बिहारी",
         "district": "Dhanusa",
         "province": "Madhesh",
-        "population2021": 33521,
+        "population": 33521,
         "area": 37.6,
         "website": "https://www.mithilabiharimun.gov.np/"
     },
@@ -1621,7 +1621,7 @@
         "nepali": "मुसिकोट",
         "district": "Western Rukum",
         "province": "Karnali",
-        "population2021": 32939,
+        "population": 32939,
         "area": 136.06,
         "website": "https://www.musikotmun.gov.np/en"
     },
@@ -1630,7 +1630,7 @@
         "nepali": "मुसिकोट",
         "district": "Gulmi",
         "province": "Lumbini",
-        "population2021": 32802,
+        "population": 32802,
         "area": 114.74,
         "website": "https://www.musikotmungulmi.gov.np/"
     },
@@ -1639,7 +1639,7 @@
         "nepali": "म्याङलुङ",
         "district": "Terathum",
         "province": "Province No. 1",
-        "population2021": 19659,
+        "population": 19659,
         "area": 100.21,
         "website": "https://www.myanglungmun.gov.np/en"
     },
@@ -1648,7 +1648,7 @@
         "nepali": "नगराईन",
         "district": "Dhanusha",
         "province": "Madhesh",
-        "population2021": 35630,
+        "population": 35630,
         "area": 39,
         "website": "https://www.nagrainmun.gov.np/"
     },
@@ -1657,7 +1657,7 @@
         "nepali": "नागार्जुन",
         "district": "Kathmandu",
         "province": "Bagmati",
-        "population2021": 115507,
+        "population": 115507,
         "area": 29.85,
         "website": "https://www.nagarjunmun.gov.np/en"
     },
@@ -1666,7 +1666,7 @@
         "nepali": "नलगाड",
         "district": "Jajarkot",
         "province": "Karnali",
-        "population2021": 25597,
+        "population": 25597,
         "area": 387.44,
         "website": "https://tribeninalgaadmun.gov.np/"
     },
@@ -1675,7 +1675,7 @@
         "nepali": "नमोबुद्ध",
         "district": "Kavrepalanchok",
         "province": "Bagmati",
-        "population2021": 29519,
+        "population": 29519,
         "area": 102,
         "website": "https://www.namobuddhamun.gov.np/"
     },
@@ -1684,7 +1684,7 @@
         "nepali": "नारायण",
         "district": "Dailekh",
         "province": "Karnali",
-        "population2021": 27037,
+        "population": 27037,
         "area": 110.63,
         "website": "https://narayanmun.gov.np/en"
     },
@@ -1693,7 +1693,7 @@
         "nepali": "निजगढ",
         "district": "Bara",
         "province": "Madhesh",
-        "population2021": 35335,
+        "population": 35335,
         "area": 289.43,
         "website": "https://www.nijgadhmun.gov.np/en"
     },
@@ -1702,7 +1702,7 @@
         "nepali": "निलकण्ठ",
         "district": "Dhading",
         "province": "Bagmati",
-        "population2021": 58515,
+        "population": 58515,
         "area": 197.7,
         "website": "https://www.nilkanthamun.gov.np/en"
     },
@@ -1711,7 +1711,7 @@
         "nepali": "पचरौता",
         "district": "Bara",
         "province": "Madhesh",
-        "population2021": 34175,
+        "population": 34175,
         "area": 44.01,
         "website": "https://www.pachrautamun.gov.np/"
     },
@@ -1720,7 +1720,7 @@
         "nepali": "पाख्रिवास",
         "district": "Dhankuta",
         "province": "Province No. 1",
-        "population2021": 22078,
+        "population": 22078,
         "area": 144.29,
         "website": "https://www.pakhribasmun.gov.np/en"
     },
@@ -1729,7 +1729,7 @@
         "nepali": "पालुङटार",
         "district": "Gorkha",
         "province": "Gandaki",
-        "population2021": 38174,
+        "population": 38174,
         "area": 158.62,
         "website": "https://www.palungtarmun.gov.np/en"
     },
@@ -1738,7 +1738,7 @@
         "nepali": "पञ्चदेवल विनायक",
         "district": "Achham",
         "province": "Sudurpashchim",
-        "population2021": 27485,
+        "population": 27485,
         "area": 147.75,
         "website": "https://www.panchadewalbinayakmun.gov.np/"
     },
@@ -1747,7 +1747,7 @@
         "nepali": "पञ्चपुरी",
         "district": "Surkhet",
         "province": "Karnali",
-        "population2021": 32231,
+        "population": 32231,
         "area": 329.9,
         "website": "https://www.bidehamun.gov.np/"
     },
@@ -1756,7 +1756,7 @@
         "nepali": "पाँचखाल",
         "district": "Kavrepalanchok",
         "province": "Bagmati",
-        "population2021": 37997,
+        "population": 37997,
         "area": 103,
         "website": "https://www.panchkhalmun.gov.np/en"
     },
@@ -1765,7 +1765,7 @@
         "nepali": "पाँचखपन",
         "district": "Sankhuwasabha",
         "province": "Province No. 1",
-        "population2021": 17521,
+        "population": 17521,
         "area": 148.03,
         "website": "https://www.panchkhapanmun.gov.np/"
     },
@@ -1774,7 +1774,7 @@
         "nepali": "परोहा",
         "district": "Rautahat",
         "province": "Madhesh",
-        "population2021": 37453,
+        "population": 37453,
         "area": 37.45,
         "website": "https://www.parohamun.gov.np/"
     },
@@ -1783,7 +1783,7 @@
         "nepali": "पर्सागढी",
         "district": "Parsa",
         "province": "Madhesh",
-        "population2021": 38067,
+        "population": 38067,
         "area": 99.69,
         "website": "https://www.parsagadhimun.gov.np/"
     },
@@ -1792,7 +1792,7 @@
         "nepali": "परशुराम",
         "district": "Dadeldhura",
         "province": "Sudurpashchim",
-        "population2021": 34983,
+        "population": 34983,
         "area": 414.07,
         "website": "https://www.parasurammun.gov.np/en"
     },
@@ -1801,7 +1801,7 @@
         "nepali": "पाटन",
         "district": "Baitadi",
         "province": "Sudurpashchim",
-        "population2021": 30435,
+        "population": 30435,
         "area": 219.26,
         "website": "https://www.patanmun.gov.np/en"
     },
@@ -1810,7 +1810,7 @@
         "nepali": "पथरी शनिश्चरे",
         "district": "Morang",
         "province": "Province No. 1",
-        "population2021": 62440,
+        "population": 62440,
         "area": 79.81,
         "website": "https://www.patharishanishcharemun.gov.np/en"
     },
@@ -1819,7 +1819,7 @@
         "nepali": "पनौती",
         "district": "Kavrepalanchok",
         "province": "Bagmati",
-        "population2021": 46595,
+        "population": 46595,
         "area": 118,
         "website": "https://panautimun.gov.np/en"
     },
@@ -1828,7 +1828,7 @@
         "nepali": "फलेवास",
         "district": "Parbat",
         "province": "Gandaki",
-        "population2021": 24687,
+        "population": 24687,
         "area": 85.7,
         "website": "https://www.phalewasmun.gov.np/"
     },
@@ -1837,7 +1837,7 @@
         "nepali": "फतुवाबिजयपुर",
         "district": "Rautahat",
         "province": "Madhesh",
-        "population2021": 36533,
+        "population": 36533,
         "area": 65.24,
         "website": "https://www.phatuwabijaypurmun.gov.np/"
     },
@@ -1846,7 +1846,7 @@
         "nepali": "फिदिम",
         "district": "Pancthar",
         "province": "Province No. 1",
-        "population2021": 49201,
+        "population": 49201,
         "area": 192.5,
         "website": "https://www.phidimmun.gov.np/en"
     },
@@ -1855,7 +1855,7 @@
         "nepali": "पोखरिया",
         "district": "Parsa",
         "province": "Madhesh",
-        "population2021": 32885,
+        "population": 32885,
         "area": 32.47,
         "website": "https://www.pokhariyamun.gov.np/en"
     },
@@ -1864,7 +1864,7 @@
         "nepali": "पुनर्वास",
         "district": "Kanchanpur",
         "province": "Sudurpashchim",
-        "population2021": 53633,
+        "population": 53633,
         "area": 103.71,
         "website": "https://www.punarbasmun.gov.np/en"
     },
@@ -1873,7 +1873,7 @@
         "nepali": "पुर्चौडी",
         "district": "Baitadi",
         "province": "Sudurpashchim",
-        "population2021": 39174,
+        "population": 39174,
         "area": 198.52,
         "website": "https://www.purchaudimun.gov.np/"
     },
@@ -1882,7 +1882,7 @@
         "nepali": "पुतलीबजार",
         "district": "Syangja",
         "province": "Gandaki",
-        "population2021": 44876,
+        "population": 44876,
         "area": 147.21,
         "website": "https://putalibazarmun.gov.np/en"
     },
@@ -1891,7 +1891,7 @@
         "nepali": "प्यूठान",
         "district": "Pyuthan",
         "province": "Lumbini",
-        "population2021": 38449,
+        "population": 38449,
         "area": 128.96,
         "website": "https://www.pyuthanmun.gov.np/en"
     },
@@ -1900,7 +1900,7 @@
         "nepali": "रार्इनास",
         "district": "Lamjung",
         "province": "Gandaki",
-        "population2021": 18527,
+        "population": 18527,
         "area": 71.97,
         "website": "https://rainasmun.gov.np/en"
     },
@@ -1909,7 +1909,7 @@
         "nepali": "राजापुर",
         "district": "Bardiya",
         "province": "Lumbini",
-        "population2021": 59553,
+        "population": 59553,
         "area": 127.08,
         "website": "https://www.rajapurmun.gov.np/en"
     },
@@ -1918,7 +1918,7 @@
         "nepali": "राजविराज",
         "district": "Saptari",
         "province": "Madhesh",
-        "population2021": 69086,
+        "population": 69086,
         "area": 55.64,
         "website": "https://www.rajbirajmun.gov.np/en"
     },
@@ -1927,7 +1927,7 @@
         "nepali": "राजदेवी",
         "district": "Rautahat",
         "province": "Madhesh",
-        "population2021": 31292,
+        "population": 31292,
         "area": 28.21,
         "website": "https://www.rajdevimun.gov.np/"
     },
@@ -1936,7 +1936,7 @@
         "nepali": "राजपुर",
         "district": "Rautahat",
         "province": "Madhesh",
-        "population2021": 41078,
+        "population": 41078,
         "area": 31.41,
         "website": "https://www.rajpurmunrautahat.gov.np/"
     },
@@ -1945,7 +1945,7 @@
         "nepali": "रामधुनी",
         "district": "Sunsari",
         "province": "Province No. 1",
-        "population2021": 51752,
+        "population": 51752,
         "area": 91.69,
         "website": "https://ramdhunibhasimun.gov.np/en/"
     },
@@ -1954,7 +1954,7 @@
         "nepali": "रामेछाप",
         "district": "Ramechhap",
         "province": "Bagmati",
-        "population2021": 28612,
+        "population": 28612,
         "area": 202.45,
         "website": "https://www.ramechhapmun.gov.np/en"
     },
@@ -1963,7 +1963,7 @@
         "nepali": "रामगोपालपुर",
         "district": "Mahottari",
         "province": "Madhesh",
-        "population2021": 29612,
+        "population": 29612,
         "area": 39.58,
         "website": "https://ramgopalpurmun.gov.np/"
     },
@@ -1972,7 +1972,7 @@
         "nepali": "रामग्राम",
         "district": "Parasi",
         "province": "Lumbini",
-        "population2021": 59455,
+        "population": 59455,
         "area": 128.32,
         "website": "https://ramgrammun.gov.np/en"
     },
@@ -1981,7 +1981,7 @@
         "nepali": "रामपुर",
         "district": "Palpa",
         "province": "Lumbini",
-        "population2021": 35396,
+        "population": 35396,
         "area": 123.34,
         "website": "https://www.rampurmun.gov.np/en"
     },
@@ -1990,7 +1990,7 @@
         "nepali": "रंगेली",
         "district": "Morang",
         "province": "Province No. 1",
-        "population2021": 52013,
+        "population": 52013,
         "area": 111.78,
         "website": "https://www.rangelimun.gov.np/en"
     },
@@ -1999,7 +1999,7 @@
         "nepali": "राप्ती",
         "district": "Chitwan",
         "province": "Bagmati",
-        "population2021": 57107,
+        "population": 57107,
         "area": 212.31,
         "website": "https://raptimun.gov.np/en"
     },
@@ -2008,7 +2008,7 @@
         "nepali": "रास्कोट",
         "district": "Kalikot",
         "province": "Karnali",
-        "population2021": 16272,
+        "population": 16272,
         "area": 59.73,
         "website": "https://raskotmun.gov.np/"
     },
@@ -2017,7 +2017,7 @@
         "nepali": "रत्ननगर",
         "district": "Chitwan",
         "province": "Bagmati",
-        "population2021": 69848,
+        "population": 69848,
         "area": 68.68,
         "website": "https://www.ratnanagarmunicipality.gov.np/"
     },
@@ -2026,7 +2026,7 @@
         "nepali": "रतुवामाई",
         "district": "Morang",
         "province": "Province No. 1",
-        "population2021": 55380,
+        "population": 55380,
         "area": 142.15,
         "website": "https://ratuwamaimun.gov.np/"
     },
@@ -2035,7 +2035,7 @@
         "nepali": "रेसुङ्गा",
         "district": "Gulmi",
         "province": "Lumbini",
-        "population2021": 32545,
+        "population": 32545,
         "area": 83.74,
         "website": "https://www.resungamun.gov.np/en"
     },
@@ -2044,7 +2044,7 @@
         "nepali": "रोल्पा",
         "district": "Rolpa",
         "province": "Lumbini",
-        "population2021": 32759,
+        "population": 32759,
         "area": 270.42,
         "website": "https://www.rolpamun.gov.np/"
     },
@@ -2053,7 +2053,7 @@
         "nepali": "रुपाकोट–मजुवागढी",
         "district": "Khotang",
         "province": "Province No. 1",
-        "population2021": 46903,
+        "population": 46903,
         "area": 246.51,
         "website": "https://www.rupakotmajhuwagadhimun.gov.np/"
     },
@@ -2062,7 +2062,7 @@
         "nepali": "सवैला",
         "district": "Dhanusha",
         "province": "Madhesh",
-        "population2021": 45879,
+        "population": 45879,
         "area": 64.47,
         "website": "https://www.sabailamun.gov.np/en"
     },
@@ -2071,7 +2071,7 @@
         "nepali": "सैनामैना",
         "district": "Rupandehi",
         "province": "Lumbini",
-        "population2021": 55822,
+        "population": 55822,
         "area": 162.18,
         "website": "https://www.sainamainamun.gov.np/en"
     },
@@ -2080,7 +2080,7 @@
         "nepali": "सन्धिखर्क",
         "district": "Arghakhanchi",
         "province": "Lumbini",
-        "population2021": 41079,
+        "population": 41079,
         "area": 129.42,
         "website": "https://sandhikharkamun.gov.np/en"
     },
@@ -2089,7 +2089,7 @@
         "nepali": "साफेबगर",
         "district": "Achham",
         "province": "Sudurpashchim",
-        "population2021": 33788,
+        "population": 33788,
         "area": 166.71,
         "website": "https://www.sanfebagarmun.gov.np/en"
     },
@@ -2098,7 +2098,7 @@
         "nepali": "सप्तकोशी",
         "district": "Saptari",
         "province": "Madhesh",
-        "population2021": 21131,
+        "population": 21131,
         "area": 60.25,
         "website": "https://www.saptakoshimun.gov.np/"
     },
@@ -2107,7 +2107,7 @@
         "nepali": "शारदा",
         "district": "Salyan",
         "province": "Karnali",
-        "population2021": 33730,
+        "population": 33730,
         "area": 198.34,
         "website": "https://www.shaaradamun.gov.np/en"
     },
@@ -2116,7 +2116,7 @@
         "nepali": "षडानन्द",
         "district": "Bhojpur",
         "province": "Province No. 1",
-        "population2021": 31610,
+        "population": 31610,
         "area": 241.15,
         "website": "https://www.shadanandmun.gov.np/en"
     },
@@ -2125,7 +2125,7 @@
         "nepali": "शहिद नगर",
         "district": "Dhanusha",
         "province": "Madhesh",
-        "population2021": 43007,
+        "population": 43007,
         "area": 57.37,
         "website": "https://www.shahidnagarmun.gov.np/"
     },
@@ -2134,7 +2134,7 @@
         "nepali": "शैल्यशिखर",
         "district": "Darchula",
         "province": "Sudurpashchim",
-        "population2021": 22060,
+        "population": 22060,
         "area": 117.81,
         "website": "https://www.shailyashikharmun.gov.np/"
     },
@@ -2143,7 +2143,7 @@
         "nepali": "शम्भुनाथ",
         "district": "Saptari",
         "province": "Madhesh",
-        "population2021": 38018,
+        "population": 38018,
         "area": 108.71,
         "website": "https://www.shambhunathmun.gov.np/"
     },
@@ -2152,7 +2152,7 @@
         "nepali": "शङ्खरापुर",
         "district": "Kathmandu",
         "province": "Bagmati",
-        "population2021": 25338,
+        "population": 25338,
         "area": 60.21,
         "website": "https://www.shankharapurmun.gov.np/en"
     },
@@ -2161,7 +2161,7 @@
         "nepali": "शिखर",
         "district": "Doti",
         "province": "Sudurpashchim",
-        "population2021": 31801,
+        "population": 31801,
         "area": 285.37,
         "website": "https://www.shikharmun.gov.np/"
     },
@@ -2170,7 +2170,7 @@
         "nepali": "शिवराज",
         "district": "Kapilvastu",
         "province": "Lumbini",
-        "population2021": 66781,
+        "population": 66781,
         "area": 284.07,
         "website": "https://www.shivarajmun.gov.np/en"
     },
@@ -2179,7 +2179,7 @@
         "nepali": "शिवसताक्षि",
         "district": "Jhapa",
         "province": "Province No. 1",
-        "population2021": 64596,
+        "population": 64596,
         "area": 145.87,
         "website": "https://www.shivasataximun.gov.np/en"
     },
@@ -2188,7 +2188,7 @@
         "nepali": "शुक्लागण्डकी",
         "district": "Tanahun",
         "province": "Gandaki",
-        "population2021": 48456,
+        "population": 48456,
         "area": 165,
         "website": "https://www.shuklagandakimun.gov.np/en"
     },
@@ -2197,7 +2197,7 @@
         "nepali": "शुक्लाफाँटा",
         "district": "Kanchanpur",
         "province": "Sudurpashchim",
-        "population2021": 46834,
+        "population": 46834,
         "area": 162.57,
         "website": "https://www.shuklaphantamun.gov.np/"
     },
@@ -2206,7 +2206,7 @@
         "nepali": "सिद्धार्थनगर",
         "district": "Rupandehi",
         "province": "Lumbini",
-        "population2021": 63483,
+        "population": 63483,
         "area": 36.03,
         "website": "https://siddharthanagarmun.gov.np/en"
     },
@@ -2215,7 +2215,7 @@
         "nepali": "सिद्दिचरण",
         "district": "Okhaldhunga",
         "province": "Province No. 1",
-        "population2021": 28374,
+        "population": 28374,
         "area": 167.88,
         "website": "https://www.siddhicharanmun.gov.np/en"
     },
@@ -2224,7 +2224,7 @@
         "nepali": "सिम्रोनगढ",
         "district": "Bara",
         "province": "Madhesh",
-        "population2021": 49939,
+        "population": 49939,
         "area": 42.65,
         "website": "https://www.simraungadhmun.gov.np/en"
     },
@@ -2233,7 +2233,7 @@
         "nepali": "सिरहा",
         "district": "Siraha",
         "province": "Madhesh",
-        "population2021": 82531,
+        "population": 82531,
         "area": 94.2,
         "website": "https://sirahamun.gov.np/en"
     },
@@ -2242,7 +2242,7 @@
         "nepali": "सितगंगा",
         "district": "Arghakhanchi",
         "province": "Lumbini",
-        "population2021": 43373,
+        "population": 43373,
         "area": 610.43,
         "website": "https://www.shitagangamun.gov.np/"
     },
@@ -2251,7 +2251,7 @@
         "nepali": "सोलुदुधकुण्ड",
         "district": "Solukhumbu",
         "province": "Province No. 1",
-        "population2021": 20399,
+        "population": 20399,
         "area": 528.09,
         "website": "https://www.solududhkundamun.gov.np/"
     },
@@ -2260,7 +2260,7 @@
         "nepali": "सुखीपुर",
         "district": "Siraha",
         "province": "Madhesh",
-        "population2021": 37592,
+        "population": 37592,
         "area": 54.78,
         "website": "https://www.sukhipurmun.gov.np/"
     },
@@ -2269,7 +2269,7 @@
         "nepali": "सुनवर्षी",
         "district": "Morang",
         "province": "Province No. 1",
-        "population2021": 50758,
+        "population": 50758,
         "area": 106.4,
         "website": "https://sunawarshimun.gov.np/"
     },
@@ -2278,7 +2278,7 @@
         "nepali": "सुन्दरहरैंचा",
         "district": "Morang",
         "province": "Province No. 1",
-        "population2021": 121305,
+        "population": 121305,
         "area": 110.16,
         "website": "https://www.sundardularimun.gov.np/en"
     },
@@ -2287,7 +2287,7 @@
         "nepali": "सुन्दरबजार",
         "district": "Lamjung",
         "province": "Gandaki",
-        "population2021": 26861,
+        "population": 26861,
         "area": 72.05,
         "website": "https://www.sundarbazarmun.gov.np/en"
     },
@@ -2296,7 +2296,7 @@
         "nepali": "सुनवल",
         "district": "Parasi",
         "province": "Lumbini",
-        "population2021": 55424,
+        "population": 55424,
         "area": 139.1,
         "website": "https://www.sunwalmun.gov.np/en"
     },
@@ -2305,7 +2305,7 @@
         "nepali": "सुरुङ्गा",
         "district": "Saptari",
         "province": "Province No. 1",
-        "population2021": 44221,
+        "population": 44221,
         "area": 107.04,
         "website": "https://www.surungamun.gov.np/"
     },
@@ -2314,7 +2314,7 @@
         "nepali": "सूर्यविनायक",
         "district": "Bhaktapur",
         "province": "Bagmati",
-        "population2021": 137971,
+        "population": 137971,
         "area": 42.45,
         "website": "https://www.suryabinayakmun.gov.np/en"
     },
@@ -2323,7 +2323,7 @@
         "nepali": "सूर्योदय",
         "district": "Ilam",
         "province": "Province No. 1",
-        "population2021": 56691,
+        "population": 56691,
         "area": 252.52,
         "website": "https://www.suryodayamun.gov.np/en"
     },
@@ -2332,7 +2332,7 @@
         "nepali": "स्वर्गद्वारी",
         "district": "Pyuthan",
         "province": "Lumbini",
-        "population2021": 30940,
+        "population": 30940,
         "area": 224.7,
         "website": "https://www.swargadwarimun.gov.np/"
     },
@@ -2341,7 +2341,7 @@
         "nepali": "तानसेन",
         "district": "Palpa",
         "province": "Lumbini",
-        "population2021": 50405,
+        "population": 50405,
         "area": 109.8,
         "website": "https://tansenmun.gov.np/en"
     },
@@ -2350,7 +2350,7 @@
         "nepali": "फुङलिङ",
         "district": "Taplejung",
         "province": "Province No. 1",
-        "population2021": 26406,
+        "population": 26406,
         "area": 125.57,
         "website": "https://www.phunglingmun.gov.np/"
     },
@@ -2359,7 +2359,7 @@
         "nepali": "तारकेश्वर",
         "district": "Kathmandu",
         "province": "Bagmati",
-        "population2021": 151508,
+        "population": 151508,
         "area": 54.95,
         "website": "https://www.tarakeshwormun.gov.np/en"
     },
@@ -2368,7 +2368,7 @@
         "nepali": "थाहा",
         "district": "Makawanpur",
         "province": "Bagmati",
-        "population2021": 41623,
+        "population": 41623,
         "area": 191.12,
         "website": "https://www.thahamun.gov.np/en"
     },
@@ -2377,7 +2377,7 @@
         "nepali": "ठाकुरबाबा",
         "district": "Bardiya",
         "province": "Lumbini",
-        "population2021": 44361,
+        "population": 44361,
         "area": 104.57,
         "website": "https://www.thakurbabamun.gov.np/"
     },
@@ -2386,7 +2386,7 @@
         "nepali": "ठूली भेरी",
         "district": "Dolpa",
         "province": "Karnali",
-        "population2021": 8370,
+        "population": 8370,
         "area": 421.34,
         "website": "https://www.thulibherimun.gov.np/"
     },
@@ -2395,7 +2395,7 @@
         "nepali": "टिकापुर",
         "district": "Kailali",
         "province": "Sudurpashchim",
-        "population2021": 90115,
+        "population": 90115,
         "area": 121.92,
         "website": "https://tikapurmun.gov.np/en"
     },
@@ -2404,7 +2404,7 @@
         "nepali": "तिलागुफा",
         "district": "Kalikot",
         "province": "Karnali",
-        "population2021": 15766,
+        "population": 15766,
         "area": 262.56,
         "website": "https://www.tilagufamun.gov.np/"
     },
@@ -2413,7 +2413,7 @@
         "nepali": "तिलोत्तमा",
         "district": "Rupandehi",
         "province": "Lumbini",
-        "population2021": 149657,
+        "population": 149657,
         "area": 126.19,
         "website": "https://www.tilottamamun.gov.np/en"
     },
@@ -2422,7 +2422,7 @@
         "nepali": "टोखा",
         "district": "Kathmandu",
         "province": "Bagmati",
-        "population2021": 135741,
+        "population": 135741,
         "area": 17.11,
         "website": "https://www.tokhamun.gov.np/en"
     },
@@ -2431,7 +2431,7 @@
         "nepali": "त्रिवेणी",
         "district": "Bajura",
         "province": "Sudurpashchim",
-        "population2021": 18363,
+        "population": 18363,
         "area": 170.32,
         "website": "https://trivenimunbajura.gov.np/"
     },
@@ -2440,7 +2440,7 @@
         "nepali": "त्रिपुरासुन्दरी",
         "district": "Dolpa",
         "province": "Karnali",
-        "population2021": 10104,
+        "population": 10104,
         "area": 393.54,
         "website": "https://www.tripurasundarimundolpa.gov.np/"
     },
@@ -2449,7 +2449,7 @@
         "nepali": "त्रियुगा",
         "district": "Udayapur",
         "province": "Province No. 1",
-        "population2021": 104375,
+        "population": 104375,
         "area": 547.43,
         "website": "https://www.triyugamun.gov.np/en"
     },
@@ -2458,7 +2458,7 @@
         "nepali": "उर्लावारी",
         "district": "Morang",
         "province": "Province No. 1",
-        "population2021": 54696,
+        "population": 54696,
         "area": 74.62,
         "website": "https://www.urlabarimun.gov.np/en"
     },
@@ -2467,7 +2467,7 @@
         "nepali": "व्यास",
         "district": "Tanahun",
         "province": "Gandaki",
-        "population2021": 70335,
+        "population": 70335,
         "area": 248,
         "website": "https://vyasmun.gov.np/en"
     },
@@ -2476,7 +2476,7 @@
         "nepali": "वालिङ",
         "district": "Syangja",
         "province": "Gandaki",
-        "population2021": 51143,
+        "population": 51143,
         "area": 128.4,
         "website": "https://walingmun.gov.np/?language=en"
     }

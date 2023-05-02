@@ -1,0 +1,3821 @@
+[
+    {
+        "name": "Aadarsha",
+        "nepali": "आदर्श",
+        "districts": "Doti",
+        "population": 23945,
+        "area": 128.47,
+        "density": 186
+    },
+    {
+        "name": "Aalitaal",
+        "nepali": "आलिताल",
+        "districts": "Dadeldhura",
+        "population": 18531,
+        "area": 292.87,
+        "density": 63
+    },
+    {
+        "name": "Aamachodingmo",
+        "nepali": "आमाछोदिङमो",
+        "districts": "Rasuwa",
+        "population": 5490,
+        "area": 682.23,
+        "density": 8
+    },
+    {
+        "name": "Aamchok",
+        "nepali": "आमचोक",
+        "districts": "Bhojpur",
+        "population": 18720,
+        "area": 184.89,
+        "density": 101,
+        "website": "https://aamchowkmun.gov.np/"
+    },
+    {
+        "name": "Aanbu Khaireni",
+        "nepali": "आँबुखैरेनी",
+        "districts": "Tanahun",
+        "population": 20768,
+        "area": 128,
+        "density": 162,
+        "website": "https://anbukhairenimun.gov.np/"
+    },
+    {
+        "name": "Aandhikhola",
+        "nepali": "आँधीखोला",
+        "districts": "Syangja",
+        "population": 16589,
+        "area": 69.61,
+        "density": 238,
+        "website": "https://aandhikholamun.gov.np/"
+    },
+    {
+        "name": "Aarughat",
+        "nepali": "आरूघाट",
+        "districts": "Gorkha",
+        "population": 23887,
+        "area": 160.79,
+        "density": 149,
+        "website": "https://aarughatmun.gov.np/"
+    },
+    {
+        "name": "Aathrai",
+        "nepali": "आठराई",
+        "districts": "Terhathum",
+        "population": 21747,
+        "area": 167.07,
+        "density": 130,
+        "website": "https://aathraimun.gov.np/"
+    },
+    {
+        "name": "Aathrai Triveni",
+        "nepali": "आठराई त्रिवेणी",
+        "districts": "Taplejung",
+        "population": 13784,
+        "area": 88.83,
+        "density": 155,
+        "website": "https://aathraitribenimun.gov.np/"
+    },
+    {
+        "name": "Adanchuli",
+        "nepali": "अदानचुली",
+        "districts": "Humla",
+        "population": 7116,
+        "area": 150.61,
+        "density": 47
+    },
+    {
+        "name": "Adarsha Kotwal",
+        "nepali": "आदर्श कोतवाल",
+        "districts": "Bara",
+        "population": 27552,
+        "area": 36.25,
+        "density": 760
+    },
+    {
+        "name": "Agnisaira Krishnasavaran",
+        "nepali": "अग्निसाइर कृष्णासवरन",
+        "districts": "Saptari",
+        "population": 27129,
+        "area": 103.08,
+        "density": 263
+    },
+    {
+        "name": "Airawati",
+        "nepali": "ऐरावती",
+        "districts": "Pyuthan",
+        "population": 22392,
+        "area": 156.75,
+        "density": 143
+    },
+    {
+        "name": "Aiselukharka",
+        "nepali": "ऐसेलुखर्क",
+        "districts": "Khotang",
+        "population": 16097,
+        "area": 125.93,
+        "density": 128,
+        "website": "https://aiselukharkamun.gov.np/"
+    },
+    {
+        "name": "Ajaymeru",
+        "nepali": "अजयमेरु",
+        "districts": "Dadeldhura",
+        "population": 7066,
+        "area": 148.9,
+        "density": 47
+    },
+    {
+        "name": "Ajirkot",
+        "nepali": "अजिरकोट",
+        "districts": "Gorkha",
+        "population": 14802,
+        "area": 198.05,
+        "density": 75,
+        "website": "https://ajirkotmun.gov.np/"
+    },
+    {
+        "name": "Annapurna",
+        "nepali": "अन्नपुर्ण",
+        "districts": "Kaski",
+        "population": 23417,
+        "area": 33.33,
+        "density": 703,
+        "website": "https://annapurnamunkaski.gov.np/"
+    },
+    {
+        "name": "Annapurna",
+        "nepali": "अन्नपुर्ण",
+        "districts": "Myagdi",
+        "population": 13315,
+        "area": 556.41,
+        "density": 24,
+        "website": "https://annapurnamunmyagdi.gov.np/"
+    },
+    {
+        "name": "Api Himal",
+        "nepali": "अपि हिमाल",
+        "districts": "Darchula",
+        "population": 6779,
+        "area": 613.95,
+        "density": 11
+    },
+    {
+        "name": "Arjun Chaupari",
+        "nepali": "अर्जुन चौपारी",
+        "districts": "Syangja",
+        "population": 16176,
+        "area": 57.22,
+        "density": 283,
+        "website": "https://arjunchauparimun.gov.np/"
+    },
+    {
+        "name": "Arnama",
+        "nepali": "अर्नमा",
+        "districts": "Siraha",
+        "population": 22912,
+        "area": 37.76,
+        "density": 607
+    },
+    {
+        "name": "Arun",
+        "nepali": "अरुण",
+        "districts": "Bhojpur",
+        "population": 17687,
+        "area": 154.76,
+        "density": 114,
+        "website": "https://arunmun.gov.np/"
+    },
+    {
+        "name": "Aurahi",
+        "nepali": "औरही",
+        "districts": "Dhanusha",
+        "population": 22578,
+        "area": 25.56,
+        "density": 883
+    },
+    {
+        "name": "Aurahi",
+        "nepali": "औरही",
+        "districts": "Siraha",
+        "population": 23046,
+        "area": 35.87,
+        "density": 642
+    },
+    {
+        "name": "Babai",
+        "nepali": "बबई",
+        "districts": "Dang",
+        "population": 27469,
+        "area": 257.48,
+        "density": 107
+    },
+    {
+        "name": "Badhaiyatal",
+        "nepali": "बढैयाताल",
+        "districts": "Bardiya",
+        "population": 47868,
+        "area": 115.19,
+        "density": 416
+    },
+    {
+        "name": "Badigad",
+        "nepali": "वडिगाड",
+        "districts": "Baglung",
+        "population": 30906,
+        "area": 178.68,
+        "density": 173,
+        "website": "https://badigadmun.gov.np/"
+    },
+    {
+        "name": "Badikedar",
+        "nepali": "बड्डी केदार",
+        "districts": "Doti",
+        "population": 16720,
+        "area": 332.55,
+        "density": 50
+    },
+    {
+        "name": "Bagmati",
+        "nepali": "बाग्मती",
+        "districts": "Lalitpur",
+        "population": 13049,
+        "area": 111.49,
+        "density": 117
+    },
+    {
+        "name": "Bagmati",
+        "nepali": "बाग्मती",
+        "districts": "Makwanpur",
+        "population": 30495,
+        "area": 311.79,
+        "density": 98
+    },
+    {
+        "name": "Bagnaskali",
+        "nepali": "वगनासकाली",
+        "districts": "Palpa",
+        "population": 21361,
+        "area": 84.17,
+        "density": 254
+    },
+    {
+        "name": "Baijanath",
+        "nepali": "वैजनाथ",
+        "districts": "Banke",
+        "population": 54418,
+        "area": 141.67,
+        "density": 384
+    },
+    {
+        "name": "Baiteshwar",
+        "nepali": "वैतेश्वर",
+        "districts": "Dolakha",
+        "population": 19876,
+        "area": 80.41,
+        "density": 247
+    },
+    {
+        "name": "Bakaiya",
+        "nepali": "बकैया",
+        "districts": "Makwanpur",
+        "population": 39620,
+        "area": 393.75,
+        "density": 101
+    },
+    {
+        "name": "Balan-Bihul",
+        "nepali": "बलान-बिहुल",
+        "districts": "Saptari",
+        "population": 26068,
+        "area": 33.04,
+        "density": 789
+    },
+    {
+        "name": "Balephi",
+        "nepali": "बलेफी",
+        "districts": "Sindhupalchok",
+        "population": 18909,
+        "area": 61.6,
+        "density": 307
+    },
+    {
+        "name": "Bandipur",
+        "nepali": "बन्दिपुर",
+        "districts": "Tanahun",
+        "population": 20013,
+        "area": 102,
+        "density": 196,
+        "website": "https://ghiringmun.gov.np/"
+    },
+    {
+        "name": "Banglachuli",
+        "nepali": "वंगलाचुली",
+        "districts": "Dang",
+        "population": 24245,
+        "area": 245.14,
+        "density": 99
+    },
+    {
+        "name": "Bannigadi Jayagad",
+        "nepali": "बान्नीगडीजैगड",
+        "districts": "Achham",
+        "population": 17359,
+        "area": 58.26,
+        "density": 298
+    },
+    {
+        "name": "Banphikot",
+        "nepali": "बाँफिकोट",
+        "districts": "Western Rukum",
+        "population": 18696,
+        "area": 190.42,
+        "density": 98
+    },
+    {
+        "name": "Baragadhi",
+        "nepali": "बारागढी",
+        "districts": "Bara",
+        "population": 27191,
+        "area": 39.29,
+        "density": 692
+    },
+    {
+        "name": "Baragung Muktichhetra",
+        "nepali": "बारागुङ मुक्तिक्षेत्र",
+        "districts": "Mustang",
+        "population": 2330,
+        "area": 886,
+        "density": 3,
+        "website": "https://varagungmuktichhetramun.gov.np/"
+    },
+    {
+        "name": "Barahatal",
+        "nepali": "बराहताल",
+        "districts": "Surkhet",
+        "population": 26802,
+        "area": 455.09,
+        "density": 59
+    },
+    {
+        "name": "Barahpokhari",
+        "nepali": "बराहपोखरी",
+        "districts": "Khotang",
+        "population": 14349,
+        "area": 141.57,
+        "density": 101,
+        "website": "https://barahapokharimun.gov.np/"
+    },
+    {
+        "name": "Bardagoriya",
+        "nepali": "बर्गगोरिया",
+        "districts": "Kailali",
+        "population": 32683,
+        "area": 77.26,
+        "density": 423
+    },
+    {
+        "name": "Barekot",
+        "nepali": "बारेकोट",
+        "districts": "Jajarkot",
+        "population": 18083,
+        "area": 577.5,
+        "density": 31
+    },
+    {
+        "name": "Bareng",
+        "nepali": "वरेङ",
+        "districts": "Baglung",
+        "population": 14492,
+        "area": 75.28,
+        "density": 193,
+        "website": "https://barengmun.gov.np/"
+    },
+    {
+        "name": "Barhadashi",
+        "nepali": "बाह्रदशी",
+        "districts": "Jhapa",
+        "population": 33653,
+        "area": 88.44,
+        "density": 381,
+        "website": "https://bahradashimun.gov.np/"
+    },
+    {
+        "name": "Bariyarpatti",
+        "nepali": "बरियारपट्टी",
+        "districts": "Siraha",
+        "population": 25256,
+        "area": 37.72,
+        "density": 670
+    },
+    {
+        "name": "Barju",
+        "nepali": "बर्जु",
+        "districts": "Sunsari",
+        "population": 31178,
+        "area": 69.43,
+        "density": 449,
+        "website": "https://barjumun.gov.np/"
+    },
+    {
+        "name": "Barpak Sulikot",
+        "nepali": "बारपाक सुलीकोट",
+        "districts": "Gorkha",
+        "population": 25389,
+        "area": 200.63,
+        "density": 127,
+        "website": "https://www.sulikotmun.gov.np/"
+    },
+    {
+        "name": "Basbariya",
+        "nepali": "बसबरिया",
+        "districts": "Sarlahi",
+        "population": 23568,
+        "area": 29.42,
+        "density": 801
+    },
+    {
+        "name": "Bateshwar",
+        "nepali": "बटेश्वर",
+        "districts": "Dhanusha",
+        "population": 21530,
+        "area": 31.66,
+        "density": 680
+    },
+    {
+        "name": "Baudikali",
+        "nepali": "बौदीकाली",
+        "districts": "Nawalpur",
+        "population": 15734,
+        "area": 91.87,
+        "density": 171,
+        "website": "https://bungdikalimun.gov.np/"
+    },
+    {
+        "name": "Beldandi",
+        "nepali": "बेलडाँडी",
+        "districts": "Kanchanpur",
+        "population": 21949,
+        "area": 36.7,
+        "density": 598
+    },
+    {
+        "name": "Benighat Rorang",
+        "nepali": "बेनीघाट रोराङ्ग",
+        "districts": "Dhading",
+        "population": 31475,
+        "area": 29.17,
+        "density": 1079
+    },
+    {
+        "name": "Bethanchok",
+        "nepali": "बेथानचोक",
+        "districts": "Kavrepalanchok",
+        "population": 16777,
+        "area": 101,
+        "density": 166
+    },
+    {
+        "name": "Bhagawatimai",
+        "nepali": "भगवतीमाई",
+        "districts": "Dailekh",
+        "population": 18778,
+        "area": 151.52,
+        "density": 124
+    },
+    {
+        "name": "Bhageshwar",
+        "nepali": "भागेश्वर",
+        "districts": "Dadeldhura",
+        "population": 14129,
+        "area": 233.38,
+        "density": 61
+    },
+    {
+        "name": "Bhagwanpur",
+        "nepali": "भगवानपुर",
+        "districts": "Siraha",
+        "population": 20957,
+        "area": 33.03,
+        "density": 634
+    },
+    {
+        "name": "Bhairabi",
+        "nepali": "भैरवी",
+        "districts": "Dailekh",
+        "population": 21233,
+        "area": 110.46,
+        "density": 192
+    },
+    {
+        "name": "Bhimphedi",
+        "nepali": "भीमफेदी",
+        "districts": "Makwanpur",
+        "population": 23344,
+        "area": 245.27,
+        "density": 95
+    },
+    {
+        "name": "Bhimsen Thapa",
+        "nepali": "भिमसेनथापा",
+        "districts": "Gorkha",
+        "population": 22033,
+        "area": 101.25,
+        "density": 218,
+        "website": "https://bhimsenmun.gov.np/"
+    },
+    {
+        "name": "Bhokraha",
+        "nepali": "भोक्राहा",
+        "districts": "Sunsari",
+        "population": 40509,
+        "area": 63.37,
+        "density": 639,
+        "website": "https://bhokrahamun.gov.np/"
+    },
+    {
+        "name": "Bhot Khola",
+        "nepali": "भोटखोला",
+        "districts": "Sankhuwasabha",
+        "population": 6576,
+        "area": 639.01,
+        "density": 10,
+        "website": "https://bhotkholamun.gov.np/"
+    },
+    {
+        "name": "Bhotekoshi",
+        "nepali": "भोटेकोशी",
+        "districts": "Sindhupalchok",
+        "population": 17156,
+        "area": 278.31,
+        "density": 62
+    },
+    {
+        "name": "Bhume",
+        "nepali": "भूमे",
+        "districts": "Eastern Rukum",
+        "population": 18589,
+        "area": 273.67,
+        "density": 68
+    },
+    {
+        "name": "Bhumlu",
+        "nepali": "भुम्लु",
+        "districts": "Kavrepalanchok",
+        "population": 18916,
+        "area": 91,
+        "density": 208
+    },
+    {
+        "name": "Bigu",
+        "nepali": "विगु",
+        "districts": "Dolakha",
+        "population": 18449,
+        "area": 663.2,
+        "density": 28
+    },
+    {
+        "name": "Bihadi",
+        "nepali": "विहादी",
+        "districts": "Parbat",
+        "population": 13403,
+        "area": 44.8,
+        "density": 299
+    },
+    {
+        "name": "Bijaynagar",
+        "nepali": "विजयनगर",
+        "districts": "Kapilvastu",
+        "population": 36937,
+        "area": 173.19,
+        "density": 213
+    },
+    {
+        "name": "Binayi Triveni",
+        "nepali": "विनयी त्रिवेणी",
+        "districts": "Nawalpur",
+        "population": 25036,
+        "area": 267.13,
+        "density": 94,
+        "website": "https://binayitribenimun.gov.np/"
+    },
+    {
+        "name": "Bindabasini",
+        "nepali": "बिन्दबासिनी",
+        "districts": "Parsa",
+        "population": 24468,
+        "area": 26.04,
+        "density": 940
+    },
+    {
+        "name": "Biruwa",
+        "nepali": "विरुवा",
+        "districts": "Syangja",
+        "population": 18413,
+        "area": 95.79,
+        "density": 192,
+        "website": "https://biruwamun.gov.np/"
+    },
+    {
+        "name": "Bishnu",
+        "nepali": "विष्णु",
+        "districts": "Sarlahi",
+        "population": 24748,
+        "area": 28.09,
+        "density": 881
+    },
+    {
+        "name": "Bishnupur",
+        "nepali": "बिष्णुपुर",
+        "districts": "Saptari",
+        "population": 23035,
+        "area": 37,
+        "density": 623
+    },
+    {
+        "name": "Bishnupur",
+        "nepali": "विष्णुपुर",
+        "districts": "Siraha",
+        "population": 18522,
+        "area": 26.34,
+        "density": 703
+    },
+    {
+        "name": "Bishrampur",
+        "nepali": "विश्रामपुर",
+        "districts": "Bara",
+        "population": 23785,
+        "area": 19.81,
+        "density": 1201
+    },
+    {
+        "name": "Bitthadchir",
+        "nepali": "बित्थडचिर",
+        "districts": "Bajhang",
+        "population": 17154,
+        "area": 86.15,
+        "density": 199
+    },
+    {
+        "name": "Bogatan-Phudsil",
+        "nepali": "वोगटान–फुड्सिल",
+        "districts": "Doti",
+        "population": 17902,
+        "area": 300.22,
+        "density": 60
+    },
+    {
+        "name": "Brahampuri",
+        "nepali": "ब्रह्मपुरी",
+        "districts": "Sarlahi",
+        "population": 29832,
+        "area": 33.89,
+        "density": 880
+    },
+    {
+        "name": "Buddha Shanti",
+        "nepali": "बुद्धशान्ति",
+        "districts": "Jhapa",
+        "population": 41615,
+        "area": 79.78,
+        "density": 522,
+        "website": "https://buddhashantimun.gov.np/"
+    },
+    {
+        "name": "Budi Ganga",
+        "nepali": "बुढीगंगा",
+        "districts": "Morang",
+        "population": 41586,
+        "area": 56.41,
+        "density": 737,
+        "website": "https://budhigangamunmorang.gov.np/"
+    },
+    {
+        "name": "Bulingtar",
+        "nepali": "बुलिङटार",
+        "districts": "Nawalpur",
+        "population": 19122,
+        "area": 147.68,
+        "density": 129,
+        "website": "https://bulingtarmun.gov.np/"
+    },
+    {
+        "name": "Chakraghatta",
+        "nepali": "चक्रघट्टा",
+        "districts": "Sarlahi",
+        "population": 27952,
+        "area": 25.16,
+        "density": 1111
+    },
+    {
+        "name": "Chame",
+        "nepali": "चामे",
+        "districts": "Manang",
+        "population": 1129,
+        "area": 78.86,
+        "density": 14,
+        "website": "https://chamemun.gov.np/"
+    },
+    {
+        "name": "Champadevi",
+        "nepali": "चम्पादेवी",
+        "districts": "Okhaldhunga",
+        "population": 18613,
+        "area": 126.91,
+        "density": 147,
+        "website": "https://champadevimun.gov.np/"
+    },
+    {
+        "name": "Chandrakot",
+        "nepali": "चन्द्रकोट",
+        "districts": "Gulmi",
+        "population": 21827,
+        "area": 105.73,
+        "density": 206
+    },
+    {
+        "name": "Chandranagar",
+        "nepali": "चन्द्रनगर",
+        "districts": "Sarlahi",
+        "population": 33328,
+        "area": 47.5,
+        "density": 702
+    },
+    {
+        "name": "Chankheli",
+        "nepali": "चंखेली",
+        "districts": "Humla",
+        "population": 5517,
+        "area": 1310.41,
+        "density": 4
+    },
+    {
+        "name": "Chaubise",
+        "nepali": "चौविसे",
+        "districts": "Dhankuta",
+        "population": 19283,
+        "area": 147.6,
+        "density": 131,
+        "website": "https://choubisemun.gov.np/"
+    },
+    {
+        "name": "Chaukune",
+        "nepali": "चौकुने",
+        "districts": "Surkhet",
+        "population": 25240,
+        "area": 381.01,
+        "density": 66
+    },
+    {
+        "name": "Chaunri Deurali",
+        "nepali": "चौंरी देउराली",
+        "districts": "Kavrepalanchok",
+        "population": 20829,
+        "area": 98,
+        "density": 213
+    },
+    {
+        "name": "Chaurpati",
+        "nepali": "चौरपाटी",
+        "districts": "Achham",
+        "population": 25149,
+        "area": 182.16,
+        "density": 138
+    },
+    {
+        "name": "Chhabis Pathibhera",
+        "nepali": "छब्बीसपाथिभेरा",
+        "districts": "Bajhang",
+        "population": 16296,
+        "area": 116.34,
+        "density": 140
+    },
+    {
+        "name": "Chharka Tangsong",
+        "nepali": "छार्का ताङसोङ",
+        "districts": "Dolpa",
+        "population": 1451,
+        "area": 345.57,
+        "density": 4
+    },
+    {
+        "name": "Chhathar",
+        "nepali": "छथर",
+        "districts": "Terhathum",
+        "population": 16715,
+        "area": 133.93,
+        "density": 125,
+        "website": "https://chhatharmun.gov.np/"
+    },
+    {
+        "name": "Chhathar Jorpati",
+        "nepali": "छथर जोरपाटी",
+        "districts": "Dhankuta",
+        "population": 18322,
+        "area": 102.83,
+        "density": 178,
+        "website": "https://chhatharjorpatimun.gov.np/"
+    },
+    {
+        "name": "Chhatradev",
+        "nepali": "छत्रदेव",
+        "districts": "Arghakhanchi",
+        "population": 25336,
+        "area": 87.62,
+        "density": 289
+    },
+    {
+        "name": "Chhatrakot",
+        "nepali": "छत्रकोट",
+        "districts": "Gulmi",
+        "population": 21481,
+        "area": 87.01,
+        "density": 247
+    },
+    {
+        "name": "Chhatreshwari",
+        "nepali": "छत्रेश्वरी",
+        "districts": "Salyan",
+        "population": 21452,
+        "area": 150.69,
+        "density": 142
+    },
+    {
+        "name": "Chhinnamasta",
+        "nepali": "छिन्नमस्ता",
+        "districts": "Saptari",
+        "population": 28370,
+        "area": 38.71,
+        "density": 733
+    },
+    {
+        "name": "Chhipahrmai",
+        "nepali": "छिपहरमाई",
+        "districts": "Parsa",
+        "population": 26671,
+        "area": 24.9,
+        "density": 1071
+    },
+    {
+        "name": "Chichila",
+        "nepali": "चिचिला",
+        "districts": "Sankhuwasabha",
+        "population": 7065,
+        "area": 88.63,
+        "density": 80,
+        "website": "https://chichilamun.gov.np/"
+    },
+    {
+        "name": "Chingad",
+        "nepali": "चिङ्गाड",
+        "districts": "Surkhet",
+        "population": 17275,
+        "area": 170.19,
+        "density": 102
+    },
+    {
+        "name": "Chisankhugadhi",
+        "nepali": "चिसंखुगढी",
+        "districts": "Okhaldhunga",
+        "population": 15196,
+        "area": 126.91,
+        "density": 120,
+        "website": "https://chishankhugadhimun.gov.np/"
+    },
+    {
+        "name": "Chulachuli",
+        "nepali": "चुलाचुली",
+        "districts": "Ilam",
+        "population": 20820,
+        "area": 108.46,
+        "density": 192,
+        "website": "https://chulachulimun.gov.np/"
+    },
+    {
+        "name": "Chure",
+        "nepali": "चुरे",
+        "districts": "Kailali",
+        "population": 18924,
+        "area": 493.18,
+        "density": 38
+    },
+    {
+        "name": "Dangisharan",
+        "nepali": "दंगीशरण",
+        "districts": "Dang",
+        "population": 21484,
+        "area": 110.7,
+        "density": 194
+    },
+    {
+        "name": "Darma",
+        "nepali": "दार्मा",
+        "districts": "Salyan",
+        "population": 19966,
+        "area": 81.46,
+        "density": 245
+    },
+    {
+        "name": "Devghat",
+        "nepali": "देवघाट",
+        "districts": "Tanahun",
+        "population": 16131,
+        "area": 159,
+        "density": 101,
+        "website": "https://devghatmun.gov.np/"
+    },
+    {
+        "name": "Devtal",
+        "nepali": "देवताल",
+        "districts": "Bara",
+        "population": 23223,
+        "area": 23.31,
+        "density": 996
+    },
+    {
+        "name": "Dewanganj",
+        "nepali": "देवानगन्ज",
+        "districts": "Sunsari",
+        "population": 35073,
+        "area": 53.56,
+        "density": 655,
+        "website": "https://dewanganjmun.gov.np/"
+    },
+    {
+        "name": "Dhanauji",
+        "nepali": "धनौजी",
+        "districts": "Dhanusha",
+        "population": 21395,
+        "area": 22.13,
+        "density": 967
+    },
+    {
+        "name": "Dhankari",
+        "nepali": "ढँकारी",
+        "districts": "Achham",
+        "population": 21562,
+        "area": 227.88,
+        "density": 95
+    },
+    {
+        "name": "Dhankaul",
+        "nepali": "धनकौल",
+        "districts": "Sarlahi",
+        "population": 24788,
+        "area": 45.94,
+        "density": 540
+    },
+    {
+        "name": "Dhanpalthan",
+        "nepali": "धनपालथान",
+        "districts": "Morang",
+        "population": 39394,
+        "area": 70.26,
+        "density": 561,
+        "website": "https://dhanapalthanmun.gov.np/"
+    },
+    {
+        "name": "Dharche",
+        "nepali": "धार्चे",
+        "districts": "Gorkha",
+        "population": 13229,
+        "area": 651.52,
+        "density": 20
+    },
+    {
+        "name": "Dhaulagiri",
+        "nepali": "धवलागिरी",
+        "districts": "Myagdi",
+        "population": 14104,
+        "area": 1037,
+        "density": 14,
+        "website": "https://dhawalagirimun.gov.np/"
+    },
+    {
+        "name": "Dhobini",
+        "nepali": "धोबीनी",
+        "districts": "Parsa",
+        "population": 19911,
+        "area": 24.41,
+        "density": 816
+    },
+    {
+        "name": "Dhurkot",
+        "nepali": "धुर्कोट",
+        "districts": "Gulmi",
+        "population": 22454,
+        "area": 86.32,
+        "density": 260
+    },
+    {
+        "name": "Dilashaini",
+        "nepali": "डिलाशैनी",
+        "districts": "Baitadi",
+        "population": 22924,
+        "area": 125.28,
+        "density": 183
+    },
+    {
+        "name": "Diprung",
+        "nepali": "दिप्रुङ",
+        "districts": "Khotang",
+        "population": 20175,
+        "area": 136.59,
+        "density": 148,
+        "website": "https://diprungmun.gov.np/"
+    },
+    {
+        "name": "Dogdakedar",
+        "nepali": "दोगडाकेदार",
+        "districts": "Baitadi",
+        "population": 24632,
+        "area": 126.38,
+        "density": 195
+    },
+    {
+        "name": "Dolpo Buddha",
+        "nepali": "डोल्पो बुद्ध",
+        "districts": "Dolpa",
+        "population": 2126,
+        "area": 377.38,
+        "density": 6
+    },
+    {
+        "name": "Doramba",
+        "nepali": "दोरम्बा",
+        "districts": "Ramechhap",
+        "population": 22738,
+        "area": 140.88,
+        "density": 161
+    },
+    {
+        "name": "Dordi",
+        "nepali": "दोर्दी",
+        "districts": "Lamjung",
+        "population": 18392,
+        "area": 350.93,
+        "density": 52,
+        "website": "https://dordimun.gov.np/"
+    },
+    {
+        "name": "Dudhpokhari",
+        "nepali": "दूधपोखरी",
+        "districts": "Lamjung",
+        "population": 10975,
+        "area": 153.33,
+        "density": 72,
+        "website": "https://dudhpokharimun.gov.np/"
+    },
+    {
+        "name": "Duduwa",
+        "nepali": "डुडुवा",
+        "districts": "Banke",
+        "population": 37460,
+        "area": 91.1,
+        "density": 411
+    },
+    {
+        "name": "Duhun Rural Municipality",
+        "nepali": "दुहु",
+        "districts": "Darchula",
+        "population": 10818,
+        "area": 65.35,
+        "density": 166
+    },
+    {
+        "name": "Dungeshwar",
+        "nepali": "डुंगेश्वर",
+        "districts": "Dailekh",
+        "population": 15883,
+        "area": 105.19,
+        "density": 151
+    },
+    {
+        "name": "Dupcheshwar",
+        "nepali": "दुप्चेश्वर",
+        "districts": "Nuwakot",
+        "population": 22106,
+        "area": 131.62,
+        "density": 168
+    },
+    {
+        "name": "Durga Bhagawati",
+        "nepali": "दुर्गा भगवती",
+        "districts": "Rautahat",
+        "population": 22599,
+        "area": 19.8,
+        "density": 1141
+    },
+    {
+        "name": "Durgathali",
+        "nepali": "दुर्गाथली",
+        "districts": "Bajhang",
+        "population": 12972,
+        "area": 61.83,
+        "density": 210
+    },
+    {
+        "name": "Ekdara",
+        "nepali": "एकडारा",
+        "districts": "Mahottari",
+        "population": 29315,
+        "area": 24,
+        "density": 1221
+    },
+    {
+        "name": "Gadhawa",
+        "nepali": "गढवा",
+        "districts": "Dang",
+        "population": 38592,
+        "area": 358.57,
+        "density": 108
+    },
+    {
+        "name": "Gadhi",
+        "nepali": "गढी",
+        "districts": "Sunsari",
+        "population": 34852,
+        "area": 67.7,
+        "density": 515,
+        "website": "https://gadhimun.gov.np/"
+    },
+    {
+        "name": "Gaidhawa",
+        "nepali": "गैडहवा",
+        "districts": "Rupandehi",
+        "population": 47565,
+        "area": 96.79,
+        "density": 491
+    },
+    {
+        "name": "Gajuri",
+        "nepali": "गजुरी",
+        "districts": "Dhading",
+        "population": 27084,
+        "area": 138.66,
+        "density": 195
+    },
+    {
+        "name": "Galchhi",
+        "nepali": "गल्छी",
+        "districts": "Dhading",
+        "population": 27784,
+        "area": 129.08,
+        "density": 215
+    },
+    {
+        "name": "Gandaki",
+        "nepali": "गण्डकी",
+        "districts": "Gorkha",
+        "population": 23253,
+        "area": 123.86,
+        "density": 188
+    },
+    {
+        "name": "Gangadev",
+        "nepali": "गंगादेव",
+        "districts": "Rolpa",
+        "population": 20009,
+        "area": 124.38,
+        "density": 161
+    },
+    {
+        "name": "Gangajamuna",
+        "nepali": "गङ्गाजमुना",
+        "districts": "Dhading",
+        "population": 21784,
+        "area": 152.72,
+        "density": 143
+    },
+    {
+        "name": "Ganyapadhura",
+        "nepali": "गन्यापधुरा",
+        "districts": "Dadeldhura",
+        "population": 15093,
+        "area": 135.65,
+        "density": 111
+    },
+    {
+        "name": "Gaumukhi",
+        "nepali": "गौमुखी",
+        "districts": "Pyuthan",
+        "population": 25421,
+        "area": 139.04,
+        "density": 183
+    },
+    {
+        "name": "Gaumul",
+        "nepali": "गौमुल",
+        "districts": "Bajura",
+        "population": 8515,
+        "area": 314.66,
+        "density": 27
+    },
+    {
+        "name": "Gaurigunj",
+        "nepali": "गौरीगंज",
+        "districts": "Jhapa",
+        "population": 33038,
+        "area": 101.35,
+        "density": 326,
+        "website": "https://gaurigunjmun.gov.np/"
+    },
+    {
+        "name": "Gaurishankar",
+        "nepali": "गौरिशंकर",
+        "districts": "Dolakha",
+        "population": 17062,
+        "area": 681.39,
+        "density": 25
+    },
+    {
+        "name": "Geruwa",
+        "nepali": "गेरुवा",
+        "districts": "Bardiya",
+        "population": 34871,
+        "area": 78.41,
+        "density": 445
+    },
+    {
+        "name": "Gharapjhong",
+        "nepali": "घरपझोङ",
+        "districts": "Mustang",
+        "population": 3029,
+        "area": 316,
+        "density": 10,
+        "website": "https://gharapjhongmun.gov.np/"
+    },
+    {
+        "name": "Ghiring",
+        "nepali": "घिरिङ",
+        "districts": "Tanahun",
+        "population": 19318,
+        "area": 126,
+        "density": 153,
+        "website": "https://ghiringmun.gov.np/"
+    },
+    {
+        "name": "Ghyanglekh",
+        "nepali": "घ्याङलेख",
+        "districts": "Sindhuli",
+        "population": 13661,
+        "area": 166.77,
+        "density": 82
+    },
+    {
+        "name": "Gokulganga",
+        "nepali": "गोकुलगङ्गा",
+        "districts": "Ramechhap",
+        "population": 20058,
+        "area": 198.4,
+        "density": 101
+    },
+    {
+        "name": "Golanjor",
+        "nepali": "गोलन्जोर",
+        "districts": "Sindhuli",
+        "population": 19329,
+        "area": 184.13,
+        "density": 105
+    },
+    {
+        "name": "Gosaikund",
+        "nepali": "गोसाईकुण्ड",
+        "districts": "Rasuwa",
+        "population": 7143,
+        "area": 978.77,
+        "density": 7
+    },
+    {
+        "name": "Gramthan",
+        "nepali": "ग्रामथान",
+        "districts": "Morang",
+        "population": 32717,
+        "area": 71.84,
+        "density": 455,
+        "website": "https://gramthanmun.gov.np/"
+    },
+    {
+        "name": "Gulmi Darbar",
+        "nepali": "गुल्मीदरवार",
+        "districts": "Gulmi",
+        "population": 22037,
+        "area": 79.99,
+        "density": 275
+    },
+    {
+        "name": "Gurans",
+        "nepali": "गुराँस",
+        "districts": "Dailekh",
+        "population": 22033,
+        "area": 164.79,
+        "density": 134
+    },
+    {
+        "name": "Guthichaur",
+        "nepali": "गुठिचौर",
+        "districts": "Jumla",
+        "population": 9870,
+        "area": 427,
+        "density": 23
+    },
+    {
+        "name": "Haldibari",
+        "nepali": "हल्दीवारी",
+        "districts": "Jhapa",
+        "population": 29223,
+        "area": 117.34,
+        "density": 249,
+        "website": "https://haldibarimun.gov.np/"
+    },
+    {
+        "name": "Hariharpurgadhi",
+        "nepali": "हरिहरपुरगढी",
+        "districts": "Sindhuli",
+        "population": 27727,
+        "area": 343.9,
+        "density": 81
+    },
+    {
+        "name": "Harinagara",
+        "nepali": "हरिनगरा",
+        "districts": "Sunsari",
+        "population": 40846,
+        "area": 52.29,
+        "density": 781,
+        "website": "https://harinagaramun.gov.np/"
+    },
+    {
+        "name": "Harinas",
+        "nepali": "हरीनास",
+        "districts": "Syangja",
+        "population": 17343,
+        "area": 87.48,
+        "density": 198,
+        "website": "https://harinasmun.gov.np/"
+    },
+    {
+        "name": "Hatuwagadhi",
+        "nepali": "हतुवागढी",
+        "districts": "Bhojpur",
+        "population": 20404,
+        "area": 142.61,
+        "density": 143,
+        "website": "https://hatuwagadhimun.gov.np/"
+    },
+    {
+        "name": "Helambu",
+        "nepali": "हेलम्बु",
+        "districts": "Sindhupalchok",
+        "population": 17671,
+        "area": 287.26,
+        "density": 62
+    },
+    {
+        "name": "Hilihang",
+        "nepali": "हिलिहाङ",
+        "districts": "Panchthar",
+        "population": 22913,
+        "area": 123.01,
+        "density": 186,
+        "website": "https://hilihangmun.gov.np/"
+    },
+    {
+        "name": "Hima",
+        "nepali": "हिमा",
+        "districts": "Jumla",
+        "population": 10961,
+        "area": 132.32,
+        "density": 83
+    },
+    {
+        "name": "Himali",
+        "nepali": "हिमाली",
+        "districts": "Bajura",
+        "population": 9214,
+        "area": 830.33,
+        "density": 11
+    },
+    {
+        "name": "Hupsekot",
+        "nepali": "हुप्सेकोट",
+        "districts": "Nawalpur",
+        "population": 25065,
+        "area": 189.21,
+        "density": 132,
+        "website": "https://hupsekotmun.gov.np/"
+    },
+    {
+        "name": "Ichchhakamana",
+        "nepali": "इच्छाकामना",
+        "districts": "Chitwan",
+        "population": 25012,
+        "area": 166.73,
+        "density": 150
+    },
+    {
+        "name": "Indrasarowar",
+        "nepali": "ईन्द्र सरोवर",
+        "districts": "Makwanpur",
+        "population": 17585,
+        "area": 97.34,
+        "density": 181
+    },
+    {
+        "name": "Indrawati",
+        "nepali": "ईन्द्रावती",
+        "districts": "Sindhupalchok",
+        "population": 28517,
+        "area": 105.09,
+        "density": 271
+    },
+    {
+        "name": "Isma",
+        "nepali": "ईस्मा",
+        "districts": "Gulmi",
+        "population": 20964,
+        "area": 81.88,
+        "density": 256
+    },
+    {
+        "name": "Jagadulla",
+        "nepali": "जगदुल्ला",
+        "districts": "Dolpa",
+        "population": 2273,
+        "area": 83.3,
+        "density": 27
+    },
+    {
+        "name": "Jagannath",
+        "nepali": "जगन्नाथ",
+        "districts": "Bajura",
+        "population": 9432,
+        "area": 171.72,
+        "density": 55
+    },
+    {
+        "name": "Jagarnathpur",
+        "nepali": "जगरनाथपुर",
+        "districts": "Parsa",
+        "population": 31591,
+        "area": 45.29,
+        "density": 698
+    },
+    {
+        "name": "Jahada",
+        "nepali": "जहदा",
+        "districts": "Morang",
+        "population": 41819,
+        "area": 62.38,
+        "density": 670,
+        "website": "https://jahadamun.gov.np/"
+    },
+    {
+        "name": "Jaljala",
+        "nepali": "जलजला",
+        "districts": "Parbat",
+        "population": 21454,
+        "area": 82.26,
+        "density": 261,
+        "website": "https://jaljalamun.gov.np/"
+    },
+    {
+        "name": "Janaki",
+        "nepali": "जानकी",
+        "districts": "Banke",
+        "population": 37830,
+        "area": 63.32,
+        "density": 597
+    },
+    {
+        "name": "Janaki",
+        "nepali": "जानकी",
+        "districts": "Kailali",
+        "population": 48540,
+        "area": 107.27,
+        "density": 453
+    },
+    {
+        "name": "Janaknandini",
+        "nepali": "जनकनन्दिनी",
+        "districts": "Dhanusha",
+        "population": 25085,
+        "area": 27.62,
+        "density": 908
+    },
+    {
+        "name": "Jantedhunga",
+        "nepali": "जन्तेढुंगा",
+        "districts": "Khotang",
+        "population": 15444,
+        "area": 128.68,
+        "density": 120,
+        "website": "https://jantedhungamun.gov.np/"
+    },
+    {
+        "name": "Jhapa",
+        "nepali": "झापा",
+        "districts": "Jhapa",
+        "population": 34601,
+        "area": 94.12,
+        "density": 368,
+        "website": "https://jhapamun.gov.np/"
+    },
+    {
+        "name": "Jhimruk",
+        "nepali": "झिमरुक",
+        "districts": "Pyuthan",
+        "population": 27931,
+        "area": 106.93,
+        "density": 261
+    },
+    {
+        "name": "Jirabhawani",
+        "nepali": "जिरा भवानी",
+        "districts": "Parsa",
+        "population": 22765,
+        "area": 55.39,
+        "density": 411
+    },
+    {
+        "name": "Jorayal",
+        "nepali": "जोरायल",
+        "districts": "Doti",
+        "population": 20824,
+        "area": 419.09,
+        "density": 50
+    },
+    {
+        "name": "Joshipur",
+        "nepali": "जोशीपुर",
+        "districts": "Kailali",
+        "population": 36459,
+        "area": 65.57,
+        "density": 556
+    },
+    {
+        "name": "Jugal",
+        "nepali": "जुगल",
+        "districts": "Sindhupalchok",
+        "population": 19231,
+        "area": 273.62,
+        "density": 70
+    },
+    {
+        "name": "Junichande",
+        "nepali": "जुनीचाँदे",
+        "districts": "Jajarkot",
+        "population": 21733,
+        "area": 346.21,
+        "density": 63
+    },
+    {
+        "name": "Jwalamukhi",
+        "nepali": "ज्वालामूखी",
+        "districts": "Dhading",
+        "population": 23966,
+        "area": 114.04,
+        "density": 210
+    },
+    {
+        "name": "K.I. Singh",
+        "nepali": "केआईसिंह",
+        "districts": "Doti",
+        "population": 20903,
+        "area": 127.01,
+        "density": 165
+    },
+    {
+        "name": "Kachankawal",
+        "nepali": "कचनकवल",
+        "districts": "Jhapa",
+        "population": 39535,
+        "area": 109.45,
+        "density": 361,
+        "website": "https://kachankawalmun.gov.np/"
+    },
+    {
+        "name": "Kaike",
+        "nepali": "काईके",
+        "districts": "Dolpa",
+        "population": 3576,
+        "area": 466.6,
+        "density": 8
+    },
+    {
+        "name": "Kailari",
+        "nepali": "कैलारी",
+        "districts": "Kailali",
+        "population": 47987,
+        "area": 233.27,
+        "density": 206
+    },
+    {
+        "name": "Kailash",
+        "nepali": "कैलाश",
+        "districts": "Makwanpur",
+        "population": 23922,
+        "area": 204.48,
+        "density": 117
+    },
+    {
+        "name": "Kakani",
+        "nepali": "ककनी",
+        "districts": "Nuwakot",
+        "population": 27073,
+        "area": 87.97,
+        "density": 308
+    },
+    {
+        "name": "Kaligandaki",
+        "nepali": "कालीगण्डकी",
+        "districts": "Syangja",
+        "population": 21728,
+        "area": 73.51,
+        "density": 296,
+        "website": "https://kaligandakimunsyangja.gov.np/"
+    },
+    {
+        "name": "Kaligandaki",
+        "nepali": "कालीगण्डकी",
+        "districts": "Gulmi",
+        "population": 18876,
+        "area": 101.04,
+        "density": 187
+    },
+    {
+        "name": "Kalika",
+        "nepali": "कालिका",
+        "districts": "Rasuwa",
+        "population": 9421,
+        "area": 192.54,
+        "density": 49
+    },
+    {
+        "name": "Kalikamai",
+        "nepali": "कालिकामाई",
+        "districts": "Parsa",
+        "population": 21131,
+        "area": 24.66,
+        "density": 857
+    },
+    {
+        "name": "Kalimati",
+        "nepali": "कालीमाटी",
+        "districts": "Salyan",
+        "population": 23005,
+        "area": 500.72,
+        "density": 46
+    },
+    {
+        "name": "Kalinchok",
+        "nepali": "कालिन्चोक",
+        "districts": "Dolakha",
+        "population": 22954,
+        "area": 132.49,
+        "density": 173
+    },
+    {
+        "name": "Kamal",
+        "nepali": "कमल",
+        "districts": "Jhapa",
+        "population": 44365,
+        "area": 104.57,
+        "density": 424,
+        "website": "https://kamalmun.gov.np/"
+    },
+    {
+        "name": "Kanchan",
+        "nepali": "कञ्चन",
+        "districts": "Rupandehi",
+        "population": 33072,
+        "area": 58.51,
+        "density": 565
+    },
+    {
+        "name": "Kanepokhari",
+        "nepali": "कानेपोखरी",
+        "districts": "Morang",
+        "population": 38033,
+        "area": 82.83,
+        "density": 459,
+        "website": "https://kanepokharimun.gov.np/"
+    },
+    {
+        "name": "Kankasundari",
+        "nepali": "कनकासुन्दरी",
+        "districts": "Jumla",
+        "population": 12977,
+        "area": 225.39,
+        "density": 58
+    },
+    {
+        "name": "Kapurkot",
+        "nepali": "कपुरकोट",
+        "districts": "Salyan",
+        "population": 18204,
+        "area": 119.21,
+        "density": 153
+    },
+    {
+        "name": "Karaiyamai",
+        "nepali": "करैयामाई",
+        "districts": "Bara",
+        "population": 26400,
+        "area": 47.69,
+        "density": 554
+    },
+    {
+        "name": "Katahari",
+        "nepali": "कटहरी",
+        "districts": "Morang",
+        "population": 39775,
+        "area": 51.59,
+        "density": 771,
+        "website": "https://kataharimun.gov.np/"
+    },
+    {
+        "name": "Kathekhola",
+        "nepali": "काठेखोला",
+        "districts": "Baglung",
+        "population": 22865,
+        "area": 82.88,
+        "density": 276,
+        "website": "https://kathekholamun.gov.np/"
+    },
+    {
+        "name": "Kaudena",
+        "nepali": "कौडेना",
+        "districts": "Sarlahi",
+        "population": 26085,
+        "area": 25.33,
+        "density": 1030
+    },
+    {
+        "name": "Kedarsyu",
+        "nepali": "केदारस्यु",
+        "districts": "Bajhang",
+        "population": 21307,
+        "area": 113.91,
+        "density": 187
+    },
+    {
+        "name": "Kepilasgadhi",
+        "nepali": "केपिलासगढी",
+        "districts": "Khotang",
+        "population": 15288,
+        "area": 191.55,
+        "density": 80,
+        "website": "https://kepilasgadhimun.gov.np/"
+    },
+    {
+        "name": "Kerabari",
+        "nepali": "केरावारी",
+        "districts": "Morang",
+        "population": 30431,
+        "area": 219.83,
+        "density": 138,
+        "website": "https://kerabarimun.gov.np/"
+    },
+    {
+        "name": "Khajura",
+        "nepali": "खजुरा",
+        "districts": "Banke",
+        "population": 50961,
+        "area": 101.91,
+        "density": 500
+    },
+    {
+        "name": "Khandadevi",
+        "nepali": "खाँडादेवी",
+        "districts": "Ramechhap",
+        "population": 25761,
+        "area": 150.7,
+        "density": 171
+    },
+    {
+        "name": "Khanikhola",
+        "nepali": "खानीखोला",
+        "districts": "Kavrepalanchok",
+        "population": 14398,
+        "area": 132,
+        "density": 109
+    },
+    {
+        "name": "Khaniyabas",
+        "nepali": "खनियाबास",
+        "districts": "Dhading",
+        "population": 12749,
+        "area": 120.8,
+        "density": 106
+    },
+    {
+        "name": "Khaptad Chhanna",
+        "nepali": "छान्ना",
+        "districts": "Bajhang",
+        "population": 15893,
+        "area": 113.52,
+        "density": 140
+    },
+    {
+        "name": "Khaptad Chhededaha",
+        "nepali": "खप्तड छेडेदह",
+        "districts": "Bajura",
+        "population": 18575,
+        "area": 135.08,
+        "density": 138
+    },
+    {
+        "name": "Kharpunath",
+        "nepali": "खार्पुनाथ",
+        "districts": "Humla",
+        "population": 6011,
+        "area": 880,
+        "density": 7
+    },
+    {
+        "name": "Khatyad",
+        "nepali": "खत्याड",
+        "districts": "Mugu",
+        "population": 17116,
+        "area": 281.12,
+        "density": 61
+    },
+    {
+        "name": "Khiji Demba",
+        "nepali": "खिजिदेम्बा",
+        "districts": "Okhaldhunga",
+        "population": 15106,
+        "area": 179.77,
+        "density": 84,
+        "website": "https://khijidembamun.gov.np/"
+    },
+    {
+        "name": "Khotehang",
+        "nepali": "खोटेहाङ",
+        "districts": "Khotang",
+        "population": 22474,
+        "area": 164.09,
+        "density": 137,
+        "website": "https://khotehangmun.gov.np/"
+    },
+    {
+        "name": "Khumbu Pasang Lhamu",
+        "nepali": "खुम्बु पासाङल्हमु",
+        "districts": "Solukhumbu",
+        "population": 8989,
+        "area": 1539.11,
+        "density": 6,
+        "website": "https://khumbupasanglhamumun.gov.np/"
+    },
+    {
+        "name": "Kispang",
+        "nepali": "किस्पाङ",
+        "districts": "Nuwakot",
+        "population": 14861,
+        "area": 82.57,
+        "density": 180
+    },
+    {
+        "name": "Konjyosom",
+        "nepali": "कोन्ज्योसोम",
+        "districts": "Lalitpur",
+        "population": 9709,
+        "area": 44.16,
+        "density": 220
+    },
+    {
+        "name": "Koshi",
+        "nepali": "कोशी",
+        "districts": "Sunsari",
+        "population": 43626,
+        "area": 75.98,
+        "density": 574,
+        "website": "https://koshimun.gov.np/"
+    },
+    {
+        "name": "Kotahimai",
+        "nepali": "कोटहीमाई",
+        "districts": "Rupandehi",
+        "population": 41006,
+        "area": 58.26,
+        "density": 704
+    },
+    {
+        "name": "Kumakh",
+        "nepali": "कुमाख",
+        "districts": "Salyan",
+        "population": 24972,
+        "area": 177.28,
+        "density": 141
+    },
+    {
+        "name": "Kummayak",
+        "nepali": "कुम्मायक",
+        "districts": "Panchthar",
+        "population": 16118,
+        "area": 129.3,
+        "density": 125,
+        "website": "https://kummayakmun.gov.np/"
+    },
+    {
+        "name": "Kushe",
+        "nepali": "कुसे",
+        "districts": "Jajarkot",
+        "population": 20621,
+        "area": 273.97,
+        "density": 75
+    },
+    {
+        "name": "Kwaholasothar",
+        "nepali": "क्व्होलासोथार",
+        "districts": "Lamjung",
+        "population": 10032,
+        "area": 175.37,
+        "density": 57
+    },
+    {
+        "name": "Lakshminya",
+        "nepali": "लक्ष्मीनिया",
+        "districts": "Dhanusha",
+        "population": 28251,
+        "area": 30.66,
+        "density": 921
+    },
+    {
+        "name": "Laksmipur Patari",
+        "nepali": "लक्ष्मीपुर पतारी",
+        "districts": "Siraha",
+        "population": 26913,
+        "area": 42.33,
+        "density": 636
+    },
+    {
+        "name": "Laljhadi",
+        "nepali": "लालझाँडी",
+        "districts": "Kanchanpur",
+        "population": 22569,
+        "area": 154.65,
+        "density": 146
+    },
+    {
+        "name": "Lekam",
+        "nepali": "लेकम",
+        "districts": "Darchula",
+        "population": 14838,
+        "area": 83.98,
+        "density": 177
+    },
+    {
+        "name": "Likhu",
+        "nepali": "लिखु",
+        "districts": "Okhaldhunga",
+        "population": 14049,
+        "area": 88.03,
+        "density": 160,
+        "website": "https://likhumunokhaldhunga.gov.np/"
+    },
+    {
+        "name": "Likhu",
+        "nepali": "लिखु",
+        "districts": "Nuwakot",
+        "population": 16852,
+        "area": 47.88,
+        "density": 352
+    },
+    {
+        "name": "Likhu Pike",
+        "nepali": "लिखुपिके",
+        "districts": "Solukhumbu",
+        "population": 5534,
+        "area": 124.38,
+        "density": 44,
+        "website": "https://likhupikemun.gov.np/"
+    },
+    {
+        "name": "Likhu Tamakoshi",
+        "nepali": "लिखु तामाकोशी",
+        "districts": "Ramechhap",
+        "population": 23109,
+        "area": 124.51,
+        "density": 186
+    },
+    {
+        "name": "Limchungbung",
+        "nepali": "लिम्चुङबुङ",
+        "districts": "Udayapur",
+        "population": 11992,
+        "area": 106.8,
+        "density": 112,
+        "website": "https://sunkoshimunudayapur.gov.np/"
+    },
+    {
+        "name": "Lisankhu Pakhar",
+        "nepali": "लिसंखु पाखर",
+        "districts": "Sindhupalchok",
+        "population": 15155,
+        "area": 98.61,
+        "density": 154
+    },
+    {
+        "name": "Lo-Ghekar Damodarkunda",
+        "nepali": "लो-घेकर दामोदरकुण्ड",
+        "districts": "Mustang",
+        "population": 1423,
+        "area": 1344,
+        "density": 1,
+        "website": "https://dalomemun.gov.np/"
+    },
+    {
+        "name": "Lomanthang",
+        "nepali": "लोमन्थाङ",
+        "districts": "Mustang",
+        "population": 1899,
+        "area": 727,
+        "density": 3,
+        "website": "https://lomanthangmun.gov.np/"
+    },
+    {
+        "name": "Lungri",
+        "nepali": "लुङ्ग्री",
+        "districts": "Rolpa",
+        "population": 23631,
+        "area": 135.23,
+        "density": 175
+    },
+    {
+        "name": "Machhapuchhre",
+        "nepali": "माछापुछ्रे",
+        "districts": "Kaski",
+        "population": 21868,
+        "area": 544.58,
+        "density": 40,
+        "website": "https://machhapuchhremun.gov.np/"
+    },
+    {
+        "name": "Madane",
+        "nepali": "मदाने",
+        "districts": "Gulmi",
+        "population": 21899,
+        "area": 94.52,
+        "density": 232
+    },
+    {
+        "name": "Madi",
+        "nepali": "मादी",
+        "districts": "Kaski",
+        "population": 18153,
+        "area": 563,
+        "density": 32,
+        "website": "https://rupamun.gov.np/"
+    },
+    {
+        "name": "Madi",
+        "nepali": "माडी",
+        "districts": "Rolpa",
+        "population": 17986,
+        "area": 129.05,
+        "density": 139
+    },
+    {
+        "name": "Maha Kulung",
+        "nepali": "महाकुलुङ",
+        "districts": "Solukhumbu",
+        "population": 11452,
+        "area": 648.05,
+        "density": 18,
+        "website": "https://mahakulungmun.gov.np/"
+    },
+    {
+        "name": "Mahabharat",
+        "nepali": "महाभारत",
+        "districts": "Kavrepalanchok",
+        "population": 18283,
+        "area": 186,
+        "density": 98
+    },
+    {
+        "name": "Mahabu",
+        "nepali": "महावु",
+        "districts": "Dailekh",
+        "population": 19277,
+        "area": 110.8,
+        "density": 174
+    },
+    {
+        "name": "Mahadeva",
+        "nepali": "महादेवा",
+        "districts": "Saptari",
+        "population": 28542,
+        "area": 34.97,
+        "density": 816
+    },
+    {
+        "name": "Mahankal",
+        "nepali": "महाङ्काल",
+        "districts": "Lalitpur",
+        "population": 9453,
+        "area": 82.44,
+        "density": 115
+    },
+    {
+        "name": "Mahashila",
+        "nepali": "महाशिला",
+        "districts": "Parbat",
+        "population": 9857,
+        "area": 49.38,
+        "density": 200,
+        "website": "https://mahashilamun.gov.np/"
+    },
+    {
+        "name": "Mahawai",
+        "nepali": "महावै",
+        "districts": "Kalikot",
+        "population": 8323,
+        "area": 322.07,
+        "density": 26
+    },
+    {
+        "name": "Mahottari",
+        "nepali": "महोत्तरी",
+        "districts": "Mahottari",
+        "population": 27430,
+        "area": 28.08,
+        "density": 977
+    },
+    {
+        "name": "Mai Jogmai",
+        "nepali": "माईजोगमाई",
+        "districts": "Ilam",
+        "population": 21044,
+        "area": 172.41,
+        "density": 122,
+        "website": "https://maijogmaimun.gov.np/"
+    },
+    {
+        "name": "Maiwa Khola",
+        "nepali": "मैवाखोला",
+        "districts": "Taplejung",
+        "population": 11037,
+        "area": 138,
+        "density": 80,
+        "website": "https://maiwakholamun.gov.np/"
+    },
+    {
+        "name": "Makalu",
+        "nepali": "मकालु",
+        "districts": "Sankhuwasabha",
+        "population": 13204,
+        "area": 519.45,
+        "density": 25,
+        "website": "https://makalumun.gov.np/"
+    },
+    {
+        "name": "Makawanpurgadhi",
+        "nepali": "मकवानपुरगढी",
+        "districts": "Makwanpur",
+        "population": 25322,
+        "area": 148.72,
+        "density": 170
+    },
+    {
+        "name": "Malarani",
+        "nepali": "मालारानी",
+        "districts": "Arghakhanchi",
+        "population": 28044,
+        "area": 101.06,
+        "density": 277
+    },
+    {
+        "name": "Malika",
+        "nepali": "मालिका",
+        "districts": "Myagdi",
+        "population": 19458,
+        "area": 147,
+        "density": 132,
+        "website": "https://malikamunmyagdi.gov.np/"
+    },
+    {
+        "name": "Malika",
+        "nepali": "मालिका",
+        "districts": "Gulmi",
+        "population": 21729,
+        "area": 92.49,
+        "density": 235
+    },
+    {
+        "name": "Malikarjun",
+        "nepali": "मालिकार्जुन",
+        "districts": "Darchula",
+        "population": 15581,
+        "area": 100.82,
+        "density": 155
+    },
+    {
+        "name": "Mallarani",
+        "nepali": "मल्लरानी",
+        "districts": "Pyuthan",
+        "population": 17686,
+        "area": 80.09,
+        "density": 221
+    },
+    {
+        "name": "Manahari",
+        "nepali": "मनहरी",
+        "districts": "Makwanpur",
+        "population": 38399,
+        "area": 199.52,
+        "density": 192
+    },
+    {
+        "name": "Manang Disyang",
+        "nepali": "मनाङ डिस्याङ",
+        "districts": "Manang",
+        "population": 2222,
+        "area": 694.63,
+        "density": 3,
+        "website": "https://nesyangmun.gov.np/"
+    },
+    {
+        "name": "Mandavi",
+        "nepali": "माण्डवी",
+        "districts": "Pyuthan",
+        "population": 15058,
+        "area": 113.08,
+        "density": 133
+    },
+    {
+        "name": "Manebhanjyang",
+        "nepali": "मानेभञ्ज्याङ",
+        "districts": "Okhaldhunga",
+        "population": 21082,
+        "area": 146.61,
+        "density": 144,
+        "website": "https://manebhanjyangmun.gov.np/"
+    },
+    {
+        "name": "Mangala",
+        "nepali": "मंगला",
+        "districts": "Myagdi",
+        "population": 16286,
+        "area": 89,
+        "density": 183,
+        "website": "https://mangalamun.gov.np/"
+    },
+    {
+        "name": "Mangsebung",
+        "nepali": "माङसेबुङ",
+        "districts": "Ilam",
+        "population": 18503,
+        "area": 142.41,
+        "density": 130,
+        "website": "https://mansebungmun.gov.np/"
+    },
+    {
+        "name": "Mapya Dudhkoshi",
+        "nepali": "माप्य दुधकोशी",
+        "districts": "Solukhumbu",
+        "population": 13414,
+        "area": 167.67,
+        "density": 80,
+        "website": "https://dudhkoshimun.gov.np/"
+    },
+    {
+        "name": "Marchawarimai",
+        "nepali": "मर्चवारीमाई",
+        "districts": "Rupandehi",
+        "population": 38776,
+        "area": 48.55,
+        "density": 799
+    },
+    {
+        "name": "Marin",
+        "nepali": "मरिण",
+        "districts": "Sindhuli",
+        "population": 27822,
+        "area": 324.55,
+        "density": 86
+    },
+    {
+        "name": "Marma",
+        "nepali": "मार्मा",
+        "districts": "Darchula",
+        "population": 14956,
+        "area": 208.06,
+        "density": 72
+    },
+    {
+        "name": "Marsyangdi",
+        "nepali": "मर्स्याङदी",
+        "districts": "Lamjung",
+        "population": 18759,
+        "area": 597.25,
+        "density": 31,
+        "website": "https://marsyangdimun.gov.np/"
+    },
+    {
+        "name": "Masta",
+        "nepali": "मष्टा",
+        "districts": "Bajhang",
+        "population": 14951,
+        "area": 109.24,
+        "density": 137
+    },
+    {
+        "name": "Mathagadhi",
+        "nepali": "माथागढी",
+        "districts": "Palpa",
+        "population": 25017,
+        "area": 215.49,
+        "density": 116
+    },
+    {
+        "name": "Mayadevi",
+        "nepali": "मायादेवी",
+        "districts": "Kapilvastu",
+        "population": 48218,
+        "area": 88.53,
+        "density": 545
+    },
+    {
+        "name": "Mayadevi",
+        "nepali": "मायादेवी",
+        "districts": "Rupandehi",
+        "population": 47196,
+        "area": 72.44,
+        "density": 652
+    },
+    {
+        "name": "Mellekh",
+        "nepali": "मेल्लेख",
+        "districts": "Achham",
+        "population": 24670,
+        "area": 134.78,
+        "density": 183
+    },
+    {
+        "name": "Melung",
+        "nepali": "मेलुङ",
+        "districts": "Dolakha",
+        "population": 20210,
+        "area": 86.54,
+        "density": 234
+    },
+    {
+        "name": "Menchayayem",
+        "nepali": "मेन्छयायेम",
+        "districts": "Terhathum",
+        "population": 8078,
+        "area": 70.09,
+        "density": 115,
+        "website": "https://menchhayayemmun.gov.np/"
+    },
+    {
+        "name": "Meringden",
+        "nepali": "मेरिङदेन",
+        "districts": "Taplejung",
+        "population": 12548,
+        "area": 210.33,
+        "density": 60,
+        "website": "https://meringdenmun.gov.np/"
+    },
+    {
+        "name": "Miklajung",
+        "nepali": "मिक्लाजुङ",
+        "districts": "Morang",
+        "population": 28708,
+        "area": 158.98,
+        "density": 181,
+        "website": "https://miklajungmunmorang.gov.np/"
+    },
+    {
+        "name": "Miklajung",
+        "nepali": "मिक्लाजुङ",
+        "districts": "Panchthar",
+        "population": 24715,
+        "area": 166.61,
+        "density": 148,
+        "website": "https://miklajungmunpanchthar.gov.np/"
+    },
+    {
+        "name": "Mikwa Khola",
+        "nepali": "मिक्वाखोला",
+        "districts": "Taplejung",
+        "population": 9160,
+        "area": 442.96,
+        "density": 21,
+        "website": "https://mikwakholamun.gov.np/"
+    },
+    {
+        "name": "Modi",
+        "nepali": "मोदी",
+        "districts": "Parbat",
+        "population": 21284,
+        "area": 143.6,
+        "density": 148
+    },
+    {
+        "name": "Mohanyal",
+        "nepali": "मोहन्याल",
+        "districts": "Kailali",
+        "population": 22053,
+        "area": 626.95,
+        "density": 35
+    },
+    {
+        "name": "Molung",
+        "nepali": "मोलुङ",
+        "districts": "Okhaldhunga",
+        "population": 15862,
+        "area": 112,
+        "density": 142,
+        "website": "https://molungmun.gov.np/"
+    },
+    {
+        "name": "Mudkechula",
+        "nepali": "मुड्केचुला",
+        "districts": "Dolpa",
+        "population": 5129,
+        "area": 250.08,
+        "density": 21
+    },
+    {
+        "name": "Mugum Karmarong",
+        "nepali": "मुगुम कार्मारोंग",
+        "districts": "Mugu",
+        "population": 5396,
+        "area": 2106.91,
+        "density": 3
+    },
+    {
+        "name": "Mukhiyapatti Musharniya",
+        "nepali": "मुखियापट्टी मुसहरमिया",
+        "districts": "Dhanusha",
+        "population": 25482,
+        "area": 26.84,
+        "density": 949
+    },
+    {
+        "name": "Myagang",
+        "nepali": "म्यागङ",
+        "districts": "Nuwakot",
+        "population": 13479,
+        "area": 97.83,
+        "density": 138
+    },
+    {
+        "name": "Myagde",
+        "nepali": "म्याग्दे",
+        "districts": "Tanahun",
+        "population": 22502,
+        "area": 115,
+        "density": 196,
+        "website": "https://myagdemun.gov.np/"
+    },
+    {
+        "name": "Namkha",
+        "nepali": "नाम्खा",
+        "districts": "Humla",
+        "population": 3900,
+        "area": 2419.64,
+        "density": 2
+    },
+    {
+        "name": "Naraha",
+        "nepali": "नरहा",
+        "districts": "Siraha",
+        "population": 19369,
+        "area": 29.28,
+        "density": 662
+    },
+    {
+        "name": "Narainapur",
+        "nepali": "नरैनापुर",
+        "districts": "Banke",
+        "population": 34942,
+        "area": 172.34,
+        "density": 203
+    },
+    {
+        "name": "Narharinath",
+        "nepali": "नरहरिनाथ",
+        "districts": "Kalikot",
+        "population": 21366,
+        "area": 143.86,
+        "density": 149
+    },
+    {
+        "name": "Narpa Bhumi",
+        "nepali": "नार्पा भूमी",
+        "districts": "Manang",
+        "population": 538,
+        "area": 837.54,
+        "density": 1,
+        "website": "https://narpabhumimun.gov.np/"
+    },
+    {
+        "name": "Nason",
+        "nepali": "नासोँ",
+        "districts": "Manang",
+        "population": 1938,
+        "area": 709.58,
+        "density": 3,
+        "website": "https://nasonmun.gov.np/"
+    },
+    {
+        "name": "Naubahini",
+        "nepali": "नौबहिनी",
+        "districts": "Pyuthan",
+        "population": 30292,
+        "area": 213.41,
+        "density": 142
+    },
+    {
+        "name": "Naugad",
+        "nepali": "नौगाड",
+        "districts": "Darchula",
+        "population": 15874,
+        "area": 180.27,
+        "density": 88
+    },
+    {
+        "name": "Naukunda",
+        "nepali": "नौकुण्ड",
+        "districts": "Rasuwa",
+        "population": 11824,
+        "area": 126.99,
+        "density": 93
+    },
+    {
+        "name": "Naumule",
+        "nepali": "नौमुले",
+        "districts": "Dailekh",
+        "population": 20802,
+        "area": 228.59,
+        "density": 91
+    },
+    {
+        "name": "Navadurga",
+        "nepali": "नवदुर्गा",
+        "districts": "Dadeldhura",
+        "population": 19957,
+        "area": 141.89,
+        "density": 141
+    },
+    {
+        "name": "Navarajpur",
+        "nepali": "नवराजपुर",
+        "districts": "Siraha",
+        "population": 19019,
+        "area": 32.18,
+        "density": 591
+    },
+    {
+        "name": "Necha Salyan",
+        "nepali": "नेचासल्यान",
+        "districts": "Solukhumbu",
+        "population": 16129,
+        "area": 94.49,
+        "density": 171,
+        "website": "https://nechasalyanmun.gov.np/"
+    },
+    {
+        "name": "Netrawati Dabjong",
+        "nepali": "नेत्रावती डबजोङ",
+        "districts": "Dhading",
+        "population": 12870,
+        "area": 181.78,
+        "density": 71
+    },
+    {
+        "name": "Nisdi",
+        "nepali": "निस्दी",
+        "districts": "Palpa",
+        "population": 22611,
+        "area": 194.5,
+        "density": 116
+    },
+    {
+        "name": "Nisikhola",
+        "nepali": "निसीखोला",
+        "districts": "Baglung",
+        "population": 20611,
+        "area": 244.37,
+        "density": 84,
+        "website": "https://nisikholamun.gov.np/"
+    },
+    {
+        "name": "Omsatiya",
+        "nepali": "ओमसतीया",
+        "districts": "Rupandehi",
+        "population": 34191,
+        "area": 48.54,
+        "density": 704
+    },
+    {
+        "name": "Pachaljharana",
+        "nepali": "पचालझरना",
+        "districts": "Kalikot",
+        "population": 12343,
+        "area": 166.92,
+        "density": 74
+    },
+    {
+        "name": "Paiyun",
+        "nepali": "पैयूं",
+        "districts": "Parbat",
+        "population": 15381,
+        "area": 42.65,
+        "density": 361
+    },
+    {
+        "name": "Pakaha Mainpur",
+        "nepali": "पकाहा मैनपुर",
+        "districts": "Parsa",
+        "population": 20717,
+        "area": 21.26,
+        "density": 974
+    },
+    {
+        "name": "Palata",
+        "nepali": "पलाता",
+        "districts": "Kalikot",
+        "population": 15303,
+        "area": 318.84,
+        "density": 48
+    },
+    {
+        "name": "Palhinandan",
+        "nepali": "पाल्हीनन्दन",
+        "districts": "Parasi",
+        "population": 35429,
+        "area": 44.67,
+        "density": 793
+    },
+    {
+        "name": "Panchakanya",
+        "nepali": "पञ्चकन्या",
+        "districts": "Nuwakot",
+        "population": 15945,
+        "area": 53.47,
+        "density": 298
+    },
+    {
+        "name": "Pancheshwar",
+        "nepali": "पञ्चेश्वर",
+        "districts": "Baitadi",
+        "population": 18766,
+        "area": 120.41,
+        "density": 156
+    },
+    {
+        "name": "Panchpokhari Thangpal",
+        "nepali": "पाँचपोखरी थाङपाल",
+        "districts": "Sindhupalchok",
+        "population": 20860,
+        "area": 187.29,
+        "density": 111
+    },
+    {
+        "name": "Panini",
+        "nepali": "पाणिनी",
+        "districts": "Arghakhanchi",
+        "population": 26424,
+        "area": 151.42,
+        "density": 175
+    },
+    {
+        "name": "Paribartan",
+        "nepali": "परिवर्तन",
+        "districts": "Rolpa",
+        "population": 20778,
+        "area": 163.01,
+        "density": 127
+    },
+    {
+        "name": "Parsa",
+        "nepali": "पर्सा",
+        "districts": "Sarlahi",
+        "population": 21650,
+        "area": 23.12,
+        "density": 936
+    },
+    {
+        "name": "Parwanipur",
+        "nepali": "परवानीपुर",
+        "districts": "Bara",
+        "population": 22787,
+        "area": 15.48,
+        "density": 1472
+    },
+    {
+        "name": "Patarasi",
+        "nepali": "पातारासी",
+        "districts": "Jumla",
+        "population": 14571,
+        "area": 814.07,
+        "density": 18
+    },
+    {
+        "name": "Paterwa Sugauli",
+        "nepali": "पटेर्वा सुगौली",
+        "districts": "Parsa",
+        "population": 23901,
+        "area": 64.29,
+        "density": 372
+    },
+    {
+        "name": "Pathibhara Yangwarak",
+        "nepali": "पाथीभरा याङवरक",
+        "districts": "Taplejung",
+        "population": 13591,
+        "area": 93.76,
+        "density": 145,
+        "website": "https://yangwarakmuntaplejung.gov.np/"
+    },
+    {
+        "name": "Pauwadungma",
+        "nepali": "पौवादुङमा",
+        "districts": "Bhojpur",
+        "population": 15394,
+        "area": 118.86,
+        "density": 130,
+        "website": "https://pauwadungmamun.gov.np/"
+    },
+    {
+        "name": "Phakphokthum",
+        "nepali": "फाकफोकथुम",
+        "districts": "Ilam",
+        "population": 21619,
+        "area": 108.79,
+        "density": 199,
+        "website": "https://phakphokthummun.gov.np/"
+    },
+    {
+        "name": "Phaktanglung",
+        "nepali": "फक्ताङलुङ",
+        "districts": "Taplejung",
+        "population": 12017,
+        "area": 1858.51,
+        "density": 6,
+        "website": "https://phaktanglungmun.gov.np/"
+    },
+    {
+        "name": "Phalelung",
+        "nepali": "फालेलुङ",
+        "districts": "Panchthar",
+        "population": 21884,
+        "area": 207.14,
+        "density": 106,
+        "website": "https://phalelungmun.gov.np/"
+    },
+    {
+        "name": "Phalgunanda",
+        "nepali": "फाल्गुनन्द",
+        "districts": "Panchthar",
+        "population": 24060,
+        "area": 107.53,
+        "density": 224,
+        "website": "https://phalgunandamun.gov.np/"
+    },
+    {
+        "name": "Phedap",
+        "nepali": "फेदाप",
+        "districts": "Terhathum",
+        "population": 17700,
+        "area": 110.83,
+        "density": 160,
+        "website": "https://phedapmun.gov.np/"
+    },
+    {
+        "name": "Phedikhola",
+        "nepali": "फेदीखोला",
+        "districts": "Syangja",
+        "population": 12341,
+        "area": 56.73,
+        "density": 218,
+        "website": "https://phedikholamun.gov.np/"
+    },
+    {
+        "name": "Pheta",
+        "nepali": "फेटा",
+        "districts": "Bara",
+        "population": 26722,
+        "area": 23.65,
+        "density": 1130
+    },
+    {
+        "name": "Phikkal",
+        "nepali": "फिक्कल",
+        "districts": "Sindhuli",
+        "population": 16968,
+        "area": 186.06,
+        "density": 91
+    },
+    {
+        "name": "Pipra",
+        "nepali": "पिपरा",
+        "districts": "Mahottari",
+        "population": 35524,
+        "area": 39.98,
+        "density": 889
+    },
+    {
+        "name": "Prasauni",
+        "nepali": "प्रसौनी",
+        "districts": "Bara",
+        "population": 24478,
+        "area": 20.24,
+        "density": 1209
+    },
+    {
+        "name": "Pratappur",
+        "nepali": "प्रतापपुर",
+        "districts": "Parasi",
+        "population": 41315,
+        "area": 87.55,
+        "density": 472
+    },
+    {
+        "name": "Purbakhola",
+        "nepali": "पूर्वखोला",
+        "districts": "Palpa",
+        "population": 19589,
+        "area": 138.05,
+        "density": 142
+    },
+    {
+        "name": "Purbichauki",
+        "nepali": "पूर्वीचौकी",
+        "districts": "Doti",
+        "population": 22483,
+        "area": 117.66,
+        "density": 191
+    },
+    {
+        "name": "Putha Uttarganga",
+        "nepali": "पुठा उत्तरगंगा",
+        "districts": "Eastern Rukum",
+        "population": 17932,
+        "area": 560.34,
+        "density": 32
+    },
+    {
+        "name": "Raghuganga",
+        "nepali": "रघुगंगा",
+        "districts": "Myagdi",
+        "population": 15753,
+        "area": 379,
+        "density": 42,
+        "website": "https://raghugangamun.gov.np/"
+    },
+    {
+        "name": "Rainadevi Chhahara",
+        "nepali": "रैनादेवी छहरा",
+        "districts": "Palpa",
+        "population": 26469,
+        "area": 175.88,
+        "density": 150
+    },
+    {
+        "name": "Rajgadh",
+        "nepali": "राजगढ",
+        "districts": "Saptari",
+        "population": 29459,
+        "area": 47.9,
+        "density": 615
+    },
+    {
+        "name": "Rajpur",
+        "nepali": "राजपुर",
+        "districts": "Dang",
+        "population": 25037,
+        "area": 577.33,
+        "density": 43
+    },
+    {
+        "name": "Raksirang",
+        "nepali": "राक्सिराङ्ग",
+        "districts": "Makwanpur",
+        "population": 26192,
+        "area": 226.7,
+        "density": 116
+    },
+    {
+        "name": "Ramaroshan",
+        "nepali": "रामारोशन",
+        "districts": "Achham",
+        "population": 25166,
+        "area": 173.33,
+        "density": 145
+    },
+    {
+        "name": "Rambha",
+        "nepali": "रम्भा",
+        "districts": "Palpa",
+        "population": 20190,
+        "area": 94.12,
+        "density": 215
+    },
+    {
+        "name": "Ramnagar",
+        "nepali": "रामनगर",
+        "districts": "Sarlahi",
+        "population": 28727,
+        "area": 26.44,
+        "density": 1086
+    },
+    {
+        "name": "Ramprasad Rai",
+        "nepali": "रामप्रसाद राई",
+        "districts": "Bhojpur",
+        "population": 18848,
+        "area": 158.83,
+        "density": 119,
+        "website": "https://ramprasadraimun.gov.np/"
+    },
+    {
+        "name": "Rapti",
+        "nepali": "राप्ती",
+        "districts": "Dang",
+        "population": 40763,
+        "area": 161.07,
+        "density": 253
+    },
+    {
+        "name": "Raptisonari",
+        "nepali": "राप्ती सोनारी",
+        "districts": "Banke",
+        "population": 67380,
+        "area": 1041.73,
+        "density": 64
+    },
+    {
+        "name": "Rautamai",
+        "nepali": "रौतामाई",
+        "districts": "Udayapur",
+        "population": 23481,
+        "area": 204.08,
+        "density": 115,
+        "website": "https://rautamaimun.gov.np/"
+    },
+    {
+        "name": "Rawabesi",
+        "nepali": "रावाबेसी",
+        "districts": "Khotang",
+        "population": 13369,
+        "area": 97.44,
+        "density": 137,
+        "website": "https://lamidandamun.gov.np/"
+    },
+    {
+        "name": "Ribdikot",
+        "nepali": "रिब्दीकोट",
+        "districts": "Palpa",
+        "population": 18770,
+        "area": 124.55,
+        "density": 151
+    },
+    {
+        "name": "Rishing",
+        "nepali": "ऋषिङ्ग",
+        "districts": "Tanahun",
+        "population": 25870,
+        "area": 215,
+        "density": 120,
+        "website": "https://rishingmun.gov.np/"
+    },
+    {
+        "name": "Rohini",
+        "nepali": "रोहिणी",
+        "districts": "Rupandehi",
+        "population": 37175,
+        "area": 64.32,
+        "density": 578
+    },
+    {
+        "name": "Rong",
+        "nepali": "रोङ",
+        "districts": "Ilam",
+        "population": 19135,
+        "area": 155.06,
+        "density": 123,
+        "website": "https://rongmun.gov.np/"
+    },
+    {
+        "name": "Roshi",
+        "nepali": "रोशी",
+        "districts": "Kavrepalanchok",
+        "population": 28746,
+        "area": 176,
+        "density": 163
+    },
+    {
+        "name": "Rubi Valley",
+        "nepali": "रुवी भ्याली",
+        "districts": "Dhading",
+        "population": 9565,
+        "area": 401.85,
+        "density": 24
+    },
+    {
+        "name": "Runtigadhi",
+        "nepali": "रुन्टीगढी",
+        "districts": "Rolpa",
+        "population": 27929,
+        "area": 232.69,
+        "density": 120
+    },
+    {
+        "name": "Rupa",
+        "nepali": "रूपा",
+        "districts": "Kaski",
+        "population": 14519,
+        "area": 94.81,
+        "density": 153,
+        "website": "https://madimunkaski.gov.np/"
+    },
+    {
+        "name": "Rupani",
+        "nepali": "रुपनी",
+        "districts": "Saptari",
+        "population": 26387,
+        "area": 56.08,
+        "density": 471
+    },
+    {
+        "name": "Ruru",
+        "nepali": "रुरु",
+        "districts": "Gulmi",
+        "population": 18581,
+        "area": 67.38,
+        "density": 276
+    },
+    {
+        "name": "Sabhapokhari",
+        "nepali": "सभापोखरी",
+        "districts": "Sankhuwasabha",
+        "population": 10492,
+        "area": 222.08,
+        "density": 47,
+        "website": "https://savapokharimun.gov.np/"
+    },
+    {
+        "name": "Sahidbhumi",
+        "nepali": "सहीदभूमि",
+        "districts": "Dhankuta",
+        "population": 18760,
+        "area": 99.55,
+        "density": 188,
+        "website": "https://khalsachhintangshahidbhumimun.gov.np/"
+    },
+    {
+        "name": "Saipal",
+        "nepali": "सइपाल",
+        "districts": "Bajhang",
+        "population": 2182,
+        "area": 1467.27,
+        "density": 2
+    },
+    {
+        "name": "Sakela",
+        "nepali": "साकेला",
+        "districts": "Khotang",
+        "population": 11594,
+        "area": 79.99,
+        "density": 145,
+        "website": "https://sakelamun.gov.np/"
+    },
+    {
+        "name": "Sakhuwa Prasauni",
+        "nepali": "सखुवा प्रसौनी",
+        "districts": "Parsa",
+        "population": 32448,
+        "area": 74.27,
+        "density": 437
+    },
+    {
+        "name": "Sakhuwanankarkatti",
+        "nepali": "सखुवानान्कारकट्टी",
+        "districts": "Siraha",
+        "population": 18558,
+        "area": 32.84,
+        "density": 565
+    },
+    {
+        "name": "Salpasilichho",
+        "nepali": "साल्पासिलिछो",
+        "districts": "Bhojpur",
+        "population": 13111,
+        "area": 193.33,
+        "density": 68,
+        "website": "https://salpasilichhomun.gov.np/"
+    },
+    {
+        "name": "Sammarimai",
+        "nepali": "सम्मरीमाई",
+        "districts": "Rupandehi",
+        "population": 38305,
+        "area": 50.78,
+        "density": 754
+    },
+    {
+        "name": "Samsi",
+        "nepali": "साम्सी",
+        "districts": "Mahottari",
+        "population": 33791,
+        "area": 21.57,
+        "density": 1567
+    },
+    {
+        "name": "Sandakpur",
+        "nepali": "सन्दकपुर",
+        "districts": "Ilam",
+        "population": 16065,
+        "area": 156.01,
+        "density": 103,
+        "website": "https://sandakpurmun.gov.np/"
+    },
+    {
+        "name": "Sangurigadhi",
+        "nepali": "सागुरीगढी",
+        "districts": "Dhankuta",
+        "population": 21536,
+        "area": 166.44,
+        "density": 129,
+        "website": "https://sangurigadhimun.gov.np/"
+    },
+    {
+        "name": "Sani Bheri",
+        "nepali": "सानीभेरी",
+        "districts": "Western Rukum",
+        "population": 22194,
+        "area": 133.8,
+        "density": 166
+    },
+    {
+        "name": "Sanni Triveni",
+        "nepali": "सान्नी त्रिवेणी",
+        "districts": "Kalikot",
+        "population": 12846,
+        "area": 136.71,
+        "density": 94
+    },
+    {
+        "name": "Sarawal",
+        "nepali": "सरावल",
+        "districts": "Parasi",
+        "population": 38163,
+        "area": 73.19,
+        "density": 521
+    },
+    {
+        "name": "Sarkegad",
+        "nepali": "सर्केगाड",
+        "districts": "Humla",
+        "population": 9868,
+        "area": 306.7,
+        "density": 32
+    },
+    {
+        "name": "Sarumarani",
+        "nepali": "सरुमारानी",
+        "districts": "Pyuthan",
+        "population": 18627,
+        "area": 157.97,
+        "density": 118
+    },
+    {
+        "name": "Satyawati",
+        "nepali": "सत्यवती",
+        "districts": "Gulmi",
+        "population": 23807,
+        "area": 115.92,
+        "density": 205
+    },
+    {
+        "name": "Sayal",
+        "nepali": "सायल",
+        "districts": "Doti",
+        "population": 19551,
+        "area": 122.72,
+        "density": 159
+    },
+    {
+        "name": "Shahid Lakhan",
+        "nepali": "शहिद लखन",
+        "districts": "Gorkha",
+        "population": 27555,
+        "area": 148.97,
+        "density": 185,
+        "website": "https://shahidlakhanmun.gov.np/"
+    },
+    {
+        "name": "Shailung",
+        "nepali": "शैलुङ",
+        "districts": "Dolakha",
+        "population": 20098,
+        "area": 128.67,
+        "density": 156
+    },
+    {
+        "name": "Shantinagar",
+        "nepali": "शान्तिनगर",
+        "districts": "Dang",
+        "population": 25203,
+        "area": 116.02,
+        "density": 217
+    },
+    {
+        "name": "She Phoksundo",
+        "nepali": "शे फोक्सुन्डो",
+        "districts": "Dolpa",
+        "population": 3099,
+        "area": 123.07,
+        "density": 25
+    },
+    {
+        "name": "Shivalaya",
+        "nepali": "शिवालय",
+        "districts": "Jajarkot",
+        "population": 15269,
+        "area": 134.26,
+        "density": 114
+    },
+    {
+        "name": "Shivanath",
+        "nepali": "शिवनाथ",
+        "districts": "Baitadi",
+        "population": 17115,
+        "area": 81.65,
+        "density": 210
+    },
+    {
+        "name": "Shivapuri",
+        "nepali": "शिवपुरी",
+        "districts": "Nuwakot",
+        "population": 20769,
+        "area": 101.5,
+        "density": 205
+    },
+    {
+        "name": "Shubha Kalika",
+        "nepali": "शुभ कालिका",
+        "districts": "Kalikot",
+        "population": 14080,
+        "area": 97.32,
+        "density": 145
+    },
+    {
+        "name": "Shuddhodhan",
+        "nepali": "शुद्धोधन",
+        "districts": "Rupandehi",
+        "population": 34638,
+        "area": 57.66,
+        "density": 601
+    },
+    {
+        "name": "Siddha Kumakh",
+        "nepali": "सिद्ध कुमाख",
+        "districts": "Salyan",
+        "population": 13593,
+        "area": 89.36,
+        "density": 152
+    },
+    {
+        "name": "Siddhalekh",
+        "nepali": "सिद्धलेक",
+        "districts": "Dhading",
+        "population": 23729,
+        "area": 106.09,
+        "density": 224
+    },
+    {
+        "name": "Sidingwa",
+        "nepali": "सिदिङ्वा",
+        "districts": "Taplejung",
+        "population": 12099,
+        "area": 206,
+        "density": 59,
+        "website": "https://sidingbamun.gov.np/"
+    },
+    {
+        "name": "Sigas",
+        "nepali": "सिगास",
+        "districts": "Baitadi",
+        "population": 21510,
+        "area": 245.44,
+        "density": 88
+    },
+    {
+        "name": "Silichong",
+        "nepali": "सिलीचोङ",
+        "districts": "Sankhuwasabha",
+        "population": 12174,
+        "area": 293.26,
+        "density": 42,
+        "website": "https://silichongmun.gov.np/"
+    },
+    {
+        "name": "Simkot",
+        "nepali": "सिमकोट",
+        "districts": "Humla",
+        "population": 11557,
+        "area": 785.89,
+        "density": 15
+    },
+    {
+        "name": "Simta",
+        "nepali": "सिम्ता",
+        "districts": "Surkhet",
+        "population": 25845,
+        "area": 241.64,
+        "density": 10
+    },
+    {
+        "name": "Sinja",
+        "nepali": "सिंजा",
+        "districts": "Jumla",
+        "population": 12395,
+        "area": 153.29,
+        "density": 81
+    },
+    {
+        "name": "Siranchowk",
+        "nepali": "सिरानचोक",
+        "districts": "Gorkha",
+        "population": 23628,
+        "area": 121.66,
+        "density": 194,
+        "website": "https://siranchowkmun.gov.np/"
+    },
+    {
+        "name": "Sirijangha",
+        "nepali": "सिरीजङ्घा",
+        "districts": "Taplejung",
+        "population": 15806,
+        "area": 481.09,
+        "density": 33,
+        "website": "https://sirijanghamun.gov.np/"
+    },
+    {
+        "name": "Sisne",
+        "nepali": "सिस्ने",
+        "districts": "Eastern Rukum",
+        "population": 16497,
+        "area": 327.12,
+        "density": 50
+    },
+    {
+        "name": "Siyari",
+        "nepali": "सियारी",
+        "districts": "Rupandehi",
+        "population": 38466,
+        "area": 66.17,
+        "density": 581
+    },
+    {
+        "name": "Sonama",
+        "nepali": "सोनमा",
+        "districts": "Mahottari",
+        "population": 38747,
+        "area": 57.77,
+        "density": 671
+    },
+    {
+        "name": "Soru",
+        "nepali": "सोरु",
+        "districts": "Mugu",
+        "population": 12238,
+        "area": 365.8,
+        "density": 33
+    },
+    {
+        "name": "Sotang",
+        "nepali": "सोताङ",
+        "districts": "Solukhumbu",
+        "population": 9530,
+        "area": 103,
+        "density": 93,
+        "website": "https://sotangmun.gov.np/"
+    },
+    {
+        "name": "Suddhodhan",
+        "nepali": "शुद्धोधन",
+        "districts": "Kapilvastu",
+        "population": 45201,
+        "area": 91.69,
+        "density": 493
+    },
+    {
+        "name": "Sunapati",
+        "nepali": "सुनापती",
+        "districts": "Ramechhap",
+        "population": 18141,
+        "area": 86.98,
+        "density": 209
+    },
+    {
+        "name": "Sunchhahari",
+        "nepali": "सुनछहरी",
+        "districts": "Rolpa",
+        "population": 16034,
+        "area": 277.62,
+        "density": 58
+    },
+    {
+        "name": "Sunilsmriti",
+        "nepali": "सुनिलस्मृति",
+        "districts": "Rolpa",
+        "population": 28213,
+        "area": 156.55,
+        "density": 180
+    },
+    {
+        "name": "Sunkoshi",
+        "nepali": "सुनकोशी",
+        "districts": "Okhaldhunga",
+        "population": 18550,
+        "area": 143.75,
+        "density": 129,
+        "website": "https://sunkoshimunokhaldhunga.gov.np/"
+    },
+    {
+        "name": "Sunkoshi",
+        "nepali": "सुनकोशी",
+        "districts": "Sindhuli",
+        "population": 21473,
+        "area": 154.68,
+        "density": 139
+    },
+    {
+        "name": "Sunkoshi",
+        "nepali": "सुनकोशी",
+        "districts": "Sindhupalchok",
+        "population": 16713,
+        "area": 72.84,
+        "density": 229
+    },
+    {
+        "name": "Surma",
+        "nepali": "सुर्मा",
+        "districts": "Bajhang",
+        "population": 9022,
+        "area": 270.8,
+        "density": 33
+    },
+    {
+        "name": "Surnaya",
+        "nepali": "सुर्नया",
+        "districts": "Baitadi",
+        "population": 18549,
+        "area": 124.52,
+        "density": 149
+    },
+    {
+        "name": "Suryagadhi",
+        "nepali": "सुर्यगढी",
+        "districts": "Nuwakot",
+        "population": 16800,
+        "area": 49.09,
+        "density": 342
+    },
+    {
+        "name": "Susta",
+        "nepali": "त्रिवेणी सुस्ता",
+        "districts": "Parasi",
+        "population": 43797,
+        "area": 112.17,
+        "density": 390
+    },
+    {
+        "name": "Suwarna",
+        "nepali": "सुवर्ण",
+        "districts": "Bara",
+        "population": 29602,
+        "area": 36.84,
+        "density": 804
+    },
+    {
+        "name": "Swami Kartik Khapar",
+        "nepali": "स्वामिकार्तिक खापर",
+        "districts": "Bajura",
+        "population": 12784,
+        "area": 110.55,
+        "density": 116
+    },
+    {
+        "name": "Tadi",
+        "nepali": "तादी",
+        "districts": "Nuwakot",
+        "population": 17932,
+        "area": 69.8,
+        "density": 257
+    },
+    {
+        "name": "Talkot",
+        "nepali": "तलकोट",
+        "districts": "Bajhang",
+        "population": 11557,
+        "area": 335.26,
+        "density": 34
+    },
+    {
+        "name": "Tamakoshi",
+        "nepali": "तामाकोशी",
+        "districts": "Dolakha",
+        "population": 18849,
+        "area": 153.06,
+        "density": 123
+    },
+    {
+        "name": "Tamankhola",
+        "nepali": "तमानखोला",
+        "districts": "Baglung",
+        "population": 10659,
+        "area": 178.02,
+        "density": 60,
+        "website": "https://tamankholamun.gov.np/"
+    },
+    {
+        "name": "Tanjakot",
+        "nepali": "ताँजाकोट",
+        "districts": "Humla",
+        "population": 5964,
+        "area": 159.1,
+        "density": 37
+    },
+    {
+        "name": "Tapli",
+        "nepali": "ताप्ली",
+        "districts": "Udayapur",
+        "population": 14562,
+        "area": 119.11,
+        "density": 122,
+        "website": "https://taplimun.gov.np/"
+    },
+    {
+        "name": "Tarakhola",
+        "nepali": "ताराखोला",
+        "districts": "Baglung",
+        "population": 12009,
+        "area": 129.53,
+        "density": 93,
+        "website": "https://tarakholamun.gov.np/"
+    },
+    {
+        "name": "Tarkeshwar",
+        "nepali": "तारकेश्वर",
+        "districts": "Nuwakot",
+        "population": 15719,
+        "area": 72.62,
+        "density": 216
+    },
+    {
+        "name": "Tatopani",
+        "nepali": "तातोपानी",
+        "districts": "Jumla",
+        "population": 14638,
+        "area": 525.56,
+        "density": 28
+    },
+    {
+        "name": "Temal",
+        "nepali": "तेमाल",
+        "districts": "Kavrepalanchok",
+        "population": 22712,
+        "area": 89,
+        "density": 255
+    },
+    {
+        "name": "Thabang",
+        "nepali": "थवाङ",
+        "districts": "Rolpa",
+        "population": 10881,
+        "area": 191.07,
+        "density": 57
+    },
+    {
+        "name": "Thakre",
+        "nepali": "थाक्रे",
+        "districts": "Dhading",
+        "population": 32914,
+        "area": 96.41,
+        "density": 341
+    },
+    {
+        "name": "Thalara",
+        "nepali": "थलारा",
+        "districts": "Bajhang",
+        "population": 17952,
+        "area": 105.51,
+        "density": 170
+    },
+    {
+        "name": "Thantikandh",
+        "nepali": "ठाँटीकाँध",
+        "districts": "Dailekh",
+        "population": 18896,
+        "area": 88.22,
+        "density": 214
+    },
+    {
+        "name": "Thasang",
+        "nepali": "थासाङ",
+        "districts": "Mustang",
+        "population": 2912,
+        "area": 289,
+        "density": 10,
+        "website": "https://thasangmun.gov.np/"
+    },
+    {
+        "name": "Thori",
+        "nepali": "ठोरी",
+        "districts": "Parsa",
+        "population": 20296,
+        "area": 128.67,
+        "density": 158
+    },
+    {
+        "name": "Thulung Dudhkoshi",
+        "nepali": "थुलुङ दुधकोशी",
+        "districts": "Solukhumbu",
+        "population": 19672,
+        "area": 144.6,
+        "density": 136,
+        "website": "https://dudhkaushikamun.gov.np/"
+    },
+    {
+        "name": "Tila",
+        "nepali": "तिला",
+        "districts": "Jumla",
+        "population": 13607,
+        "area": 175.49,
+        "density": 78
+    },
+    {
+        "name": "Tilathi Koiladi",
+        "nepali": "तिलाठी कोईलाडी",
+        "districts": "Saptari",
+        "population": 32389,
+        "area": 32.91,
+        "density": 984
+    },
+    {
+        "name": "Tinau",
+        "nepali": "तिनाउ",
+        "districts": "Palpa",
+        "population": 19085,
+        "area": 202,
+        "density": 94
+    },
+    {
+        "name": "Tinpatan",
+        "nepali": "तिनपाटन",
+        "districts": "Sindhuli",
+        "population": 38395,
+        "area": 280.26,
+        "density": 137
+    },
+    {
+        "name": "Tirhut",
+        "nepali": "तिरहुत",
+        "districts": "Saptari",
+        "population": 22010,
+        "area": 37.81,
+        "density": 582
+    },
+    {
+        "name": "Tribeni",
+        "nepali": "त्रिवेणी",
+        "districts": "Western Rukum",
+        "population": 19404,
+        "area": 85.49,
+        "density": 227
+    },
+    {
+        "name": "Tribeni",
+        "nepali": "त्रिवेणी",
+        "districts": "Salyan",
+        "population": 16634,
+        "area": 119.11,
+        "density": 140
+    },
+    {
+        "name": "Tripurasundari",
+        "nepali": "त्रिपुरासुन्दरी",
+        "districts": "Dhading",
+        "population": 22960,
+        "area": 271.23,
+        "density": 85
+    },
+    {
+        "name": "Tripurasundari",
+        "nepali": "त्रिपुरासुन्दरी",
+        "districts": "Sindhupalchok",
+        "population": 15062,
+        "area": 94.28,
+        "density": 160
+    },
+    {
+        "name": "Triveni",
+        "nepali": "त्रिवेणी",
+        "districts": "Rolpa",
+        "population": 22957,
+        "area": 205.39,
+        "density": 112
+    },
+    {
+        "name": "Tsum Nubri",
+        "nepali": "चुम नुव्री",
+        "districts": "Gorkha",
+        "population": 6923,
+        "area": 1648.65,
+        "density": 4
+    },
+    {
+        "name": "Tumbewa",
+        "nepali": "तुम्बेवा",
+        "districts": "Panchthar",
+        "population": 13419,
+        "area": 117.34,
+        "density": 114,
+        "website": "https://tumwewamun.gov.np/"
+    },
+    {
+        "name": "Turmakhand",
+        "nepali": "तुर्माखाँद",
+        "districts": "Achham",
+        "population": 24940,
+        "area": 232.07,
+        "density": 107
+    },
+    {
+        "name": "Tyamke Maiyum",
+        "nepali": "ट्याम्केमैयुम",
+        "districts": "Bhojpur",
+        "population": 17911,
+        "area": 173.41,
+        "density": 103,
+        "website": "https://tyamkemaiyummun.gov.np/"
+    },
+    {
+        "name": "Udayapurgadhi",
+        "nepali": "उदयपुरगढी",
+        "districts": "Udayapur",
+        "population": 30731,
+        "area": 209.51,
+        "density": 147,
+        "website": "https://udayapurgadhimun.gov.np/"
+    },
+    {
+        "name": "Umakunda",
+        "nepali": "उमाकुण्ड",
+        "districts": "Ramechhap",
+        "population": 17601,
+        "area": 451.99,
+        "density": 39
+    },
+    {
+        "name": "Uttargaya",
+        "nepali": "उत्तरगया",
+        "districts": "Rasuwa",
+        "population": 8255,
+        "area": 104.51,
+        "density": 79
+    },
+    {
+        "name": "Vyans (Byans)",
+        "nepali": "ब्याँस",
+        "districts": "Darchula",
+        "population": 10347,
+        "area": 839.26,
+        "density": 12
+    },
+    {
+        "name": "Yamunamai",
+        "nepali": "यमुनामाई",
+        "districts": "Rautahat",
+        "population": 23885,
+        "area": 16.7,
+        "density": 1430
+    },
+    {
+        "name": "Yangwarak",
+        "nepali": "याङवरक",
+        "districts": "Panchthar",
+        "population": 18281,
+        "area": 208.63,
+        "density": 88,
+        "website": "https://yangwarakmunpanchthar.gov.np/"
+    },
+    {
+        "name": "Yasodhara",
+        "nepali": "यसोधरा",
+        "districts": "Kapilvastu",
+        "population": 38952,
+        "area": 67.56,
+        "density": 577
+    }
+]
