@@ -2,7 +2,7 @@
     {
         "name": "Aadarsha",
         "nepali": "आदर्श",
-        "districts": "Doti",
+        "district": "Doti",
         "population": 23945,
         "area": 128.47,
         "density": 186
@@ -10,7 +10,7 @@
     {
         "name": "Aalitaal",
         "nepali": "आलिताल",
-        "districts": "Dadeldhura",
+        "district": "Dadeldhura",
         "population": 18531,
         "area": 292.87,
         "density": 63
@@ -18,7 +18,7 @@
     {
         "name": "Aamachodingmo",
         "nepali": "आमाछोदिङमो",
-        "districts": "Rasuwa",
+        "district": "Rasuwa",
         "population": 5490,
         "area": 682.23,
         "density": 8
@@ -26,7 +26,7 @@
     {
         "name": "Aamchok",
         "nepali": "आमचोक",
-        "districts": "Bhojpur",
+        "district": "Bhojpur",
         "population": 18720,
         "area": 184.89,
         "density": 101,
@@ -35,7 +35,7 @@
     {
         "name": "Aanbu Khaireni",
         "nepali": "आँबुखैरेनी",
-        "districts": "Tanahun",
+        "district": "Tanahun",
         "population": 20768,
         "area": 128,
         "density": 162,
@@ -44,7 +44,7 @@
     {
         "name": "Aandhikhola",
         "nepali": "आँधीखोला",
-        "districts": "Syangja",
+        "district": "Syangja",
         "population": 16589,
         "area": 69.61,
         "density": 238,
@@ -53,7 +53,7 @@
     {
         "name": "Aarughat",
         "nepali": "आरूघाट",
-        "districts": "Gorkha",
+        "district": "Gorkha",
         "population": 23887,
         "area": 160.79,
         "density": 149,
@@ -62,7 +62,7 @@
     {
         "name": "Aathrai",
         "nepali": "आठराई",
-        "districts": "Terhathum",
+        "district": "Terhathum",
         "population": 21747,
         "area": 167.07,
         "density": 130,
@@ -71,7 +71,7 @@
     {
         "name": "Aathrai Triveni",
         "nepali": "आठराई त्रिवेणी",
-        "districts": "Taplejung",
+        "district": "Taplejung",
         "population": 13784,
         "area": 88.83,
         "density": 155,
@@ -80,7 +80,7 @@
     {
         "name": "Adanchuli",
         "nepali": "अदानचुली",
-        "districts": "Humla",
+        "district": "Humla",
         "population": 7116,
         "area": 150.61,
         "density": 47
@@ -88,7 +88,7 @@
     {
         "name": "Adarsha Kotwal",
         "nepali": "आदर्श कोतवाल",
-        "districts": "Bara",
+        "district": "Bara",
         "population": 27552,
         "area": 36.25,
         "density": 760
@@ -96,7 +96,7 @@
     {
         "name": "Agnisaira Krishnasavaran",
         "nepali": "अग्निसाइर कृष्णासवरन",
-        "districts": "Saptari",
+        "district": "Saptari",
         "population": 27129,
         "area": 103.08,
         "density": 263
@@ -104,7 +104,7 @@
     {
         "name": "Airawati",
         "nepali": "ऐरावती",
-        "districts": "Pyuthan",
+        "district": "Pyuthan",
         "population": 22392,
         "area": 156.75,
         "density": 143
@@ -112,7 +112,7 @@
     {
         "name": "Aiselukharka",
         "nepali": "ऐसेलुखर्क",
-        "districts": "Khotang",
+        "district": "Khotang",
         "population": 16097,
         "area": 125.93,
         "density": 128,
@@ -121,7 +121,7 @@
     {
         "name": "Ajaymeru",
         "nepali": "अजयमेरु",
-        "districts": "Dadeldhura",
+        "district": "Dadeldhura",
         "population": 7066,
         "area": 148.9,
         "density": 47
@@ -129,7 +129,7 @@
     {
         "name": "Ajirkot",
         "nepali": "अजिरकोट",
-        "districts": "Gorkha",
+        "district": "Gorkha",
         "population": 14802,
         "area": 198.05,
         "density": 75,
@@ -138,7 +138,7 @@
     {
         "name": "Annapurna",
         "nepali": "अन्नपुर्ण",
-        "districts": "Kaski",
+        "district": "Kaski",
         "population": 23417,
         "area": 33.33,
         "density": 703,
@@ -147,7 +147,7 @@
     {
         "name": "Annapurna",
         "nepali": "अन्नपुर्ण",
-        "districts": "Myagdi",
+        "district": "Myagdi",
         "population": 13315,
         "area": 556.41,
         "density": 24,
@@ -156,7 +156,7 @@
     {
         "name": "Api Himal",
         "nepali": "अपि हिमाल",
-        "districts": "Darchula",
+        "district": "Darchula",
         "population": 6779,
         "area": 613.95,
         "density": 11
@@ -164,7 +164,7 @@
     {
         "name": "Arjun Chaupari",
         "nepali": "अर्जुन चौपारी",
-        "districts": "Syangja",
+        "district": "Syangja",
         "population": 16176,
         "area": 57.22,
         "density": 283,
@@ -173,7 +173,7 @@
     {
         "name": "Arnama",
         "nepali": "अर्नमा",
-        "districts": "Siraha",
+        "district": "Siraha",
         "population": 22912,
         "area": 37.76,
         "density": 607
@@ -181,7 +181,7 @@
     {
         "name": "Arun",
         "nepali": "अरुण",
-        "districts": "Bhojpur",
+        "district": "Bhojpur",
         "population": 17687,
         "area": 154.76,
         "density": 114,
@@ -190,7 +190,7 @@
     {
         "name": "Aurahi",
         "nepali": "औरही",
-        "districts": "Dhanusha",
+        "district": "Dhanusha",
         "population": 22578,
         "area": 25.56,
         "density": 883
@@ -198,7 +198,7 @@
     {
         "name": "Aurahi",
         "nepali": "औरही",
-        "districts": "Siraha",
+        "district": "Siraha",
         "population": 23046,
         "area": 35.87,
         "density": 642
@@ -206,7 +206,7 @@
     {
         "name": "Babai",
         "nepali": "बबई",
-        "districts": "Dang",
+        "district": "Dang",
         "population": 27469,
         "area": 257.48,
         "density": 107
@@ -214,7 +214,7 @@
     {
         "name": "Badhaiyatal",
         "nepali": "बढैयाताल",
-        "districts": "Bardiya",
+        "district": "Bardiya",
         "population": 47868,
         "area": 115.19,
         "density": 416
@@ -222,7 +222,7 @@
     {
         "name": "Badigad",
         "nepali": "वडिगाड",
-        "districts": "Baglung",
+        "district": "Baglung",
         "population": 30906,
         "area": 178.68,
         "density": 173,
@@ -231,7 +231,7 @@
     {
         "name": "Badikedar",
         "nepali": "बड्डी केदार",
-        "districts": "Doti",
+        "district": "Doti",
         "population": 16720,
         "area": 332.55,
         "density": 50
@@ -239,7 +239,7 @@
     {
         "name": "Bagmati",
         "nepali": "बाग्मती",
-        "districts": "Lalitpur",
+        "district": "Lalitpur",
         "population": 13049,
         "area": 111.49,
         "density": 117
@@ -247,7 +247,7 @@
     {
         "name": "Bagmati",
         "nepali": "बाग्मती",
-        "districts": "Makwanpur",
+        "district": "Makwanpur",
         "population": 30495,
         "area": 311.79,
         "density": 98
@@ -255,7 +255,7 @@
     {
         "name": "Bagnaskali",
         "nepali": "वगनासकाली",
-        "districts": "Palpa",
+        "district": "Palpa",
         "population": 21361,
         "area": 84.17,
         "density": 254
@@ -263,7 +263,7 @@
     {
         "name": "Baijanath",
         "nepali": "वैजनाथ",
-        "districts": "Banke",
+        "district": "Banke",
         "population": 54418,
         "area": 141.67,
         "density": 384
@@ -271,7 +271,7 @@
     {
         "name": "Baiteshwar",
         "nepali": "वैतेश्वर",
-        "districts": "Dolakha",
+        "district": "Dolakha",
         "population": 19876,
         "area": 80.41,
         "density": 247
@@ -279,7 +279,7 @@
     {
         "name": "Bakaiya",
         "nepali": "बकैया",
-        "districts": "Makwanpur",
+        "district": "Makwanpur",
         "population": 39620,
         "area": 393.75,
         "density": 101
@@ -287,7 +287,7 @@
     {
         "name": "Balan-Bihul",
         "nepali": "बलान-बिहुल",
-        "districts": "Saptari",
+        "district": "Saptari",
         "population": 26068,
         "area": 33.04,
         "density": 789
@@ -295,7 +295,7 @@
     {
         "name": "Balephi",
         "nepali": "बलेफी",
-        "districts": "Sindhupalchok",
+        "district": "Sindhupalchok",
         "population": 18909,
         "area": 61.6,
         "density": 307
@@ -303,7 +303,7 @@
     {
         "name": "Bandipur",
         "nepali": "बन्दिपुर",
-        "districts": "Tanahun",
+        "district": "Tanahun",
         "population": 20013,
         "area": 102,
         "density": 196,
@@ -312,7 +312,7 @@
     {
         "name": "Banglachuli",
         "nepali": "वंगलाचुली",
-        "districts": "Dang",
+        "district": "Dang",
         "population": 24245,
         "area": 245.14,
         "density": 99
@@ -320,7 +320,7 @@
     {
         "name": "Bannigadi Jayagad",
         "nepali": "बान्नीगडीजैगड",
-        "districts": "Achham",
+        "district": "Achham",
         "population": 17359,
         "area": 58.26,
         "density": 298
@@ -328,7 +328,7 @@
     {
         "name": "Banphikot",
         "nepali": "बाँफिकोट",
-        "districts": "Western Rukum",
+        "district": "Western Rukum",
         "population": 18696,
         "area": 190.42,
         "density": 98
@@ -336,7 +336,7 @@
     {
         "name": "Baragadhi",
         "nepali": "बारागढी",
-        "districts": "Bara",
+        "district": "Bara",
         "population": 27191,
         "area": 39.29,
         "density": 692
@@ -344,7 +344,7 @@
     {
         "name": "Baragung Muktichhetra",
         "nepali": "बारागुङ मुक्तिक्षेत्र",
-        "districts": "Mustang",
+        "district": "Mustang",
         "population": 2330,
         "area": 886,
         "density": 3,
@@ -353,7 +353,7 @@
     {
         "name": "Barahatal",
         "nepali": "बराहताल",
-        "districts": "Surkhet",
+        "district": "Surkhet",
         "population": 26802,
         "area": 455.09,
         "density": 59
@@ -361,7 +361,7 @@
     {
         "name": "Barahpokhari",
         "nepali": "बराहपोखरी",
-        "districts": "Khotang",
+        "district": "Khotang",
         "population": 14349,
         "area": 141.57,
         "density": 101,
@@ -370,7 +370,7 @@
     {
         "name": "Bardagoriya",
         "nepali": "बर्गगोरिया",
-        "districts": "Kailali",
+        "district": "Kailali",
         "population": 32683,
         "area": 77.26,
         "density": 423
@@ -378,7 +378,7 @@
     {
         "name": "Barekot",
         "nepali": "बारेकोट",
-        "districts": "Jajarkot",
+        "district": "Jajarkot",
         "population": 18083,
         "area": 577.5,
         "density": 31
@@ -386,7 +386,7 @@
     {
         "name": "Bareng",
         "nepali": "वरेङ",
-        "districts": "Baglung",
+        "district": "Baglung",
         "population": 14492,
         "area": 75.28,
         "density": 193,
@@ -395,7 +395,7 @@
     {
         "name": "Barhadashi",
         "nepali": "बाह्रदशी",
-        "districts": "Jhapa",
+        "district": "Jhapa",
         "population": 33653,
         "area": 88.44,
         "density": 381,
@@ -404,7 +404,7 @@
     {
         "name": "Bariyarpatti",
         "nepali": "बरियारपट्टी",
-        "districts": "Siraha",
+        "district": "Siraha",
         "population": 25256,
         "area": 37.72,
         "density": 670
@@ -412,7 +412,7 @@
     {
         "name": "Barju",
         "nepali": "बर्जु",
-        "districts": "Sunsari",
+        "district": "Sunsari",
         "population": 31178,
         "area": 69.43,
         "density": 449,
@@ -421,7 +421,7 @@
     {
         "name": "Barpak Sulikot",
         "nepali": "बारपाक सुलीकोट",
-        "districts": "Gorkha",
+        "district": "Gorkha",
         "population": 25389,
         "area": 200.63,
         "density": 127,
@@ -430,7 +430,7 @@
     {
         "name": "Basbariya",
         "nepali": "बसबरिया",
-        "districts": "Sarlahi",
+        "district": "Sarlahi",
         "population": 23568,
         "area": 29.42,
         "density": 801
@@ -438,7 +438,7 @@
     {
         "name": "Bateshwar",
         "nepali": "बटेश्वर",
-        "districts": "Dhanusha",
+        "district": "Dhanusha",
         "population": 21530,
         "area": 31.66,
         "density": 680
@@ -446,7 +446,7 @@
     {
         "name": "Baudikali",
         "nepali": "बौदीकाली",
-        "districts": "Nawalpur",
+        "district": "Nawalpur",
         "population": 15734,
         "area": 91.87,
         "density": 171,
@@ -455,7 +455,7 @@
     {
         "name": "Beldandi",
         "nepali": "बेलडाँडी",
-        "districts": "Kanchanpur",
+        "district": "Kanchanpur",
         "population": 21949,
         "area": 36.7,
         "density": 598
@@ -463,7 +463,7 @@
     {
         "name": "Benighat Rorang",
         "nepali": "बेनीघाट रोराङ्ग",
-        "districts": "Dhading",
+        "district": "Dhading",
         "population": 31475,
         "area": 29.17,
         "density": 1079
@@ -471,7 +471,7 @@
     {
         "name": "Bethanchok",
         "nepali": "बेथानचोक",
-        "districts": "Kavrepalanchok",
+        "district": "Kavrepalanchok",
         "population": 16777,
         "area": 101,
         "density": 166
@@ -479,7 +479,7 @@
     {
         "name": "Bhagawatimai",
         "nepali": "भगवतीमाई",
-        "districts": "Dailekh",
+        "district": "Dailekh",
         "population": 18778,
         "area": 151.52,
         "density": 124
@@ -487,7 +487,7 @@
     {
         "name": "Bhageshwar",
         "nepali": "भागेश्वर",
-        "districts": "Dadeldhura",
+        "district": "Dadeldhura",
         "population": 14129,
         "area": 233.38,
         "density": 61
@@ -495,7 +495,7 @@
     {
         "name": "Bhagwanpur",
         "nepali": "भगवानपुर",
-        "districts": "Siraha",
+        "district": "Siraha",
         "population": 20957,
         "area": 33.03,
         "density": 634
@@ -503,7 +503,7 @@
     {
         "name": "Bhairabi",
         "nepali": "भैरवी",
-        "districts": "Dailekh",
+        "district": "Dailekh",
         "population": 21233,
         "area": 110.46,
         "density": 192
@@ -511,7 +511,7 @@
     {
         "name": "Bhimphedi",
         "nepali": "भीमफेदी",
-        "districts": "Makwanpur",
+        "district": "Makwanpur",
         "population": 23344,
         "area": 245.27,
         "density": 95
@@ -519,7 +519,7 @@
     {
         "name": "Bhimsen Thapa",
         "nepali": "भिमसेनथापा",
-        "districts": "Gorkha",
+        "district": "Gorkha",
         "population": 22033,
         "area": 101.25,
         "density": 218,
@@ -528,7 +528,7 @@
     {
         "name": "Bhokraha",
         "nepali": "भोक्राहा",
-        "districts": "Sunsari",
+        "district": "Sunsari",
         "population": 40509,
         "area": 63.37,
         "density": 639,
@@ -537,7 +537,7 @@
     {
         "name": "Bhot Khola",
         "nepali": "भोटखोला",
-        "districts": "Sankhuwasabha",
+        "district": "Sankhuwasabha",
         "population": 6576,
         "area": 639.01,
         "density": 10,
@@ -546,7 +546,7 @@
     {
         "name": "Bhotekoshi",
         "nepali": "भोटेकोशी",
-        "districts": "Sindhupalchok",
+        "district": "Sindhupalchok",
         "population": 17156,
         "area": 278.31,
         "density": 62
@@ -554,7 +554,7 @@
     {
         "name": "Bhume",
         "nepali": "भूमे",
-        "districts": "Eastern Rukum",
+        "district": "Eastern Rukum",
         "population": 18589,
         "area": 273.67,
         "density": 68
@@ -562,7 +562,7 @@
     {
         "name": "Bhumlu",
         "nepali": "भुम्लु",
-        "districts": "Kavrepalanchok",
+        "district": "Kavrepalanchok",
         "population": 18916,
         "area": 91,
         "density": 208
@@ -570,7 +570,7 @@
     {
         "name": "Bigu",
         "nepali": "विगु",
-        "districts": "Dolakha",
+        "district": "Dolakha",
         "population": 18449,
         "area": 663.2,
         "density": 28
@@ -578,7 +578,7 @@
     {
         "name": "Bihadi",
         "nepali": "विहादी",
-        "districts": "Parbat",
+        "district": "Parbat",
         "population": 13403,
         "area": 44.8,
         "density": 299
@@ -586,7 +586,7 @@
     {
         "name": "Bijaynagar",
         "nepali": "विजयनगर",
-        "districts": "Kapilvastu",
+        "district": "Kapilvastu",
         "population": 36937,
         "area": 173.19,
         "density": 213
@@ -594,7 +594,7 @@
     {
         "name": "Binayi Triveni",
         "nepali": "विनयी त्रिवेणी",
-        "districts": "Nawalpur",
+        "district": "Nawalpur",
         "population": 25036,
         "area": 267.13,
         "density": 94,
@@ -603,7 +603,7 @@
     {
         "name": "Bindabasini",
         "nepali": "बिन्दबासिनी",
-        "districts": "Parsa",
+        "district": "Parsa",
         "population": 24468,
         "area": 26.04,
         "density": 940
@@ -611,7 +611,7 @@
     {
         "name": "Biruwa",
         "nepali": "विरुवा",
-        "districts": "Syangja",
+        "district": "Syangja",
         "population": 18413,
         "area": 95.79,
         "density": 192,
@@ -620,7 +620,7 @@
     {
         "name": "Bishnu",
         "nepali": "विष्णु",
-        "districts": "Sarlahi",
+        "district": "Sarlahi",
         "population": 24748,
         "area": 28.09,
         "density": 881
@@ -628,7 +628,7 @@
     {
         "name": "Bishnupur",
         "nepali": "बिष्णुपुर",
-        "districts": "Saptari",
+        "district": "Saptari",
         "population": 23035,
         "area": 37,
         "density": 623
@@ -636,7 +636,7 @@
     {
         "name": "Bishnupur",
         "nepali": "विष्णुपुर",
-        "districts": "Siraha",
+        "district": "Siraha",
         "population": 18522,
         "area": 26.34,
         "density": 703
@@ -644,7 +644,7 @@
     {
         "name": "Bishrampur",
         "nepali": "विश्रामपुर",
-        "districts": "Bara",
+        "district": "Bara",
         "population": 23785,
         "area": 19.81,
         "density": 1201
@@ -652,7 +652,7 @@
     {
         "name": "Bitthadchir",
         "nepali": "बित्थडचिर",
-        "districts": "Bajhang",
+        "district": "Bajhang",
         "population": 17154,
         "area": 86.15,
         "density": 199
@@ -660,7 +660,7 @@
     {
         "name": "Bogatan-Phudsil",
         "nepali": "वोगटान–फुड्सिल",
-        "districts": "Doti",
+        "district": "Doti",
         "population": 17902,
         "area": 300.22,
         "density": 60
@@ -668,7 +668,7 @@
     {
         "name": "Brahampuri",
         "nepali": "ब्रह्मपुरी",
-        "districts": "Sarlahi",
+        "district": "Sarlahi",
         "population": 29832,
         "area": 33.89,
         "density": 880
@@ -676,7 +676,7 @@
     {
         "name": "Buddha Shanti",
         "nepali": "बुद्धशान्ति",
-        "districts": "Jhapa",
+        "district": "Jhapa",
         "population": 41615,
         "area": 79.78,
         "density": 522,
@@ -685,7 +685,7 @@
     {
         "name": "Budi Ganga",
         "nepali": "बुढीगंगा",
-        "districts": "Morang",
+        "district": "Morang",
         "population": 41586,
         "area": 56.41,
         "density": 737,
@@ -694,7 +694,7 @@
     {
         "name": "Bulingtar",
         "nepali": "बुलिङटार",
-        "districts": "Nawalpur",
+        "district": "Nawalpur",
         "population": 19122,
         "area": 147.68,
         "density": 129,
@@ -703,7 +703,7 @@
     {
         "name": "Chakraghatta",
         "nepali": "चक्रघट्टा",
-        "districts": "Sarlahi",
+        "district": "Sarlahi",
         "population": 27952,
         "area": 25.16,
         "density": 1111
@@ -711,7 +711,7 @@
     {
         "name": "Chame",
         "nepali": "चामे",
-        "districts": "Manang",
+        "district": "Manang",
         "population": 1129,
         "area": 78.86,
         "density": 14,
@@ -720,7 +720,7 @@
     {
         "name": "Champadevi",
         "nepali": "चम्पादेवी",
-        "districts": "Okhaldhunga",
+        "district": "Okhaldhunga",
         "population": 18613,
         "area": 126.91,
         "density": 147,
@@ -729,7 +729,7 @@
     {
         "name": "Chandrakot",
         "nepali": "चन्द्रकोट",
-        "districts": "Gulmi",
+        "district": "Gulmi",
         "population": 21827,
         "area": 105.73,
         "density": 206
@@ -737,7 +737,7 @@
     {
         "name": "Chandranagar",
         "nepali": "चन्द्रनगर",
-        "districts": "Sarlahi",
+        "district": "Sarlahi",
         "population": 33328,
         "area": 47.5,
         "density": 702
@@ -745,7 +745,7 @@
     {
         "name": "Chankheli",
         "nepali": "चंखेली",
-        "districts": "Humla",
+        "district": "Humla",
         "population": 5517,
         "area": 1310.41,
         "density": 4
@@ -753,7 +753,7 @@
     {
         "name": "Chaubise",
         "nepali": "चौविसे",
-        "districts": "Dhankuta",
+        "district": "Dhankuta",
         "population": 19283,
         "area": 147.6,
         "density": 131,
@@ -762,7 +762,7 @@
     {
         "name": "Chaukune",
         "nepali": "चौकुने",
-        "districts": "Surkhet",
+        "district": "Surkhet",
         "population": 25240,
         "area": 381.01,
         "density": 66
@@ -770,7 +770,7 @@
     {
         "name": "Chaunri Deurali",
         "nepali": "चौंरी देउराली",
-        "districts": "Kavrepalanchok",
+        "district": "Kavrepalanchok",
         "population": 20829,
         "area": 98,
         "density": 213
@@ -778,7 +778,7 @@
     {
         "name": "Chaurpati",
         "nepali": "चौरपाटी",
-        "districts": "Achham",
+        "district": "Achham",
         "population": 25149,
         "area": 182.16,
         "density": 138
@@ -786,7 +786,7 @@
     {
         "name": "Chhabis Pathibhera",
         "nepali": "छब्बीसपाथिभेरा",
-        "districts": "Bajhang",
+        "district": "Bajhang",
         "population": 16296,
         "area": 116.34,
         "density": 140
@@ -794,7 +794,7 @@
     {
         "name": "Chharka Tangsong",
         "nepali": "छार्का ताङसोङ",
-        "districts": "Dolpa",
+        "district": "Dolpa",
         "population": 1451,
         "area": 345.57,
         "density": 4
@@ -802,7 +802,7 @@
     {
         "name": "Chhathar",
         "nepali": "छथर",
-        "districts": "Terhathum",
+        "district": "Terhathum",
         "population": 16715,
         "area": 133.93,
         "density": 125,
@@ -811,7 +811,7 @@
     {
         "name": "Chhathar Jorpati",
         "nepali": "छथर जोरपाटी",
-        "districts": "Dhankuta",
+        "district": "Dhankuta",
         "population": 18322,
         "area": 102.83,
         "density": 178,
@@ -820,7 +820,7 @@
     {
         "name": "Chhatradev",
         "nepali": "छत्रदेव",
-        "districts": "Arghakhanchi",
+        "district": "Arghakhanchi",
         "population": 25336,
         "area": 87.62,
         "density": 289
@@ -828,7 +828,7 @@
     {
         "name": "Chhatrakot",
         "nepali": "छत्रकोट",
-        "districts": "Gulmi",
+        "district": "Gulmi",
         "population": 21481,
         "area": 87.01,
         "density": 247
@@ -836,7 +836,7 @@
     {
         "name": "Chhatreshwari",
         "nepali": "छत्रेश्वरी",
-        "districts": "Salyan",
+        "district": "Salyan",
         "population": 21452,
         "area": 150.69,
         "density": 142
@@ -844,7 +844,7 @@
     {
         "name": "Chhinnamasta",
         "nepali": "छिन्नमस्ता",
-        "districts": "Saptari",
+        "district": "Saptari",
         "population": 28370,
         "area": 38.71,
         "density": 733
@@ -852,7 +852,7 @@
     {
         "name": "Chhipahrmai",
         "nepali": "छिपहरमाई",
-        "districts": "Parsa",
+        "district": "Parsa",
         "population": 26671,
         "area": 24.9,
         "density": 1071
@@ -860,7 +860,7 @@
     {
         "name": "Chichila",
         "nepali": "चिचिला",
-        "districts": "Sankhuwasabha",
+        "district": "Sankhuwasabha",
         "population": 7065,
         "area": 88.63,
         "density": 80,
@@ -869,7 +869,7 @@
     {
         "name": "Chingad",
         "nepali": "चिङ्गाड",
-        "districts": "Surkhet",
+        "district": "Surkhet",
         "population": 17275,
         "area": 170.19,
         "density": 102
@@ -877,7 +877,7 @@
     {
         "name": "Chisankhugadhi",
         "nepali": "चिसंखुगढी",
-        "districts": "Okhaldhunga",
+        "district": "Okhaldhunga",
         "population": 15196,
         "area": 126.91,
         "density": 120,
@@ -886,7 +886,7 @@
     {
         "name": "Chulachuli",
         "nepali": "चुलाचुली",
-        "districts": "Ilam",
+        "district": "Ilam",
         "population": 20820,
         "area": 108.46,
         "density": 192,
@@ -895,7 +895,7 @@
     {
         "name": "Chure",
         "nepali": "चुरे",
-        "districts": "Kailali",
+        "district": "Kailali",
         "population": 18924,
         "area": 493.18,
         "density": 38
@@ -903,7 +903,7 @@
     {
         "name": "Dangisharan",
         "nepali": "दंगीशरण",
-        "districts": "Dang",
+        "district": "Dang",
         "population": 21484,
         "area": 110.7,
         "density": 194
@@ -911,7 +911,7 @@
     {
         "name": "Darma",
         "nepali": "दार्मा",
-        "districts": "Salyan",
+        "district": "Salyan",
         "population": 19966,
         "area": 81.46,
         "density": 245
@@ -919,7 +919,7 @@
     {
         "name": "Devghat",
         "nepali": "देवघाट",
-        "districts": "Tanahun",
+        "district": "Tanahun",
         "population": 16131,
         "area": 159,
         "density": 101,
@@ -928,7 +928,7 @@
     {
         "name": "Devtal",
         "nepali": "देवताल",
-        "districts": "Bara",
+        "district": "Bara",
         "population": 23223,
         "area": 23.31,
         "density": 996
@@ -936,7 +936,7 @@
     {
         "name": "Dewanganj",
         "nepali": "देवानगन्ज",
-        "districts": "Sunsari",
+        "district": "Sunsari",
         "population": 35073,
         "area": 53.56,
         "density": 655,
@@ -945,7 +945,7 @@
     {
         "name": "Dhanauji",
         "nepali": "धनौजी",
-        "districts": "Dhanusha",
+        "district": "Dhanusha",
         "population": 21395,
         "area": 22.13,
         "density": 967
@@ -953,7 +953,7 @@
     {
         "name": "Dhankari",
         "nepali": "ढँकारी",
-        "districts": "Achham",
+        "district": "Achham",
         "population": 21562,
         "area": 227.88,
         "density": 95
@@ -961,7 +961,7 @@
     {
         "name": "Dhankaul",
         "nepali": "धनकौल",
-        "districts": "Sarlahi",
+        "district": "Sarlahi",
         "population": 24788,
         "area": 45.94,
         "density": 540
@@ -969,7 +969,7 @@
     {
         "name": "Dhanpalthan",
         "nepali": "धनपालथान",
-        "districts": "Morang",
+        "district": "Morang",
         "population": 39394,
         "area": 70.26,
         "density": 561,
@@ -978,7 +978,7 @@
     {
         "name": "Dharche",
         "nepali": "धार्चे",
-        "districts": "Gorkha",
+        "district": "Gorkha",
         "population": 13229,
         "area": 651.52,
         "density": 20
@@ -986,7 +986,7 @@
     {
         "name": "Dhaulagiri",
         "nepali": "धवलागिरी",
-        "districts": "Myagdi",
+        "district": "Myagdi",
         "population": 14104,
         "area": 1037,
         "density": 14,
@@ -995,7 +995,7 @@
     {
         "name": "Dhobini",
         "nepali": "धोबीनी",
-        "districts": "Parsa",
+        "district": "Parsa",
         "population": 19911,
         "area": 24.41,
         "density": 816
@@ -1003,7 +1003,7 @@
     {
         "name": "Dhurkot",
         "nepali": "धुर्कोट",
-        "districts": "Gulmi",
+        "district": "Gulmi",
         "population": 22454,
         "area": 86.32,
         "density": 260
@@ -1011,7 +1011,7 @@
     {
         "name": "Dilashaini",
         "nepali": "डिलाशैनी",
-        "districts": "Baitadi",
+        "district": "Baitadi",
         "population": 22924,
         "area": 125.28,
         "density": 183
@@ -1019,7 +1019,7 @@
     {
         "name": "Diprung",
         "nepali": "दिप्रुङ",
-        "districts": "Khotang",
+        "district": "Khotang",
         "population": 20175,
         "area": 136.59,
         "density": 148,
@@ -1028,7 +1028,7 @@
     {
         "name": "Dogdakedar",
         "nepali": "दोगडाकेदार",
-        "districts": "Baitadi",
+        "district": "Baitadi",
         "population": 24632,
         "area": 126.38,
         "density": 195
@@ -1036,7 +1036,7 @@
     {
         "name": "Dolpo Buddha",
         "nepali": "डोल्पो बुद्ध",
-        "districts": "Dolpa",
+        "district": "Dolpa",
         "population": 2126,
         "area": 377.38,
         "density": 6
@@ -1044,7 +1044,7 @@
     {
         "name": "Doramba",
         "nepali": "दोरम्बा",
-        "districts": "Ramechhap",
+        "district": "Ramechhap",
         "population": 22738,
         "area": 140.88,
         "density": 161
@@ -1052,7 +1052,7 @@
     {
         "name": "Dordi",
         "nepali": "दोर्दी",
-        "districts": "Lamjung",
+        "district": "Lamjung",
         "population": 18392,
         "area": 350.93,
         "density": 52,
@@ -1061,7 +1061,7 @@
     {
         "name": "Dudhpokhari",
         "nepali": "दूधपोखरी",
-        "districts": "Lamjung",
+        "district": "Lamjung",
         "population": 10975,
         "area": 153.33,
         "density": 72,
@@ -1070,7 +1070,7 @@
     {
         "name": "Duduwa",
         "nepali": "डुडुवा",
-        "districts": "Banke",
+        "district": "Banke",
         "population": 37460,
         "area": 91.1,
         "density": 411
@@ -1078,7 +1078,7 @@
     {
         "name": "Duhun Rural Municipality",
         "nepali": "दुहु",
-        "districts": "Darchula",
+        "district": "Darchula",
         "population": 10818,
         "area": 65.35,
         "density": 166
@@ -1086,7 +1086,7 @@
     {
         "name": "Dungeshwar",
         "nepali": "डुंगेश्वर",
-        "districts": "Dailekh",
+        "district": "Dailekh",
         "population": 15883,
         "area": 105.19,
         "density": 151
@@ -1094,7 +1094,7 @@
     {
         "name": "Dupcheshwar",
         "nepali": "दुप्चेश्वर",
-        "districts": "Nuwakot",
+        "district": "Nuwakot",
         "population": 22106,
         "area": 131.62,
         "density": 168
@@ -1102,7 +1102,7 @@
     {
         "name": "Durga Bhagawati",
         "nepali": "दुर्गा भगवती",
-        "districts": "Rautahat",
+        "district": "Rautahat",
         "population": 22599,
         "area": 19.8,
         "density": 1141
@@ -1110,7 +1110,7 @@
     {
         "name": "Durgathali",
         "nepali": "दुर्गाथली",
-        "districts": "Bajhang",
+        "district": "Bajhang",
         "population": 12972,
         "area": 61.83,
         "density": 210
@@ -1118,7 +1118,7 @@
     {
         "name": "Ekdara",
         "nepali": "एकडारा",
-        "districts": "Mahottari",
+        "district": "Mahottari",
         "population": 29315,
         "area": 24,
         "density": 1221
@@ -1126,7 +1126,7 @@
     {
         "name": "Gadhawa",
         "nepali": "गढवा",
-        "districts": "Dang",
+        "district": "Dang",
         "population": 38592,
         "area": 358.57,
         "density": 108
@@ -1134,7 +1134,7 @@
     {
         "name": "Gadhi",
         "nepali": "गढी",
-        "districts": "Sunsari",
+        "district": "Sunsari",
         "population": 34852,
         "area": 67.7,
         "density": 515,
@@ -1143,7 +1143,7 @@
     {
         "name": "Gaidhawa",
         "nepali": "गैडहवा",
-        "districts": "Rupandehi",
+        "district": "Rupandehi",
         "population": 47565,
         "area": 96.79,
         "density": 491
@@ -1151,7 +1151,7 @@
     {
         "name": "Gajuri",
         "nepali": "गजुरी",
-        "districts": "Dhading",
+        "district": "Dhading",
         "population": 27084,
         "area": 138.66,
         "density": 195
@@ -1159,7 +1159,7 @@
     {
         "name": "Galchhi",
         "nepali": "गल्छी",
-        "districts": "Dhading",
+        "district": "Dhading",
         "population": 27784,
         "area": 129.08,
         "density": 215
@@ -1167,7 +1167,7 @@
     {
         "name": "Gandaki",
         "nepali": "गण्डकी",
-        "districts": "Gorkha",
+        "district": "Gorkha",
         "population": 23253,
         "area": 123.86,
         "density": 188
@@ -1175,7 +1175,7 @@
     {
         "name": "Gangadev",
         "nepali": "गंगादेव",
-        "districts": "Rolpa",
+        "district": "Rolpa",
         "population": 20009,
         "area": 124.38,
         "density": 161
@@ -1183,7 +1183,7 @@
     {
         "name": "Gangajamuna",
         "nepali": "गङ्गाजमुना",
-        "districts": "Dhading",
+        "district": "Dhading",
         "population": 21784,
         "area": 152.72,
         "density": 143
@@ -1191,7 +1191,7 @@
     {
         "name": "Ganyapadhura",
         "nepali": "गन्यापधुरा",
-        "districts": "Dadeldhura",
+        "district": "Dadeldhura",
         "population": 15093,
         "area": 135.65,
         "density": 111
@@ -1199,7 +1199,7 @@
     {
         "name": "Gaumukhi",
         "nepali": "गौमुखी",
-        "districts": "Pyuthan",
+        "district": "Pyuthan",
         "population": 25421,
         "area": 139.04,
         "density": 183
@@ -1207,7 +1207,7 @@
     {
         "name": "Gaumul",
         "nepali": "गौमुल",
-        "districts": "Bajura",
+        "district": "Bajura",
         "population": 8515,
         "area": 314.66,
         "density": 27
@@ -1215,7 +1215,7 @@
     {
         "name": "Gaurigunj",
         "nepali": "गौरीगंज",
-        "districts": "Jhapa",
+        "district": "Jhapa",
         "population": 33038,
         "area": 101.35,
         "density": 326,
@@ -1224,7 +1224,7 @@
     {
         "name": "Gaurishankar",
         "nepali": "गौरिशंकर",
-        "districts": "Dolakha",
+        "district": "Dolakha",
         "population": 17062,
         "area": 681.39,
         "density": 25
@@ -1232,7 +1232,7 @@
     {
         "name": "Geruwa",
         "nepali": "गेरुवा",
-        "districts": "Bardiya",
+        "district": "Bardiya",
         "population": 34871,
         "area": 78.41,
         "density": 445
@@ -1240,7 +1240,7 @@
     {
         "name": "Gharapjhong",
         "nepali": "घरपझोङ",
-        "districts": "Mustang",
+        "district": "Mustang",
         "population": 3029,
         "area": 316,
         "density": 10,
@@ -1249,7 +1249,7 @@
     {
         "name": "Ghiring",
         "nepali": "घिरिङ",
-        "districts": "Tanahun",
+        "district": "Tanahun",
         "population": 19318,
         "area": 126,
         "density": 153,
@@ -1258,7 +1258,7 @@
     {
         "name": "Ghyanglekh",
         "nepali": "घ्याङलेख",
-        "districts": "Sindhuli",
+        "district": "Sindhuli",
         "population": 13661,
         "area": 166.77,
         "density": 82
@@ -1266,7 +1266,7 @@
     {
         "name": "Gokulganga",
         "nepali": "गोकुलगङ्गा",
-        "districts": "Ramechhap",
+        "district": "Ramechhap",
         "population": 20058,
         "area": 198.4,
         "density": 101
@@ -1274,7 +1274,7 @@
     {
         "name": "Golanjor",
         "nepali": "गोलन्जोर",
-        "districts": "Sindhuli",
+        "district": "Sindhuli",
         "population": 19329,
         "area": 184.13,
         "density": 105
@@ -1282,7 +1282,7 @@
     {
         "name": "Gosaikund",
         "nepali": "गोसाईकुण्ड",
-        "districts": "Rasuwa",
+        "district": "Rasuwa",
         "population": 7143,
         "area": 978.77,
         "density": 7
@@ -1290,7 +1290,7 @@
     {
         "name": "Gramthan",
         "nepali": "ग्रामथान",
-        "districts": "Morang",
+        "district": "Morang",
         "population": 32717,
         "area": 71.84,
         "density": 455,
@@ -1299,7 +1299,7 @@
     {
         "name": "Gulmi Darbar",
         "nepali": "गुल्मीदरवार",
-        "districts": "Gulmi",
+        "district": "Gulmi",
         "population": 22037,
         "area": 79.99,
         "density": 275
@@ -1307,7 +1307,7 @@
     {
         "name": "Gurans",
         "nepali": "गुराँस",
-        "districts": "Dailekh",
+        "district": "Dailekh",
         "population": 22033,
         "area": 164.79,
         "density": 134
@@ -1315,7 +1315,7 @@
     {
         "name": "Guthichaur",
         "nepali": "गुठिचौर",
-        "districts": "Jumla",
+        "district": "Jumla",
         "population": 9870,
         "area": 427,
         "density": 23
@@ -1323,7 +1323,7 @@
     {
         "name": "Haldibari",
         "nepali": "हल्दीवारी",
-        "districts": "Jhapa",
+        "district": "Jhapa",
         "population": 29223,
         "area": 117.34,
         "density": 249,
@@ -1332,7 +1332,7 @@
     {
         "name": "Hariharpurgadhi",
         "nepali": "हरिहरपुरगढी",
-        "districts": "Sindhuli",
+        "district": "Sindhuli",
         "population": 27727,
         "area": 343.9,
         "density": 81
@@ -1340,7 +1340,7 @@
     {
         "name": "Harinagara",
         "nepali": "हरिनगरा",
-        "districts": "Sunsari",
+        "district": "Sunsari",
         "population": 40846,
         "area": 52.29,
         "density": 781,
@@ -1349,7 +1349,7 @@
     {
         "name": "Harinas",
         "nepali": "हरीनास",
-        "districts": "Syangja",
+        "district": "Syangja",
         "population": 17343,
         "area": 87.48,
         "density": 198,
@@ -1358,7 +1358,7 @@
     {
         "name": "Hatuwagadhi",
         "nepali": "हतुवागढी",
-        "districts": "Bhojpur",
+        "district": "Bhojpur",
         "population": 20404,
         "area": 142.61,
         "density": 143,
@@ -1367,7 +1367,7 @@
     {
         "name": "Helambu",
         "nepali": "हेलम्बु",
-        "districts": "Sindhupalchok",
+        "district": "Sindhupalchok",
         "population": 17671,
         "area": 287.26,
         "density": 62
@@ -1375,7 +1375,7 @@
     {
         "name": "Hilihang",
         "nepali": "हिलिहाङ",
-        "districts": "Panchthar",
+        "district": "Panchthar",
         "population": 22913,
         "area": 123.01,
         "density": 186,
@@ -1384,7 +1384,7 @@
     {
         "name": "Hima",
         "nepali": "हिमा",
-        "districts": "Jumla",
+        "district": "Jumla",
         "population": 10961,
         "area": 132.32,
         "density": 83
@@ -1392,7 +1392,7 @@
     {
         "name": "Himali",
         "nepali": "हिमाली",
-        "districts": "Bajura",
+        "district": "Bajura",
         "population": 9214,
         "area": 830.33,
         "density": 11
@@ -1400,7 +1400,7 @@
     {
         "name": "Hupsekot",
         "nepali": "हुप्सेकोट",
-        "districts": "Nawalpur",
+        "district": "Nawalpur",
         "population": 25065,
         "area": 189.21,
         "density": 132,
@@ -1409,7 +1409,7 @@
     {
         "name": "Ichchhakamana",
         "nepali": "इच्छाकामना",
-        "districts": "Chitwan",
+        "district": "Chitwan",
         "population": 25012,
         "area": 166.73,
         "density": 150
@@ -1417,7 +1417,7 @@
     {
         "name": "Indrasarowar",
         "nepali": "ईन्द्र सरोवर",
-        "districts": "Makwanpur",
+        "district": "Makwanpur",
         "population": 17585,
         "area": 97.34,
         "density": 181
@@ -1425,7 +1425,7 @@
     {
         "name": "Indrawati",
         "nepali": "ईन्द्रावती",
-        "districts": "Sindhupalchok",
+        "district": "Sindhupalchok",
         "population": 28517,
         "area": 105.09,
         "density": 271
@@ -1433,7 +1433,7 @@
     {
         "name": "Isma",
         "nepali": "ईस्मा",
-        "districts": "Gulmi",
+        "district": "Gulmi",
         "population": 20964,
         "area": 81.88,
         "density": 256
@@ -1441,7 +1441,7 @@
     {
         "name": "Jagadulla",
         "nepali": "जगदुल्ला",
-        "districts": "Dolpa",
+        "district": "Dolpa",
         "population": 2273,
         "area": 83.3,
         "density": 27
@@ -1449,7 +1449,7 @@
     {
         "name": "Jagannath",
         "nepali": "जगन्नाथ",
-        "districts": "Bajura",
+        "district": "Bajura",
         "population": 9432,
         "area": 171.72,
         "density": 55
@@ -1457,7 +1457,7 @@
     {
         "name": "Jagarnathpur",
         "nepali": "जगरनाथपुर",
-        "districts": "Parsa",
+        "district": "Parsa",
         "population": 31591,
         "area": 45.29,
         "density": 698
@@ -1465,7 +1465,7 @@
     {
         "name": "Jahada",
         "nepali": "जहदा",
-        "districts": "Morang",
+        "district": "Morang",
         "population": 41819,
         "area": 62.38,
         "density": 670,
@@ -1474,7 +1474,7 @@
     {
         "name": "Jaljala",
         "nepali": "जलजला",
-        "districts": "Parbat",
+        "district": "Parbat",
         "population": 21454,
         "area": 82.26,
         "density": 261,
@@ -1483,7 +1483,7 @@
     {
         "name": "Janaki",
         "nepali": "जानकी",
-        "districts": "Banke",
+        "district": "Banke",
         "population": 37830,
         "area": 63.32,
         "density": 597
@@ -1491,7 +1491,7 @@
     {
         "name": "Janaki",
         "nepali": "जानकी",
-        "districts": "Kailali",
+        "district": "Kailali",
         "population": 48540,
         "area": 107.27,
         "density": 453
@@ -1499,7 +1499,7 @@
     {
         "name": "Janaknandini",
         "nepali": "जनकनन्दिनी",
-        "districts": "Dhanusha",
+        "district": "Dhanusha",
         "population": 25085,
         "area": 27.62,
         "density": 908
@@ -1507,7 +1507,7 @@
     {
         "name": "Jantedhunga",
         "nepali": "जन्तेढुंगा",
-        "districts": "Khotang",
+        "district": "Khotang",
         "population": 15444,
         "area": 128.68,
         "density": 120,
@@ -1516,7 +1516,7 @@
     {
         "name": "Jhapa",
         "nepali": "झापा",
-        "districts": "Jhapa",
+        "district": "Jhapa",
         "population": 34601,
         "area": 94.12,
         "density": 368,
@@ -1525,7 +1525,7 @@
     {
         "name": "Jhimruk",
         "nepali": "झिमरुक",
-        "districts": "Pyuthan",
+        "district": "Pyuthan",
         "population": 27931,
         "area": 106.93,
         "density": 261
@@ -1533,7 +1533,7 @@
     {
         "name": "Jirabhawani",
         "nepali": "जिरा भवानी",
-        "districts": "Parsa",
+        "district": "Parsa",
         "population": 22765,
         "area": 55.39,
         "density": 411
@@ -1541,7 +1541,7 @@
     {
         "name": "Jorayal",
         "nepali": "जोरायल",
-        "districts": "Doti",
+        "district": "Doti",
         "population": 20824,
         "area": 419.09,
         "density": 50
@@ -1549,7 +1549,7 @@
     {
         "name": "Joshipur",
         "nepali": "जोशीपुर",
-        "districts": "Kailali",
+        "district": "Kailali",
         "population": 36459,
         "area": 65.57,
         "density": 556
@@ -1557,7 +1557,7 @@
     {
         "name": "Jugal",
         "nepali": "जुगल",
-        "districts": "Sindhupalchok",
+        "district": "Sindhupalchok",
         "population": 19231,
         "area": 273.62,
         "density": 70
@@ -1565,7 +1565,7 @@
     {
         "name": "Junichande",
         "nepali": "जुनीचाँदे",
-        "districts": "Jajarkot",
+        "district": "Jajarkot",
         "population": 21733,
         "area": 346.21,
         "density": 63
@@ -1573,7 +1573,7 @@
     {
         "name": "Jwalamukhi",
         "nepali": "ज्वालामूखी",
-        "districts": "Dhading",
+        "district": "Dhading",
         "population": 23966,
         "area": 114.04,
         "density": 210
@@ -1581,7 +1581,7 @@
     {
         "name": "K.I. Singh",
         "nepali": "केआईसिंह",
-        "districts": "Doti",
+        "district": "Doti",
         "population": 20903,
         "area": 127.01,
         "density": 165
@@ -1589,7 +1589,7 @@
     {
         "name": "Kachankawal",
         "nepali": "कचनकवल",
-        "districts": "Jhapa",
+        "district": "Jhapa",
         "population": 39535,
         "area": 109.45,
         "density": 361,
@@ -1598,7 +1598,7 @@
     {
         "name": "Kaike",
         "nepali": "काईके",
-        "districts": "Dolpa",
+        "district": "Dolpa",
         "population": 3576,
         "area": 466.6,
         "density": 8
@@ -1606,7 +1606,7 @@
     {
         "name": "Kailari",
         "nepali": "कैलारी",
-        "districts": "Kailali",
+        "district": "Kailali",
         "population": 47987,
         "area": 233.27,
         "density": 206
@@ -1614,7 +1614,7 @@
     {
         "name": "Kailash",
         "nepali": "कैलाश",
-        "districts": "Makwanpur",
+        "district": "Makwanpur",
         "population": 23922,
         "area": 204.48,
         "density": 117
@@ -1622,7 +1622,7 @@
     {
         "name": "Kakani",
         "nepali": "ककनी",
-        "districts": "Nuwakot",
+        "district": "Nuwakot",
         "population": 27073,
         "area": 87.97,
         "density": 308
@@ -1630,7 +1630,7 @@
     {
         "name": "Kaligandaki",
         "nepali": "कालीगण्डकी",
-        "districts": "Syangja",
+        "district": "Syangja",
         "population": 21728,
         "area": 73.51,
         "density": 296,
@@ -1639,7 +1639,7 @@
     {
         "name": "Kaligandaki",
         "nepali": "कालीगण्डकी",
-        "districts": "Gulmi",
+        "district": "Gulmi",
         "population": 18876,
         "area": 101.04,
         "density": 187
@@ -1647,7 +1647,7 @@
     {
         "name": "Kalika",
         "nepali": "कालिका",
-        "districts": "Rasuwa",
+        "district": "Rasuwa",
         "population": 9421,
         "area": 192.54,
         "density": 49
@@ -1655,7 +1655,7 @@
     {
         "name": "Kalikamai",
         "nepali": "कालिकामाई",
-        "districts": "Parsa",
+        "district": "Parsa",
         "population": 21131,
         "area": 24.66,
         "density": 857
@@ -1663,7 +1663,7 @@
     {
         "name": "Kalimati",
         "nepali": "कालीमाटी",
-        "districts": "Salyan",
+        "district": "Salyan",
         "population": 23005,
         "area": 500.72,
         "density": 46
@@ -1671,7 +1671,7 @@
     {
         "name": "Kalinchok",
         "nepali": "कालिन्चोक",
-        "districts": "Dolakha",
+        "district": "Dolakha",
         "population": 22954,
         "area": 132.49,
         "density": 173
@@ -1679,7 +1679,7 @@
     {
         "name": "Kamal",
         "nepali": "कमल",
-        "districts": "Jhapa",
+        "district": "Jhapa",
         "population": 44365,
         "area": 104.57,
         "density": 424,
@@ -1688,7 +1688,7 @@
     {
         "name": "Kanchan",
         "nepali": "कञ्चन",
-        "districts": "Rupandehi",
+        "district": "Rupandehi",
         "population": 33072,
         "area": 58.51,
         "density": 565
@@ -1696,7 +1696,7 @@
     {
         "name": "Kanepokhari",
         "nepali": "कानेपोखरी",
-        "districts": "Morang",
+        "district": "Morang",
         "population": 38033,
         "area": 82.83,
         "density": 459,
@@ -1705,7 +1705,7 @@
     {
         "name": "Kankasundari",
         "nepali": "कनकासुन्दरी",
-        "districts": "Jumla",
+        "district": "Jumla",
         "population": 12977,
         "area": 225.39,
         "density": 58
@@ -1713,7 +1713,7 @@
     {
         "name": "Kapurkot",
         "nepali": "कपुरकोट",
-        "districts": "Salyan",
+        "district": "Salyan",
         "population": 18204,
         "area": 119.21,
         "density": 153
@@ -1721,7 +1721,7 @@
     {
         "name": "Karaiyamai",
         "nepali": "करैयामाई",
-        "districts": "Bara",
+        "district": "Bara",
         "population": 26400,
         "area": 47.69,
         "density": 554
@@ -1729,7 +1729,7 @@
     {
         "name": "Katahari",
         "nepali": "कटहरी",
-        "districts": "Morang",
+        "district": "Morang",
         "population": 39775,
         "area": 51.59,
         "density": 771,
@@ -1738,7 +1738,7 @@
     {
         "name": "Kathekhola",
         "nepali": "काठेखोला",
-        "districts": "Baglung",
+        "district": "Baglung",
         "population": 22865,
         "area": 82.88,
         "density": 276,
@@ -1747,7 +1747,7 @@
     {
         "name": "Kaudena",
         "nepali": "कौडेना",
-        "districts": "Sarlahi",
+        "district": "Sarlahi",
         "population": 26085,
         "area": 25.33,
         "density": 1030
@@ -1755,7 +1755,7 @@
     {
         "name": "Kedarsyu",
         "nepali": "केदारस्यु",
-        "districts": "Bajhang",
+        "district": "Bajhang",
         "population": 21307,
         "area": 113.91,
         "density": 187
@@ -1763,7 +1763,7 @@
     {
         "name": "Kepilasgadhi",
         "nepali": "केपिलासगढी",
-        "districts": "Khotang",
+        "district": "Khotang",
         "population": 15288,
         "area": 191.55,
         "density": 80,
@@ -1772,7 +1772,7 @@
     {
         "name": "Kerabari",
         "nepali": "केरावारी",
-        "districts": "Morang",
+        "district": "Morang",
         "population": 30431,
         "area": 219.83,
         "density": 138,
@@ -1781,7 +1781,7 @@
     {
         "name": "Khajura",
         "nepali": "खजुरा",
-        "districts": "Banke",
+        "district": "Banke",
         "population": 50961,
         "area": 101.91,
         "density": 500
@@ -1789,7 +1789,7 @@
     {
         "name": "Khandadevi",
         "nepali": "खाँडादेवी",
-        "districts": "Ramechhap",
+        "district": "Ramechhap",
         "population": 25761,
         "area": 150.7,
         "density": 171
@@ -1797,7 +1797,7 @@
     {
         "name": "Khanikhola",
         "nepali": "खानीखोला",
-        "districts": "Kavrepalanchok",
+        "district": "Kavrepalanchok",
         "population": 14398,
         "area": 132,
         "density": 109
@@ -1805,7 +1805,7 @@
     {
         "name": "Khaniyabas",
         "nepali": "खनियाबास",
-        "districts": "Dhading",
+        "district": "Dhading",
         "population": 12749,
         "area": 120.8,
         "density": 106
@@ -1813,7 +1813,7 @@
     {
         "name": "Khaptad Chhanna",
         "nepali": "छान्ना",
-        "districts": "Bajhang",
+        "district": "Bajhang",
         "population": 15893,
         "area": 113.52,
         "density": 140
@@ -1821,7 +1821,7 @@
     {
         "name": "Khaptad Chhededaha",
         "nepali": "खप्तड छेडेदह",
-        "districts": "Bajura",
+        "district": "Bajura",
         "population": 18575,
         "area": 135.08,
         "density": 138
@@ -1829,7 +1829,7 @@
     {
         "name": "Kharpunath",
         "nepali": "खार्पुनाथ",
-        "districts": "Humla",
+        "district": "Humla",
         "population": 6011,
         "area": 880,
         "density": 7
@@ -1837,7 +1837,7 @@
     {
         "name": "Khatyad",
         "nepali": "खत्याड",
-        "districts": "Mugu",
+        "district": "Mugu",
         "population": 17116,
         "area": 281.12,
         "density": 61
@@ -1845,7 +1845,7 @@
     {
         "name": "Khiji Demba",
         "nepali": "खिजिदेम्बा",
-        "districts": "Okhaldhunga",
+        "district": "Okhaldhunga",
         "population": 15106,
         "area": 179.77,
         "density": 84,
@@ -1854,7 +1854,7 @@
     {
         "name": "Khotehang",
         "nepali": "खोटेहाङ",
-        "districts": "Khotang",
+        "district": "Khotang",
         "population": 22474,
         "area": 164.09,
         "density": 137,
@@ -1863,7 +1863,7 @@
     {
         "name": "Khumbu Pasang Lhamu",
         "nepali": "खुम्बु पासाङल्हमु",
-        "districts": "Solukhumbu",
+        "district": "Solukhumbu",
         "population": 8989,
         "area": 1539.11,
         "density": 6,
@@ -1872,7 +1872,7 @@
     {
         "name": "Kispang",
         "nepali": "किस्पाङ",
-        "districts": "Nuwakot",
+        "district": "Nuwakot",
         "population": 14861,
         "area": 82.57,
         "density": 180
@@ -1880,7 +1880,7 @@
     {
         "name": "Konjyosom",
         "nepali": "कोन्ज्योसोम",
-        "districts": "Lalitpur",
+        "district": "Lalitpur",
         "population": 9709,
         "area": 44.16,
         "density": 220
@@ -1888,7 +1888,7 @@
     {
         "name": "Koshi",
         "nepali": "कोशी",
-        "districts": "Sunsari",
+        "district": "Sunsari",
         "population": 43626,
         "area": 75.98,
         "density": 574,
@@ -1897,7 +1897,7 @@
     {
         "name": "Kotahimai",
         "nepali": "कोटहीमाई",
-        "districts": "Rupandehi",
+        "district": "Rupandehi",
         "population": 41006,
         "area": 58.26,
         "density": 704
@@ -1905,7 +1905,7 @@
     {
         "name": "Kumakh",
         "nepali": "कुमाख",
-        "districts": "Salyan",
+        "district": "Salyan",
         "population": 24972,
         "area": 177.28,
         "density": 141
@@ -1913,7 +1913,7 @@
     {
         "name": "Kummayak",
         "nepali": "कुम्मायक",
-        "districts": "Panchthar",
+        "district": "Panchthar",
         "population": 16118,
         "area": 129.3,
         "density": 125,
@@ -1922,7 +1922,7 @@
     {
         "name": "Kushe",
         "nepali": "कुसे",
-        "districts": "Jajarkot",
+        "district": "Jajarkot",
         "population": 20621,
         "area": 273.97,
         "density": 75
@@ -1930,7 +1930,7 @@
     {
         "name": "Kwaholasothar",
         "nepali": "क्व्होलासोथार",
-        "districts": "Lamjung",
+        "district": "Lamjung",
         "population": 10032,
         "area": 175.37,
         "density": 57
@@ -1938,7 +1938,7 @@
     {
         "name": "Lakshminya",
         "nepali": "लक्ष्मीनिया",
-        "districts": "Dhanusha",
+        "district": "Dhanusha",
         "population": 28251,
         "area": 30.66,
         "density": 921
@@ -1946,7 +1946,7 @@
     {
         "name": "Laksmipur Patari",
         "nepali": "लक्ष्मीपुर पतारी",
-        "districts": "Siraha",
+        "district": "Siraha",
         "population": 26913,
         "area": 42.33,
         "density": 636
@@ -1954,7 +1954,7 @@
     {
         "name": "Laljhadi",
         "nepali": "लालझाँडी",
-        "districts": "Kanchanpur",
+        "district": "Kanchanpur",
         "population": 22569,
         "area": 154.65,
         "density": 146
@@ -1962,7 +1962,7 @@
     {
         "name": "Lekam",
         "nepali": "लेकम",
-        "districts": "Darchula",
+        "district": "Darchula",
         "population": 14838,
         "area": 83.98,
         "density": 177
@@ -1970,7 +1970,7 @@
     {
         "name": "Likhu",
         "nepali": "लिखु",
-        "districts": "Okhaldhunga",
+        "district": "Okhaldhunga",
         "population": 14049,
         "area": 88.03,
         "density": 160,
@@ -1979,7 +1979,7 @@
     {
         "name": "Likhu",
         "nepali": "लिखु",
-        "districts": "Nuwakot",
+        "district": "Nuwakot",
         "population": 16852,
         "area": 47.88,
         "density": 352
@@ -1987,7 +1987,7 @@
     {
         "name": "Likhu Pike",
         "nepali": "लिखुपिके",
-        "districts": "Solukhumbu",
+        "district": "Solukhumbu",
         "population": 5534,
         "area": 124.38,
         "density": 44,
@@ -1996,7 +1996,7 @@
     {
         "name": "Likhu Tamakoshi",
         "nepali": "लिखु तामाकोशी",
-        "districts": "Ramechhap",
+        "district": "Ramechhap",
         "population": 23109,
         "area": 124.51,
         "density": 186
@@ -2004,7 +2004,7 @@
     {
         "name": "Limchungbung",
         "nepali": "लिम्चुङबुङ",
-        "districts": "Udayapur",
+        "district": "Udayapur",
         "population": 11992,
         "area": 106.8,
         "density": 112,
@@ -2013,7 +2013,7 @@
     {
         "name": "Lisankhu Pakhar",
         "nepali": "लिसंखु पाखर",
-        "districts": "Sindhupalchok",
+        "district": "Sindhupalchok",
         "population": 15155,
         "area": 98.61,
         "density": 154
@@ -2021,7 +2021,7 @@
     {
         "name": "Lo-Ghekar Damodarkunda",
         "nepali": "लो-घेकर दामोदरकुण्ड",
-        "districts": "Mustang",
+        "district": "Mustang",
         "population": 1423,
         "area": 1344,
         "density": 1,
@@ -2030,7 +2030,7 @@
     {
         "name": "Lomanthang",
         "nepali": "लोमन्थाङ",
-        "districts": "Mustang",
+        "district": "Mustang",
         "population": 1899,
         "area": 727,
         "density": 3,
@@ -2039,7 +2039,7 @@
     {
         "name": "Lungri",
         "nepali": "लुङ्ग्री",
-        "districts": "Rolpa",
+        "district": "Rolpa",
         "population": 23631,
         "area": 135.23,
         "density": 175
@@ -2047,7 +2047,7 @@
     {
         "name": "Machhapuchhre",
         "nepali": "माछापुछ्रे",
-        "districts": "Kaski",
+        "district": "Kaski",
         "population": 21868,
         "area": 544.58,
         "density": 40,
@@ -2056,7 +2056,7 @@
     {
         "name": "Madane",
         "nepali": "मदाने",
-        "districts": "Gulmi",
+        "district": "Gulmi",
         "population": 21899,
         "area": 94.52,
         "density": 232
@@ -2064,7 +2064,7 @@
     {
         "name": "Madi",
         "nepali": "मादी",
-        "districts": "Kaski",
+        "district": "Kaski",
         "population": 18153,
         "area": 563,
         "density": 32,
@@ -2073,7 +2073,7 @@
     {
         "name": "Madi",
         "nepali": "माडी",
-        "districts": "Rolpa",
+        "district": "Rolpa",
         "population": 17986,
         "area": 129.05,
         "density": 139
@@ -2081,7 +2081,7 @@
     {
         "name": "Maha Kulung",
         "nepali": "महाकुलुङ",
-        "districts": "Solukhumbu",
+        "district": "Solukhumbu",
         "population": 11452,
         "area": 648.05,
         "density": 18,
@@ -2090,7 +2090,7 @@
     {
         "name": "Mahabharat",
         "nepali": "महाभारत",
-        "districts": "Kavrepalanchok",
+        "district": "Kavrepalanchok",
         "population": 18283,
         "area": 186,
         "density": 98
@@ -2098,7 +2098,7 @@
     {
         "name": "Mahabu",
         "nepali": "महावु",
-        "districts": "Dailekh",
+        "district": "Dailekh",
         "population": 19277,
         "area": 110.8,
         "density": 174
@@ -2106,7 +2106,7 @@
     {
         "name": "Mahadeva",
         "nepali": "महादेवा",
-        "districts": "Saptari",
+        "district": "Saptari",
         "population": 28542,
         "area": 34.97,
         "density": 816
@@ -2114,7 +2114,7 @@
     {
         "name": "Mahankal",
         "nepali": "महाङ्काल",
-        "districts": "Lalitpur",
+        "district": "Lalitpur",
         "population": 9453,
         "area": 82.44,
         "density": 115
@@ -2122,7 +2122,7 @@
     {
         "name": "Mahashila",
         "nepali": "महाशिला",
-        "districts": "Parbat",
+        "district": "Parbat",
         "population": 9857,
         "area": 49.38,
         "density": 200,
@@ -2131,7 +2131,7 @@
     {
         "name": "Mahawai",
         "nepali": "महावै",
-        "districts": "Kalikot",
+        "district": "Kalikot",
         "population": 8323,
         "area": 322.07,
         "density": 26
@@ -2139,7 +2139,7 @@
     {
         "name": "Mahottari",
         "nepali": "महोत्तरी",
-        "districts": "Mahottari",
+        "district": "Mahottari",
         "population": 27430,
         "area": 28.08,
         "density": 977
@@ -2147,7 +2147,7 @@
     {
         "name": "Mai Jogmai",
         "nepali": "माईजोगमाई",
-        "districts": "Ilam",
+        "district": "Ilam",
         "population": 21044,
         "area": 172.41,
         "density": 122,
@@ -2156,7 +2156,7 @@
     {
         "name": "Maiwa Khola",
         "nepali": "मैवाखोला",
-        "districts": "Taplejung",
+        "district": "Taplejung",
         "population": 11037,
         "area": 138,
         "density": 80,
@@ -2165,7 +2165,7 @@
     {
         "name": "Makalu",
         "nepali": "मकालु",
-        "districts": "Sankhuwasabha",
+        "district": "Sankhuwasabha",
         "population": 13204,
         "area": 519.45,
         "density": 25,
@@ -2174,7 +2174,7 @@
     {
         "name": "Makawanpurgadhi",
         "nepali": "मकवानपुरगढी",
-        "districts": "Makwanpur",
+        "district": "Makwanpur",
         "population": 25322,
         "area": 148.72,
         "density": 170
@@ -2182,7 +2182,7 @@
     {
         "name": "Malarani",
         "nepali": "मालारानी",
-        "districts": "Arghakhanchi",
+        "district": "Arghakhanchi",
         "population": 28044,
         "area": 101.06,
         "density": 277
@@ -2190,7 +2190,7 @@
     {
         "name": "Malika",
         "nepali": "मालिका",
-        "districts": "Myagdi",
+        "district": "Myagdi",
         "population": 19458,
         "area": 147,
         "density": 132,
@@ -2199,7 +2199,7 @@
     {
         "name": "Malika",
         "nepali": "मालिका",
-        "districts": "Gulmi",
+        "district": "Gulmi",
         "population": 21729,
         "area": 92.49,
         "density": 235
@@ -2207,7 +2207,7 @@
     {
         "name": "Malikarjun",
         "nepali": "मालिकार्जुन",
-        "districts": "Darchula",
+        "district": "Darchula",
         "population": 15581,
         "area": 100.82,
         "density": 155
@@ -2215,7 +2215,7 @@
     {
         "name": "Mallarani",
         "nepali": "मल्लरानी",
-        "districts": "Pyuthan",
+        "district": "Pyuthan",
         "population": 17686,
         "area": 80.09,
         "density": 221
@@ -2223,7 +2223,7 @@
     {
         "name": "Manahari",
         "nepali": "मनहरी",
-        "districts": "Makwanpur",
+        "district": "Makwanpur",
         "population": 38399,
         "area": 199.52,
         "density": 192
@@ -2231,7 +2231,7 @@
     {
         "name": "Manang Disyang",
         "nepali": "मनाङ डिस्याङ",
-        "districts": "Manang",
+        "district": "Manang",
         "population": 2222,
         "area": 694.63,
         "density": 3,
@@ -2240,7 +2240,7 @@
     {
         "name": "Mandavi",
         "nepali": "माण्डवी",
-        "districts": "Pyuthan",
+        "district": "Pyuthan",
         "population": 15058,
         "area": 113.08,
         "density": 133
@@ -2248,7 +2248,7 @@
     {
         "name": "Manebhanjyang",
         "nepali": "मानेभञ्ज्याङ",
-        "districts": "Okhaldhunga",
+        "district": "Okhaldhunga",
         "population": 21082,
         "area": 146.61,
         "density": 144,
@@ -2257,7 +2257,7 @@
     {
         "name": "Mangala",
         "nepali": "मंगला",
-        "districts": "Myagdi",
+        "district": "Myagdi",
         "population": 16286,
         "area": 89,
         "density": 183,
@@ -2266,7 +2266,7 @@
     {
         "name": "Mangsebung",
         "nepali": "माङसेबुङ",
-        "districts": "Ilam",
+        "district": "Ilam",
         "population": 18503,
         "area": 142.41,
         "density": 130,
@@ -2275,7 +2275,7 @@
     {
         "name": "Mapya Dudhkoshi",
         "nepali": "माप्य दुधकोशी",
-        "districts": "Solukhumbu",
+        "district": "Solukhumbu",
         "population": 13414,
         "area": 167.67,
         "density": 80,
@@ -2284,7 +2284,7 @@
     {
         "name": "Marchawarimai",
         "nepali": "मर्चवारीमाई",
-        "districts": "Rupandehi",
+        "district": "Rupandehi",
         "population": 38776,
         "area": 48.55,
         "density": 799
@@ -2292,7 +2292,7 @@
     {
         "name": "Marin",
         "nepali": "मरिण",
-        "districts": "Sindhuli",
+        "district": "Sindhuli",
         "population": 27822,
         "area": 324.55,
         "density": 86
@@ -2300,7 +2300,7 @@
     {
         "name": "Marma",
         "nepali": "मार्मा",
-        "districts": "Darchula",
+        "district": "Darchula",
         "population": 14956,
         "area": 208.06,
         "density": 72
@@ -2308,7 +2308,7 @@
     {
         "name": "Marsyangdi",
         "nepali": "मर्स्याङदी",
-        "districts": "Lamjung",
+        "district": "Lamjung",
         "population": 18759,
         "area": 597.25,
         "density": 31,
@@ -2317,7 +2317,7 @@
     {
         "name": "Masta",
         "nepali": "मष्टा",
-        "districts": "Bajhang",
+        "district": "Bajhang",
         "population": 14951,
         "area": 109.24,
         "density": 137
@@ -2325,7 +2325,7 @@
     {
         "name": "Mathagadhi",
         "nepali": "माथागढी",
-        "districts": "Palpa",
+        "district": "Palpa",
         "population": 25017,
         "area": 215.49,
         "density": 116
@@ -2333,7 +2333,7 @@
     {
         "name": "Mayadevi",
         "nepali": "मायादेवी",
-        "districts": "Kapilvastu",
+        "district": "Kapilvastu",
         "population": 48218,
         "area": 88.53,
         "density": 545
@@ -2341,7 +2341,7 @@
     {
         "name": "Mayadevi",
         "nepali": "मायादेवी",
-        "districts": "Rupandehi",
+        "district": "Rupandehi",
         "population": 47196,
         "area": 72.44,
         "density": 652
@@ -2349,7 +2349,7 @@
     {
         "name": "Mellekh",
         "nepali": "मेल्लेख",
-        "districts": "Achham",
+        "district": "Achham",
         "population": 24670,
         "area": 134.78,
         "density": 183
@@ -2357,7 +2357,7 @@
     {
         "name": "Melung",
         "nepali": "मेलुङ",
-        "districts": "Dolakha",
+        "district": "Dolakha",
         "population": 20210,
         "area": 86.54,
         "density": 234
@@ -2365,7 +2365,7 @@
     {
         "name": "Menchayayem",
         "nepali": "मेन्छयायेम",
-        "districts": "Terhathum",
+        "district": "Terhathum",
         "population": 8078,
         "area": 70.09,
         "density": 115,
@@ -2374,7 +2374,7 @@
     {
         "name": "Meringden",
         "nepali": "मेरिङदेन",
-        "districts": "Taplejung",
+        "district": "Taplejung",
         "population": 12548,
         "area": 210.33,
         "density": 60,
@@ -2383,7 +2383,7 @@
     {
         "name": "Miklajung",
         "nepali": "मिक्लाजुङ",
-        "districts": "Morang",
+        "district": "Morang",
         "population": 28708,
         "area": 158.98,
         "density": 181,
@@ -2392,7 +2392,7 @@
     {
         "name": "Miklajung",
         "nepali": "मिक्लाजुङ",
-        "districts": "Panchthar",
+        "district": "Panchthar",
         "population": 24715,
         "area": 166.61,
         "density": 148,
@@ -2401,7 +2401,7 @@
     {
         "name": "Mikwa Khola",
         "nepali": "मिक्वाखोला",
-        "districts": "Taplejung",
+        "district": "Taplejung",
         "population": 9160,
         "area": 442.96,
         "density": 21,
@@ -2410,7 +2410,7 @@
     {
         "name": "Modi",
         "nepali": "मोदी",
-        "districts": "Parbat",
+        "district": "Parbat",
         "population": 21284,
         "area": 143.6,
         "density": 148
@@ -2418,7 +2418,7 @@
     {
         "name": "Mohanyal",
         "nepali": "मोहन्याल",
-        "districts": "Kailali",
+        "district": "Kailali",
         "population": 22053,
         "area": 626.95,
         "density": 35
@@ -2426,7 +2426,7 @@
     {
         "name": "Molung",
         "nepali": "मोलुङ",
-        "districts": "Okhaldhunga",
+        "district": "Okhaldhunga",
         "population": 15862,
         "area": 112,
         "density": 142,
@@ -2435,7 +2435,7 @@
     {
         "name": "Mudkechula",
         "nepali": "मुड्केचुला",
-        "districts": "Dolpa",
+        "district": "Dolpa",
         "population": 5129,
         "area": 250.08,
         "density": 21
@@ -2443,7 +2443,7 @@
     {
         "name": "Mugum Karmarong",
         "nepali": "मुगुम कार्मारोंग",
-        "districts": "Mugu",
+        "district": "Mugu",
         "population": 5396,
         "area": 2106.91,
         "density": 3
@@ -2451,7 +2451,7 @@
     {
         "name": "Mukhiyapatti Musharniya",
         "nepali": "मुखियापट्टी मुसहरमिया",
-        "districts": "Dhanusha",
+        "district": "Dhanusha",
         "population": 25482,
         "area": 26.84,
         "density": 949
@@ -2459,7 +2459,7 @@
     {
         "name": "Myagang",
         "nepali": "म्यागङ",
-        "districts": "Nuwakot",
+        "district": "Nuwakot",
         "population": 13479,
         "area": 97.83,
         "density": 138
@@ -2467,7 +2467,7 @@
     {
         "name": "Myagde",
         "nepali": "म्याग्दे",
-        "districts": "Tanahun",
+        "district": "Tanahun",
         "population": 22502,
         "area": 115,
         "density": 196,
@@ -2476,7 +2476,7 @@
     {
         "name": "Namkha",
         "nepali": "नाम्खा",
-        "districts": "Humla",
+        "district": "Humla",
         "population": 3900,
         "area": 2419.64,
         "density": 2
@@ -2484,7 +2484,7 @@
     {
         "name": "Naraha",
         "nepali": "नरहा",
-        "districts": "Siraha",
+        "district": "Siraha",
         "population": 19369,
         "area": 29.28,
         "density": 662
@@ -2492,7 +2492,7 @@
     {
         "name": "Narainapur",
         "nepali": "नरैनापुर",
-        "districts": "Banke",
+        "district": "Banke",
         "population": 34942,
         "area": 172.34,
         "density": 203
@@ -2500,7 +2500,7 @@
     {
         "name": "Narharinath",
         "nepali": "नरहरिनाथ",
-        "districts": "Kalikot",
+        "district": "Kalikot",
         "population": 21366,
         "area": 143.86,
         "density": 149
@@ -2508,7 +2508,7 @@
     {
         "name": "Narpa Bhumi",
         "nepali": "नार्पा भूमी",
-        "districts": "Manang",
+        "district": "Manang",
         "population": 538,
         "area": 837.54,
         "density": 1,
@@ -2517,7 +2517,7 @@
     {
         "name": "Nason",
         "nepali": "नासोँ",
-        "districts": "Manang",
+        "district": "Manang",
         "population": 1938,
         "area": 709.58,
         "density": 3,
@@ -2526,7 +2526,7 @@
     {
         "name": "Naubahini",
         "nepali": "नौबहिनी",
-        "districts": "Pyuthan",
+        "district": "Pyuthan",
         "population": 30292,
         "area": 213.41,
         "density": 142
@@ -2534,7 +2534,7 @@
     {
         "name": "Naugad",
         "nepali": "नौगाड",
-        "districts": "Darchula",
+        "district": "Darchula",
         "population": 15874,
         "area": 180.27,
         "density": 88
@@ -2542,7 +2542,7 @@
     {
         "name": "Naukunda",
         "nepali": "नौकुण्ड",
-        "districts": "Rasuwa",
+        "district": "Rasuwa",
         "population": 11824,
         "area": 126.99,
         "density": 93
@@ -2550,7 +2550,7 @@
     {
         "name": "Naumule",
         "nepali": "नौमुले",
-        "districts": "Dailekh",
+        "district": "Dailekh",
         "population": 20802,
         "area": 228.59,
         "density": 91
@@ -2558,7 +2558,7 @@
     {
         "name": "Navadurga",
         "nepali": "नवदुर्गा",
-        "districts": "Dadeldhura",
+        "district": "Dadeldhura",
         "population": 19957,
         "area": 141.89,
         "density": 141
@@ -2566,7 +2566,7 @@
     {
         "name": "Navarajpur",
         "nepali": "नवराजपुर",
-        "districts": "Siraha",
+        "district": "Siraha",
         "population": 19019,
         "area": 32.18,
         "density": 591
@@ -2574,7 +2574,7 @@
     {
         "name": "Necha Salyan",
         "nepali": "नेचासल्यान",
-        "districts": "Solukhumbu",
+        "district": "Solukhumbu",
         "population": 16129,
         "area": 94.49,
         "density": 171,
@@ -2583,7 +2583,7 @@
     {
         "name": "Netrawati Dabjong",
         "nepali": "नेत्रावती डबजोङ",
-        "districts": "Dhading",
+        "district": "Dhading",
         "population": 12870,
         "area": 181.78,
         "density": 71
@@ -2591,7 +2591,7 @@
     {
         "name": "Nisdi",
         "nepali": "निस्दी",
-        "districts": "Palpa",
+        "district": "Palpa",
         "population": 22611,
         "area": 194.5,
         "density": 116
@@ -2599,7 +2599,7 @@
     {
         "name": "Nisikhola",
         "nepali": "निसीखोला",
-        "districts": "Baglung",
+        "district": "Baglung",
         "population": 20611,
         "area": 244.37,
         "density": 84,
@@ -2608,7 +2608,7 @@
     {
         "name": "Omsatiya",
         "nepali": "ओमसतीया",
-        "districts": "Rupandehi",
+        "district": "Rupandehi",
         "population": 34191,
         "area": 48.54,
         "density": 704
@@ -2616,7 +2616,7 @@
     {
         "name": "Pachaljharana",
         "nepali": "पचालझरना",
-        "districts": "Kalikot",
+        "district": "Kalikot",
         "population": 12343,
         "area": 166.92,
         "density": 74
@@ -2624,7 +2624,7 @@
     {
         "name": "Paiyun",
         "nepali": "पैयूं",
-        "districts": "Parbat",
+        "district": "Parbat",
         "population": 15381,
         "area": 42.65,
         "density": 361
@@ -2632,7 +2632,7 @@
     {
         "name": "Pakaha Mainpur",
         "nepali": "पकाहा मैनपुर",
-        "districts": "Parsa",
+        "district": "Parsa",
         "population": 20717,
         "area": 21.26,
         "density": 974
@@ -2640,7 +2640,7 @@
     {
         "name": "Palata",
         "nepali": "पलाता",
-        "districts": "Kalikot",
+        "district": "Kalikot",
         "population": 15303,
         "area": 318.84,
         "density": 48
@@ -2648,7 +2648,7 @@
     {
         "name": "Palhinandan",
         "nepali": "पाल्हीनन्दन",
-        "districts": "Parasi",
+        "district": "Parasi",
         "population": 35429,
         "area": 44.67,
         "density": 793
@@ -2656,7 +2656,7 @@
     {
         "name": "Panchakanya",
         "nepali": "पञ्चकन्या",
-        "districts": "Nuwakot",
+        "district": "Nuwakot",
         "population": 15945,
         "area": 53.47,
         "density": 298
@@ -2664,7 +2664,7 @@
     {
         "name": "Pancheshwar",
         "nepali": "पञ्चेश्वर",
-        "districts": "Baitadi",
+        "district": "Baitadi",
         "population": 18766,
         "area": 120.41,
         "density": 156
@@ -2672,7 +2672,7 @@
     {
         "name": "Panchpokhari Thangpal",
         "nepali": "पाँचपोखरी थाङपाल",
-        "districts": "Sindhupalchok",
+        "district": "Sindhupalchok",
         "population": 20860,
         "area": 187.29,
         "density": 111
@@ -2680,7 +2680,7 @@
     {
         "name": "Panini",
         "nepali": "पाणिनी",
-        "districts": "Arghakhanchi",
+        "district": "Arghakhanchi",
         "population": 26424,
         "area": 151.42,
         "density": 175
@@ -2688,7 +2688,7 @@
     {
         "name": "Paribartan",
         "nepali": "परिवर्तन",
-        "districts": "Rolpa",
+        "district": "Rolpa",
         "population": 20778,
         "area": 163.01,
         "density": 127
@@ -2696,7 +2696,7 @@
     {
         "name": "Parsa",
         "nepali": "पर्सा",
-        "districts": "Sarlahi",
+        "district": "Sarlahi",
         "population": 21650,
         "area": 23.12,
         "density": 936
@@ -2704,7 +2704,7 @@
     {
         "name": "Parwanipur",
         "nepali": "परवानीपुर",
-        "districts": "Bara",
+        "district": "Bara",
         "population": 22787,
         "area": 15.48,
         "density": 1472
@@ -2712,7 +2712,7 @@
     {
         "name": "Patarasi",
         "nepali": "पातारासी",
-        "districts": "Jumla",
+        "district": "Jumla",
         "population": 14571,
         "area": 814.07,
         "density": 18
@@ -2720,7 +2720,7 @@
     {
         "name": "Paterwa Sugauli",
         "nepali": "पटेर्वा सुगौली",
-        "districts": "Parsa",
+        "district": "Parsa",
         "population": 23901,
         "area": 64.29,
         "density": 372
@@ -2728,7 +2728,7 @@
     {
         "name": "Pathibhara Yangwarak",
         "nepali": "पाथीभरा याङवरक",
-        "districts": "Taplejung",
+        "district": "Taplejung",
         "population": 13591,
         "area": 93.76,
         "density": 145,
@@ -2737,7 +2737,7 @@
     {
         "name": "Pauwadungma",
         "nepali": "पौवादुङमा",
-        "districts": "Bhojpur",
+        "district": "Bhojpur",
         "population": 15394,
         "area": 118.86,
         "density": 130,
@@ -2746,7 +2746,7 @@
     {
         "name": "Phakphokthum",
         "nepali": "फाकफोकथुम",
-        "districts": "Ilam",
+        "district": "Ilam",
         "population": 21619,
         "area": 108.79,
         "density": 199,
@@ -2755,7 +2755,7 @@
     {
         "name": "Phaktanglung",
         "nepali": "फक्ताङलुङ",
-        "districts": "Taplejung",
+        "district": "Taplejung",
         "population": 12017,
         "area": 1858.51,
         "density": 6,
@@ -2764,7 +2764,7 @@
     {
         "name": "Phalelung",
         "nepali": "फालेलुङ",
-        "districts": "Panchthar",
+        "district": "Panchthar",
         "population": 21884,
         "area": 207.14,
         "density": 106,
@@ -2773,7 +2773,7 @@
     {
         "name": "Phalgunanda",
         "nepali": "फाल्गुनन्द",
-        "districts": "Panchthar",
+        "district": "Panchthar",
         "population": 24060,
         "area": 107.53,
         "density": 224,
@@ -2782,7 +2782,7 @@
     {
         "name": "Phedap",
         "nepali": "फेदाप",
-        "districts": "Terhathum",
+        "district": "Terhathum",
         "population": 17700,
         "area": 110.83,
         "density": 160,
@@ -2791,7 +2791,7 @@
     {
         "name": "Phedikhola",
         "nepali": "फेदीखोला",
-        "districts": "Syangja",
+        "district": "Syangja",
         "population": 12341,
         "area": 56.73,
         "density": 218,
@@ -2800,7 +2800,7 @@
     {
         "name": "Pheta",
         "nepali": "फेटा",
-        "districts": "Bara",
+        "district": "Bara",
         "population": 26722,
         "area": 23.65,
         "density": 1130
@@ -2808,7 +2808,7 @@
     {
         "name": "Phikkal",
         "nepali": "फिक्कल",
-        "districts": "Sindhuli",
+        "district": "Sindhuli",
         "population": 16968,
         "area": 186.06,
         "density": 91
@@ -2816,7 +2816,7 @@
     {
         "name": "Pipra",
         "nepali": "पिपरा",
-        "districts": "Mahottari",
+        "district": "Mahottari",
         "population": 35524,
         "area": 39.98,
         "density": 889
@@ -2824,7 +2824,7 @@
     {
         "name": "Prasauni",
         "nepali": "प्रसौनी",
-        "districts": "Bara",
+        "district": "Bara",
         "population": 24478,
         "area": 20.24,
         "density": 1209
@@ -2832,7 +2832,7 @@
     {
         "name": "Pratappur",
         "nepali": "प्रतापपुर",
-        "districts": "Parasi",
+        "district": "Parasi",
         "population": 41315,
         "area": 87.55,
         "density": 472
@@ -2840,7 +2840,7 @@
     {
         "name": "Purbakhola",
         "nepali": "पूर्वखोला",
-        "districts": "Palpa",
+        "district": "Palpa",
         "population": 19589,
         "area": 138.05,
         "density": 142
@@ -2848,7 +2848,7 @@
     {
         "name": "Purbichauki",
         "nepali": "पूर्वीचौकी",
-        "districts": "Doti",
+        "district": "Doti",
         "population": 22483,
         "area": 117.66,
         "density": 191
@@ -2856,7 +2856,7 @@
     {
         "name": "Putha Uttarganga",
         "nepali": "पुठा उत्तरगंगा",
-        "districts": "Eastern Rukum",
+        "district": "Eastern Rukum",
         "population": 17932,
         "area": 560.34,
         "density": 32
@@ -2864,7 +2864,7 @@
     {
         "name": "Raghuganga",
         "nepali": "रघुगंगा",
-        "districts": "Myagdi",
+        "district": "Myagdi",
         "population": 15753,
         "area": 379,
         "density": 42,
@@ -2873,7 +2873,7 @@
     {
         "name": "Rainadevi Chhahara",
         "nepali": "रैनादेवी छहरा",
-        "districts": "Palpa",
+        "district": "Palpa",
         "population": 26469,
         "area": 175.88,
         "density": 150
@@ -2881,7 +2881,7 @@
     {
         "name": "Rajgadh",
         "nepali": "राजगढ",
-        "districts": "Saptari",
+        "district": "Saptari",
         "population": 29459,
         "area": 47.9,
         "density": 615
@@ -2889,7 +2889,7 @@
     {
         "name": "Rajpur",
         "nepali": "राजपुर",
-        "districts": "Dang",
+        "district": "Dang",
         "population": 25037,
         "area": 577.33,
         "density": 43
@@ -2897,7 +2897,7 @@
     {
         "name": "Raksirang",
         "nepali": "राक्सिराङ्ग",
-        "districts": "Makwanpur",
+        "district": "Makwanpur",
         "population": 26192,
         "area": 226.7,
         "density": 116
@@ -2905,7 +2905,7 @@
     {
         "name": "Ramaroshan",
         "nepali": "रामारोशन",
-        "districts": "Achham",
+        "district": "Achham",
         "population": 25166,
         "area": 173.33,
         "density": 145
@@ -2913,7 +2913,7 @@
     {
         "name": "Rambha",
         "nepali": "रम्भा",
-        "districts": "Palpa",
+        "district": "Palpa",
         "population": 20190,
         "area": 94.12,
         "density": 215
@@ -2921,7 +2921,7 @@
     {
         "name": "Ramnagar",
         "nepali": "रामनगर",
-        "districts": "Sarlahi",
+        "district": "Sarlahi",
         "population": 28727,
         "area": 26.44,
         "density": 1086
@@ -2929,7 +2929,7 @@
     {
         "name": "Ramprasad Rai",
         "nepali": "रामप्रसाद राई",
-        "districts": "Bhojpur",
+        "district": "Bhojpur",
         "population": 18848,
         "area": 158.83,
         "density": 119,
@@ -2938,7 +2938,7 @@
     {
         "name": "Rapti",
         "nepali": "राप्ती",
-        "districts": "Dang",
+        "district": "Dang",
         "population": 40763,
         "area": 161.07,
         "density": 253
@@ -2946,7 +2946,7 @@
     {
         "name": "Raptisonari",
         "nepali": "राप्ती सोनारी",
-        "districts": "Banke",
+        "district": "Banke",
         "population": 67380,
         "area": 1041.73,
         "density": 64
@@ -2954,7 +2954,7 @@
     {
         "name": "Rautamai",
         "nepali": "रौतामाई",
-        "districts": "Udayapur",
+        "district": "Udayapur",
         "population": 23481,
         "area": 204.08,
         "density": 115,
@@ -2963,7 +2963,7 @@
     {
         "name": "Rawabesi",
         "nepali": "रावाबेसी",
-        "districts": "Khotang",
+        "district": "Khotang",
         "population": 13369,
         "area": 97.44,
         "density": 137,
@@ -2972,7 +2972,7 @@
     {
         "name": "Ribdikot",
         "nepali": "रिब्दीकोट",
-        "districts": "Palpa",
+        "district": "Palpa",
         "population": 18770,
         "area": 124.55,
         "density": 151
@@ -2980,7 +2980,7 @@
     {
         "name": "Rishing",
         "nepali": "ऋषिङ्ग",
-        "districts": "Tanahun",
+        "district": "Tanahun",
         "population": 25870,
         "area": 215,
         "density": 120,
@@ -2989,7 +2989,7 @@
     {
         "name": "Rohini",
         "nepali": "रोहिणी",
-        "districts": "Rupandehi",
+        "district": "Rupandehi",
         "population": 37175,
         "area": 64.32,
         "density": 578
@@ -2997,7 +2997,7 @@
     {
         "name": "Rong",
         "nepali": "रोङ",
-        "districts": "Ilam",
+        "district": "Ilam",
         "population": 19135,
         "area": 155.06,
         "density": 123,
@@ -3006,7 +3006,7 @@
     {
         "name": "Roshi",
         "nepali": "रोशी",
-        "districts": "Kavrepalanchok",
+        "district": "Kavrepalanchok",
         "population": 28746,
         "area": 176,
         "density": 163
@@ -3014,7 +3014,7 @@
     {
         "name": "Rubi Valley",
         "nepali": "रुवी भ्याली",
-        "districts": "Dhading",
+        "district": "Dhading",
         "population": 9565,
         "area": 401.85,
         "density": 24
@@ -3022,7 +3022,7 @@
     {
         "name": "Runtigadhi",
         "nepali": "रुन्टीगढी",
-        "districts": "Rolpa",
+        "district": "Rolpa",
         "population": 27929,
         "area": 232.69,
         "density": 120
@@ -3030,7 +3030,7 @@
     {
         "name": "Rupa",
         "nepali": "रूपा",
-        "districts": "Kaski",
+        "district": "Kaski",
         "population": 14519,
         "area": 94.81,
         "density": 153,
@@ -3039,7 +3039,7 @@
     {
         "name": "Rupani",
         "nepali": "रुपनी",
-        "districts": "Saptari",
+        "district": "Saptari",
         "population": 26387,
         "area": 56.08,
         "density": 471
@@ -3047,7 +3047,7 @@
     {
         "name": "Ruru",
         "nepali": "रुरु",
-        "districts": "Gulmi",
+        "district": "Gulmi",
         "population": 18581,
         "area": 67.38,
         "density": 276
@@ -3055,7 +3055,7 @@
     {
         "name": "Sabhapokhari",
         "nepali": "सभापोखरी",
-        "districts": "Sankhuwasabha",
+        "district": "Sankhuwasabha",
         "population": 10492,
         "area": 222.08,
         "density": 47,
@@ -3064,7 +3064,7 @@
     {
         "name": "Sahidbhumi",
         "nepali": "सहीदभूमि",
-        "districts": "Dhankuta",
+        "district": "Dhankuta",
         "population": 18760,
         "area": 99.55,
         "density": 188,
@@ -3073,7 +3073,7 @@
     {
         "name": "Saipal",
         "nepali": "सइपाल",
-        "districts": "Bajhang",
+        "district": "Bajhang",
         "population": 2182,
         "area": 1467.27,
         "density": 2
@@ -3081,7 +3081,7 @@
     {
         "name": "Sakela",
         "nepali": "साकेला",
-        "districts": "Khotang",
+        "district": "Khotang",
         "population": 11594,
         "area": 79.99,
         "density": 145,
@@ -3090,7 +3090,7 @@
     {
         "name": "Sakhuwa Prasauni",
         "nepali": "सखुवा प्रसौनी",
-        "districts": "Parsa",
+        "district": "Parsa",
         "population": 32448,
         "area": 74.27,
         "density": 437
@@ -3098,7 +3098,7 @@
     {
         "name": "Sakhuwanankarkatti",
         "nepali": "सखुवानान्कारकट्टी",
-        "districts": "Siraha",
+        "district": "Siraha",
         "population": 18558,
         "area": 32.84,
         "density": 565
@@ -3106,7 +3106,7 @@
     {
         "name": "Salpasilichho",
         "nepali": "साल्पासिलिछो",
-        "districts": "Bhojpur",
+        "district": "Bhojpur",
         "population": 13111,
         "area": 193.33,
         "density": 68,
@@ -3115,7 +3115,7 @@
     {
         "name": "Sammarimai",
         "nepali": "सम्मरीमाई",
-        "districts": "Rupandehi",
+        "district": "Rupandehi",
         "population": 38305,
         "area": 50.78,
         "density": 754
@@ -3123,7 +3123,7 @@
     {
         "name": "Samsi",
         "nepali": "साम्सी",
-        "districts": "Mahottari",
+        "district": "Mahottari",
         "population": 33791,
         "area": 21.57,
         "density": 1567
@@ -3131,7 +3131,7 @@
     {
         "name": "Sandakpur",
         "nepali": "सन्दकपुर",
-        "districts": "Ilam",
+        "district": "Ilam",
         "population": 16065,
         "area": 156.01,
         "density": 103,
@@ -3140,7 +3140,7 @@
     {
         "name": "Sangurigadhi",
         "nepali": "सागुरीगढी",
-        "districts": "Dhankuta",
+        "district": "Dhankuta",
         "population": 21536,
         "area": 166.44,
         "density": 129,
@@ -3149,7 +3149,7 @@
     {
         "name": "Sani Bheri",
         "nepali": "सानीभेरी",
-        "districts": "Western Rukum",
+        "district": "Western Rukum",
         "population": 22194,
         "area": 133.8,
         "density": 166
@@ -3157,7 +3157,7 @@
     {
         "name": "Sanni Triveni",
         "nepali": "सान्नी त्रिवेणी",
-        "districts": "Kalikot",
+        "district": "Kalikot",
         "population": 12846,
         "area": 136.71,
         "density": 94
@@ -3165,7 +3165,7 @@
     {
         "name": "Sarawal",
         "nepali": "सरावल",
-        "districts": "Parasi",
+        "district": "Parasi",
         "population": 38163,
         "area": 73.19,
         "density": 521
@@ -3173,7 +3173,7 @@
     {
         "name": "Sarkegad",
         "nepali": "सर्केगाड",
-        "districts": "Humla",
+        "district": "Humla",
         "population": 9868,
         "area": 306.7,
         "density": 32
@@ -3181,7 +3181,7 @@
     {
         "name": "Sarumarani",
         "nepali": "सरुमारानी",
-        "districts": "Pyuthan",
+        "district": "Pyuthan",
         "population": 18627,
         "area": 157.97,
         "density": 118
@@ -3189,7 +3189,7 @@
     {
         "name": "Satyawati",
         "nepali": "सत्यवती",
-        "districts": "Gulmi",
+        "district": "Gulmi",
         "population": 23807,
         "area": 115.92,
         "density": 205
@@ -3197,7 +3197,7 @@
     {
         "name": "Sayal",
         "nepali": "सायल",
-        "districts": "Doti",
+        "district": "Doti",
         "population": 19551,
         "area": 122.72,
         "density": 159
@@ -3205,7 +3205,7 @@
     {
         "name": "Shahid Lakhan",
         "nepali": "शहिद लखन",
-        "districts": "Gorkha",
+        "district": "Gorkha",
         "population": 27555,
         "area": 148.97,
         "density": 185,
@@ -3214,7 +3214,7 @@
     {
         "name": "Shailung",
         "nepali": "शैलुङ",
-        "districts": "Dolakha",
+        "district": "Dolakha",
         "population": 20098,
         "area": 128.67,
         "density": 156
@@ -3222,7 +3222,7 @@
     {
         "name": "Shantinagar",
         "nepali": "शान्तिनगर",
-        "districts": "Dang",
+        "district": "Dang",
         "population": 25203,
         "area": 116.02,
         "density": 217
@@ -3230,7 +3230,7 @@
     {
         "name": "She Phoksundo",
         "nepali": "शे फोक्सुन्डो",
-        "districts": "Dolpa",
+        "district": "Dolpa",
         "population": 3099,
         "area": 123.07,
         "density": 25
@@ -3238,7 +3238,7 @@
     {
         "name": "Shivalaya",
         "nepali": "शिवालय",
-        "districts": "Jajarkot",
+        "district": "Jajarkot",
         "population": 15269,
         "area": 134.26,
         "density": 114
@@ -3246,7 +3246,7 @@
     {
         "name": "Shivanath",
         "nepali": "शिवनाथ",
-        "districts": "Baitadi",
+        "district": "Baitadi",
         "population": 17115,
         "area": 81.65,
         "density": 210
@@ -3254,7 +3254,7 @@
     {
         "name": "Shivapuri",
         "nepali": "शिवपुरी",
-        "districts": "Nuwakot",
+        "district": "Nuwakot",
         "population": 20769,
         "area": 101.5,
         "density": 205
@@ -3262,7 +3262,7 @@
     {
         "name": "Shubha Kalika",
         "nepali": "शुभ कालिका",
-        "districts": "Kalikot",
+        "district": "Kalikot",
         "population": 14080,
         "area": 97.32,
         "density": 145
@@ -3270,7 +3270,7 @@
     {
         "name": "Shuddhodhan",
         "nepali": "शुद्धोधन",
-        "districts": "Rupandehi",
+        "district": "Rupandehi",
         "population": 34638,
         "area": 57.66,
         "density": 601
@@ -3278,7 +3278,7 @@
     {
         "name": "Siddha Kumakh",
         "nepali": "सिद्ध कुमाख",
-        "districts": "Salyan",
+        "district": "Salyan",
         "population": 13593,
         "area": 89.36,
         "density": 152
@@ -3286,7 +3286,7 @@
     {
         "name": "Siddhalekh",
         "nepali": "सिद्धलेक",
-        "districts": "Dhading",
+        "district": "Dhading",
         "population": 23729,
         "area": 106.09,
         "density": 224
@@ -3294,7 +3294,7 @@
     {
         "name": "Sidingwa",
         "nepali": "सिदिङ्वा",
-        "districts": "Taplejung",
+        "district": "Taplejung",
         "population": 12099,
         "area": 206,
         "density": 59,
@@ -3303,7 +3303,7 @@
     {
         "name": "Sigas",
         "nepali": "सिगास",
-        "districts": "Baitadi",
+        "district": "Baitadi",
         "population": 21510,
         "area": 245.44,
         "density": 88
@@ -3311,7 +3311,7 @@
     {
         "name": "Silichong",
         "nepali": "सिलीचोङ",
-        "districts": "Sankhuwasabha",
+        "district": "Sankhuwasabha",
         "population": 12174,
         "area": 293.26,
         "density": 42,
@@ -3320,7 +3320,7 @@
     {
         "name": "Simkot",
         "nepali": "सिमकोट",
-        "districts": "Humla",
+        "district": "Humla",
         "population": 11557,
         "area": 785.89,
         "density": 15
@@ -3328,7 +3328,7 @@
     {
         "name": "Simta",
         "nepali": "सिम्ता",
-        "districts": "Surkhet",
+        "district": "Surkhet",
         "population": 25845,
         "area": 241.64,
         "density": 10
@@ -3336,7 +3336,7 @@
     {
         "name": "Sinja",
         "nepali": "सिंजा",
-        "districts": "Jumla",
+        "district": "Jumla",
         "population": 12395,
         "area": 153.29,
         "density": 81
@@ -3344,7 +3344,7 @@
     {
         "name": "Siranchowk",
         "nepali": "सिरानचोक",
-        "districts": "Gorkha",
+        "district": "Gorkha",
         "population": 23628,
         "area": 121.66,
         "density": 194,
@@ -3353,7 +3353,7 @@
     {
         "name": "Sirijangha",
         "nepali": "सिरीजङ्घा",
-        "districts": "Taplejung",
+        "district": "Taplejung",
         "population": 15806,
         "area": 481.09,
         "density": 33,
@@ -3362,7 +3362,7 @@
     {
         "name": "Sisne",
         "nepali": "सिस्ने",
-        "districts": "Eastern Rukum",
+        "district": "Eastern Rukum",
         "population": 16497,
         "area": 327.12,
         "density": 50
@@ -3370,7 +3370,7 @@
     {
         "name": "Siyari",
         "nepali": "सियारी",
-        "districts": "Rupandehi",
+        "district": "Rupandehi",
         "population": 38466,
         "area": 66.17,
         "density": 581
@@ -3378,7 +3378,7 @@
     {
         "name": "Sonama",
         "nepali": "सोनमा",
-        "districts": "Mahottari",
+        "district": "Mahottari",
         "population": 38747,
         "area": 57.77,
         "density": 671
@@ -3386,7 +3386,7 @@
     {
         "name": "Soru",
         "nepali": "सोरु",
-        "districts": "Mugu",
+        "district": "Mugu",
         "population": 12238,
         "area": 365.8,
         "density": 33
@@ -3394,7 +3394,7 @@
     {
         "name": "Sotang",
         "nepali": "सोताङ",
-        "districts": "Solukhumbu",
+        "district": "Solukhumbu",
         "population": 9530,
         "area": 103,
         "density": 93,
@@ -3403,7 +3403,7 @@
     {
         "name": "Suddhodhan",
         "nepali": "शुद्धोधन",
-        "districts": "Kapilvastu",
+        "district": "Kapilvastu",
         "population": 45201,
         "area": 91.69,
         "density": 493
@@ -3411,7 +3411,7 @@
     {
         "name": "Sunapati",
         "nepali": "सुनापती",
-        "districts": "Ramechhap",
+        "district": "Ramechhap",
         "population": 18141,
         "area": 86.98,
         "density": 209
@@ -3419,7 +3419,7 @@
     {
         "name": "Sunchhahari",
         "nepali": "सुनछहरी",
-        "districts": "Rolpa",
+        "district": "Rolpa",
         "population": 16034,
         "area": 277.62,
         "density": 58
@@ -3427,7 +3427,7 @@
     {
         "name": "Sunilsmriti",
         "nepali": "सुनिलस्मृति",
-        "districts": "Rolpa",
+        "district": "Rolpa",
         "population": 28213,
         "area": 156.55,
         "density": 180
@@ -3435,7 +3435,7 @@
     {
         "name": "Sunkoshi",
         "nepali": "सुनकोशी",
-        "districts": "Okhaldhunga",
+        "district": "Okhaldhunga",
         "population": 18550,
         "area": 143.75,
         "density": 129,
@@ -3444,7 +3444,7 @@
     {
         "name": "Sunkoshi",
         "nepali": "सुनकोशी",
-        "districts": "Sindhuli",
+        "district": "Sindhuli",
         "population": 21473,
         "area": 154.68,
         "density": 139
@@ -3452,7 +3452,7 @@
     {
         "name": "Sunkoshi",
         "nepali": "सुनकोशी",
-        "districts": "Sindhupalchok",
+        "district": "Sindhupalchok",
         "population": 16713,
         "area": 72.84,
         "density": 229
@@ -3460,7 +3460,7 @@
     {
         "name": "Surma",
         "nepali": "सुर्मा",
-        "districts": "Bajhang",
+        "district": "Bajhang",
         "population": 9022,
         "area": 270.8,
         "density": 33
@@ -3468,7 +3468,7 @@
     {
         "name": "Surnaya",
         "nepali": "सुर्नया",
-        "districts": "Baitadi",
+        "district": "Baitadi",
         "population": 18549,
         "area": 124.52,
         "density": 149
@@ -3476,7 +3476,7 @@
     {
         "name": "Suryagadhi",
         "nepali": "सुर्यगढी",
-        "districts": "Nuwakot",
+        "district": "Nuwakot",
         "population": 16800,
         "area": 49.09,
         "density": 342
@@ -3484,7 +3484,7 @@
     {
         "name": "Susta",
         "nepali": "त्रिवेणी सुस्ता",
-        "districts": "Parasi",
+        "district": "Parasi",
         "population": 43797,
         "area": 112.17,
         "density": 390
@@ -3492,7 +3492,7 @@
     {
         "name": "Suwarna",
         "nepali": "सुवर्ण",
-        "districts": "Bara",
+        "district": "Bara",
         "population": 29602,
         "area": 36.84,
         "density": 804
@@ -3500,7 +3500,7 @@
     {
         "name": "Swami Kartik Khapar",
         "nepali": "स्वामिकार्तिक खापर",
-        "districts": "Bajura",
+        "district": "Bajura",
         "population": 12784,
         "area": 110.55,
         "density": 116
@@ -3508,7 +3508,7 @@
     {
         "name": "Tadi",
         "nepali": "तादी",
-        "districts": "Nuwakot",
+        "district": "Nuwakot",
         "population": 17932,
         "area": 69.8,
         "density": 257
@@ -3516,7 +3516,7 @@
     {
         "name": "Talkot",
         "nepali": "तलकोट",
-        "districts": "Bajhang",
+        "district": "Bajhang",
         "population": 11557,
         "area": 335.26,
         "density": 34
@@ -3524,7 +3524,7 @@
     {
         "name": "Tamakoshi",
         "nepali": "तामाकोशी",
-        "districts": "Dolakha",
+        "district": "Dolakha",
         "population": 18849,
         "area": 153.06,
         "density": 123
@@ -3532,7 +3532,7 @@
     {
         "name": "Tamankhola",
         "nepali": "तमानखोला",
-        "districts": "Baglung",
+        "district": "Baglung",
         "population": 10659,
         "area": 178.02,
         "density": 60,
@@ -3541,7 +3541,7 @@
     {
         "name": "Tanjakot",
         "nepali": "ताँजाकोट",
-        "districts": "Humla",
+        "district": "Humla",
         "population": 5964,
         "area": 159.1,
         "density": 37
@@ -3549,7 +3549,7 @@
     {
         "name": "Tapli",
         "nepali": "ताप्ली",
-        "districts": "Udayapur",
+        "district": "Udayapur",
         "population": 14562,
         "area": 119.11,
         "density": 122,
@@ -3558,7 +3558,7 @@
     {
         "name": "Tarakhola",
         "nepali": "ताराखोला",
-        "districts": "Baglung",
+        "district": "Baglung",
         "population": 12009,
         "area": 129.53,
         "density": 93,
@@ -3567,7 +3567,7 @@
     {
         "name": "Tarkeshwar",
         "nepali": "तारकेश्वर",
-        "districts": "Nuwakot",
+        "district": "Nuwakot",
         "population": 15719,
         "area": 72.62,
         "density": 216
@@ -3575,7 +3575,7 @@
     {
         "name": "Tatopani",
         "nepali": "तातोपानी",
-        "districts": "Jumla",
+        "district": "Jumla",
         "population": 14638,
         "area": 525.56,
         "density": 28
@@ -3583,7 +3583,7 @@
     {
         "name": "Temal",
         "nepali": "तेमाल",
-        "districts": "Kavrepalanchok",
+        "district": "Kavrepalanchok",
         "population": 22712,
         "area": 89,
         "density": 255
@@ -3591,7 +3591,7 @@
     {
         "name": "Thabang",
         "nepali": "थवाङ",
-        "districts": "Rolpa",
+        "district": "Rolpa",
         "population": 10881,
         "area": 191.07,
         "density": 57
@@ -3599,7 +3599,7 @@
     {
         "name": "Thakre",
         "nepali": "थाक्रे",
-        "districts": "Dhading",
+        "district": "Dhading",
         "population": 32914,
         "area": 96.41,
         "density": 341
@@ -3607,7 +3607,7 @@
     {
         "name": "Thalara",
         "nepali": "थलारा",
-        "districts": "Bajhang",
+        "district": "Bajhang",
         "population": 17952,
         "area": 105.51,
         "density": 170
@@ -3615,7 +3615,7 @@
     {
         "name": "Thantikandh",
         "nepali": "ठाँटीकाँध",
-        "districts": "Dailekh",
+        "district": "Dailekh",
         "population": 18896,
         "area": 88.22,
         "density": 214
@@ -3623,7 +3623,7 @@
     {
         "name": "Thasang",
         "nepali": "थासाङ",
-        "districts": "Mustang",
+        "district": "Mustang",
         "population": 2912,
         "area": 289,
         "density": 10,
@@ -3632,7 +3632,7 @@
     {
         "name": "Thori",
         "nepali": "ठोरी",
-        "districts": "Parsa",
+        "district": "Parsa",
         "population": 20296,
         "area": 128.67,
         "density": 158
@@ -3640,7 +3640,7 @@
     {
         "name": "Thulung Dudhkoshi",
         "nepali": "थुलुङ दुधकोशी",
-        "districts": "Solukhumbu",
+        "district": "Solukhumbu",
         "population": 19672,
         "area": 144.6,
         "density": 136,
@@ -3649,7 +3649,7 @@
     {
         "name": "Tila",
         "nepali": "तिला",
-        "districts": "Jumla",
+        "district": "Jumla",
         "population": 13607,
         "area": 175.49,
         "density": 78
@@ -3657,7 +3657,7 @@
     {
         "name": "Tilathi Koiladi",
         "nepali": "तिलाठी कोईलाडी",
-        "districts": "Saptari",
+        "district": "Saptari",
         "population": 32389,
         "area": 32.91,
         "density": 984
@@ -3665,7 +3665,7 @@
     {
         "name": "Tinau",
         "nepali": "तिनाउ",
-        "districts": "Palpa",
+        "district": "Palpa",
         "population": 19085,
         "area": 202,
         "density": 94
@@ -3673,7 +3673,7 @@
     {
         "name": "Tinpatan",
         "nepali": "तिनपाटन",
-        "districts": "Sindhuli",
+        "district": "Sindhuli",
         "population": 38395,
         "area": 280.26,
         "density": 137
@@ -3681,7 +3681,7 @@
     {
         "name": "Tirhut",
         "nepali": "तिरहुत",
-        "districts": "Saptari",
+        "district": "Saptari",
         "population": 22010,
         "area": 37.81,
         "density": 582
@@ -3689,7 +3689,7 @@
     {
         "name": "Tribeni",
         "nepali": "त्रिवेणी",
-        "districts": "Western Rukum",
+        "district": "Western Rukum",
         "population": 19404,
         "area": 85.49,
         "density": 227
@@ -3697,7 +3697,7 @@
     {
         "name": "Tribeni",
         "nepali": "त्रिवेणी",
-        "districts": "Salyan",
+        "district": "Salyan",
         "population": 16634,
         "area": 119.11,
         "density": 140
@@ -3705,7 +3705,7 @@
     {
         "name": "Tripurasundari",
         "nepali": "त्रिपुरासुन्दरी",
-        "districts": "Dhading",
+        "district": "Dhading",
         "population": 22960,
         "area": 271.23,
         "density": 85
@@ -3713,7 +3713,7 @@
     {
         "name": "Tripurasundari",
         "nepali": "त्रिपुरासुन्दरी",
-        "districts": "Sindhupalchok",
+        "district": "Sindhupalchok",
         "population": 15062,
         "area": 94.28,
         "density": 160
@@ -3721,7 +3721,7 @@
     {
         "name": "Triveni",
         "nepali": "त्रिवेणी",
-        "districts": "Rolpa",
+        "district": "Rolpa",
         "population": 22957,
         "area": 205.39,
         "density": 112
@@ -3729,7 +3729,7 @@
     {
         "name": "Tsum Nubri",
         "nepali": "चुम नुव्री",
-        "districts": "Gorkha",
+        "district": "Gorkha",
         "population": 6923,
         "area": 1648.65,
         "density": 4
@@ -3737,7 +3737,7 @@
     {
         "name": "Tumbewa",
         "nepali": "तुम्बेवा",
-        "districts": "Panchthar",
+        "district": "Panchthar",
         "population": 13419,
         "area": 117.34,
         "density": 114,
@@ -3746,7 +3746,7 @@
     {
         "name": "Turmakhand",
         "nepali": "तुर्माखाँद",
-        "districts": "Achham",
+        "district": "Achham",
         "population": 24940,
         "area": 232.07,
         "density": 107
@@ -3754,7 +3754,7 @@
     {
         "name": "Tyamke Maiyum",
         "nepali": "ट्याम्केमैयुम",
-        "districts": "Bhojpur",
+        "district": "Bhojpur",
         "population": 17911,
         "area": 173.41,
         "density": 103,
@@ -3763,7 +3763,7 @@
     {
         "name": "Udayapurgadhi",
         "nepali": "उदयपुरगढी",
-        "districts": "Udayapur",
+        "district": "Udayapur",
         "population": 30731,
         "area": 209.51,
         "density": 147,
@@ -3772,7 +3772,7 @@
     {
         "name": "Umakunda",
         "nepali": "उमाकुण्ड",
-        "districts": "Ramechhap",
+        "district": "Ramechhap",
         "population": 17601,
         "area": 451.99,
         "density": 39
@@ -3780,7 +3780,7 @@
     {
         "name": "Uttargaya",
         "nepali": "उत्तरगया",
-        "districts": "Rasuwa",
+        "district": "Rasuwa",
         "population": 8255,
         "area": 104.51,
         "density": 79
@@ -3788,7 +3788,7 @@
     {
         "name": "Vyans (Byans)",
         "nepali": "ब्याँस",
-        "districts": "Darchula",
+        "district": "Darchula",
         "population": 10347,
         "area": 839.26,
         "density": 12
@@ -3796,7 +3796,7 @@
     {
         "name": "Yamunamai",
         "nepali": "यमुनामाई",
-        "districts": "Rautahat",
+        "district": "Rautahat",
         "population": 23885,
         "area": 16.7,
         "density": 1430
@@ -3804,7 +3804,7 @@
     {
         "name": "Yangwarak",
         "nepali": "याङवरक",
-        "districts": "Panchthar",
+        "district": "Panchthar",
         "population": 18281,
         "area": 208.63,
         "density": 88,
@@ -3813,7 +3813,7 @@
     {
         "name": "Yasodhara",
         "nepali": "यसोधरा",
-        "districts": "Kapilvastu",
+        "district": "Kapilvastu",
         "population": 38952,
         "area": 67.56,
         "density": 577
