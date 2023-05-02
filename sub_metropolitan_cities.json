@@ -1,0 +1,123 @@
+[
+    {
+        "rank": 1,
+        "name": "Dhangadhi",
+        "nepali": "धनगढी",
+        "district": "Kailali",
+        "province": "Sudurpashchim",
+        "population2021": 204788,
+        "area": 261.75,
+        "density": 782,
+        "website": "http://dhangadhimun.gov.np"
+    },
+    {
+        "rank": 2,
+        "name": "Ghorahi",
+        "nepali": "घोराही",
+        "district": "Dang",
+        "province": "Lumbini",
+        "population2021": 201079,
+        "area": 522.21,
+        "density": 385,
+        "website": "http://ghorahimun.gov.np"
+    },
+    {
+        "rank": 3,
+        "name": "Itahari",
+        "nepali": "इटहरी",
+        "district": "Sunsari",
+        "province": "Province No. 1",
+        "population2021": 198098,
+        "area": 93.78,
+        "density": 2112,
+        "website": "http://itaharimun.gov.np"
+    },
+    {
+        "rank": 4,
+        "name": "Hetauda",
+        "nepali": "हेटौडा",
+        "district": "Makawanpur",
+        "province": "Bagmati",
+        "population2021": 195951,
+        "area": 261.59,
+        "density": 749,
+        "website": "http://hetaudamun.gov.np"
+    },
+    {
+        "rank": 5,
+        "name": "Janakpurdham",
+        "nepali": "जनकपुर",
+        "district": "Dhanusha",
+        "province": "Madhesh",
+        "population2021": 195438,
+        "area": 91.97,
+        "density": 2125,
+        "website": "http://www.janakpurmun.gov.np"
+    },
+    {
+        "rank": 6,
+        "name": "Butwal",
+        "nepali": "बुटवल",
+        "district": "Rupandehi",
+        "province": "Lumbini",
+        "population2021": 195054,
+        "area": 101.61,
+        "density": 1920,
+        "website": "http://butwalmun.gov.np"
+    },
+    {
+        "rank": 7,
+        "name": "Tulsipur",
+        "nepali": "तुल्सिपुर",
+        "district": "Dang",
+        "province": "Lumbini",
+        "population2021": 180734,
+        "area": 384.63,
+        "density": 470,
+        "website": "http://tulsipurmun.gov.np"
+    },
+    {
+        "rank": 8,
+        "name": "Dharan",
+        "nepali": "धरान",
+        "district": "Sunsari",
+        "province": "Province No. 1",
+        "population2021": 173096,
+        "area": 192.32,
+        "density": 900,
+        "website": "http://www.dharan.gov.np"
+    },
+    {
+        "rank": 9,
+        "name": "Nepalgunj",
+        "nepali": "नेपालगञ्ज",
+        "district": "Banke",
+        "province": "Lumbini",
+        "population2021": 166258,
+        "area": 85.94,
+        "density": 1935,
+        "website": "http://www.nepalgunjmun.gov.np"
+    },
+    {
+        "rank": 10,
+        "name": "Kalaiya",
+        "nepali": "कलैया",
+        "district": "Bara",
+        "province": "Madhesh",
+        "population2021": 141179,
+        "area": 108.94,
+        "density": 1296,
+        "website": "http://kalaiyamun.gov.np"
+    },
+    {
+        "rank": 11,
+        "name": "Jitpursimara",
+        "nepali": "जीतपुरसिमरा",
+        "district": "Bara",
+        "province": "Madhesh",
+        "population2021": 119148,
+        "area": 312.18,
+        "density": 382,
+        "website": "http://www.jeetpursimaramun.gov.np"
+    }
+]
