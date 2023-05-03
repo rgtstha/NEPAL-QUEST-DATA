@@ -10,7 +10,7 @@
         "metropolitan_count": 1,
         "sub_metropolitan_count": 2,
         "municipality_count": 4,
-        "map_asset_path": "assets/data/province/province_1.png",
+        "map_asset_path": "https://raw.githubusercontent.com/rgtstha/NEPAL-QUEST-DATA/main/images/province_1.png",
         "rural_municipality_count": 8
     },
     "province_2": {
@@ -24,7 +24,7 @@
         "metropolitan_count": 1,
         "sub_metropolitan_count": 3,
         "municipality_count": 73,
-        "map_asset_path": "assets/data/province/madesh.png",
+        "map_asset_path": "https://raw.githubusercontent.com/rgtstha/NEPAL-QUEST-DATA/main/images/madesh.png",
         "rural_municipality_count": 59
     },
     "province_3": {
@@ -38,7 +38,7 @@
         "metropolitan_count": 3,
         "sub_metropolitan_count": 1,
         "municipality_count": 41,
-        "map_asset_path": "assets/data/province/bagmati.png",
+        "map_asset_path": "https://raw.githubusercontent.com/rgtstha/NEPAL-QUEST-DATA/main/images/bagmati.png",
         "rural_municipality_count": 74
     },
     "province_4": {
@@ -52,7 +52,7 @@
         "metropolitan_count": 1,
         "sub_metropolitan_count": 0,
         "municipality_count": 26,
-        "map_asset_path": "assets/data/province/gandaki.png",
+        "map_asset_path": "https://raw.githubusercontent.com/rgtstha/NEPAL-QUEST-DATA/main/images/gandaki.png",
         "rural_municipality_count": 58
     },
     "province_5": {
@@ -66,7 +66,7 @@
         "metropolitan_count": 0,
         "sub_metropolitan_count": 4,
         "municipality_count": 32,
-        "map_asset_path": "assets/data/province/lumbini.png",
+        "map_asset_path": "https://raw.githubusercontent.com/rgtstha/NEPAL-QUEST-DATA/main/images/lumbini.png",
         "rural_municipality_count": 73
     },
     "province_6": {
@@ -80,7 +80,7 @@
         "metropolitan_count": 0,
         "sub_metropolitan_count": 0,
         "municipality_count": 25,
-        "map_asset_path": "assets/data/province/karnali.png",
+        "map_asset_path": "https://raw.githubusercontent.com/rgtstha/NEPAL-QUEST-DATA/main/images/karnali.png",
         "rural_municipality_count": 54
     },
     "province_7": {
@@ -94,7 +94,7 @@
         "metropolitan_count": 0,
         "sub_metropolitan_count": 1,
         "municipality_count": 33,
-        "map_asset_path": "assets/data/province/sudurpaschim.png",
+        "map_asset_path": "https://raw.githubusercontent.com/rgtstha/NEPAL-QUEST-DATA/main/images/sudurpaschim.png",
         "rural_municipality_count": 54
     }
 }
