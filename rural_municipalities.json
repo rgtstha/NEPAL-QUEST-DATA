@@ -5,7 +5,8 @@
         "district": "Doti",
         "population": 23945,
         "area": 128.47,
-        "density": 186
+        "density": 186,
+        "website": "https://aadarshamun.gov.np/"
     },
     {
         "name": "Aalitaal",
@@ -13,15 +14,17 @@
         "district": "Dadeldhura",
         "population": 18531,
         "area": 292.87,
-        "density": 63
+        "density": 63,
+        "website": "https://aalitalmun.gov.np/"
     },
     {
-        "name": "Aamachodingmo",
+        "name": "Aamachhodingmo",
         "nepali": "आमाछोदिङमो",
         "district": "Rasuwa",
         "population": 5490,
         "area": 682.23,
-        "density": 8
+        "density": 8,
+        "website": "https://aamachhodingmomun.gov.np/"
     },
     {
         "name": "Aamchok",
@@ -83,15 +86,17 @@
         "district": "Humla",
         "population": 7116,
         "area": 150.61,
-        "density": 47
+        "density": 47,
+        "website": "https://adanchulimun.gov.np/"
     },
     {
-        "name": "Adarsha Kotwal",
+        "name": "Aadarsha Kotwal",
         "nepali": "आदर्श कोतवाल",
         "district": "Bara",
         "population": 27552,
         "area": 36.25,
-        "density": 760
+        "density": 760,
+        "website": "https://aadarshakotwalmun.gov.np/"
     },
     {
         "name": "Agnisaira Krishnasavaran",
@@ -99,7 +104,8 @@
         "district": "Saptari",
         "population": 27129,
         "area": 103.08,
-        "density": 263
+        "density": 263,
+        "website": "https://agnisairkrishnasawaranmun.gov.np/"
     },
     {
         "name": "Airawati",
@@ -107,7 +113,8 @@
         "district": "Pyuthan",
         "population": 22392,
         "area": 156.75,
-        "density": 143
+        "density": 143,
+        "website": "https://airawatimun.gov.np/"
     },
     {
         "name": "Aiselukharka",
@@ -124,7 +131,8 @@
         "district": "Dadeldhura",
         "population": 7066,
         "area": 148.9,
-        "density": 47
+        "density": 47,
+        "website": "https://ajayamerumun.gov.np/"
     },
     {
         "name": "Ajirkot",
@@ -159,7 +167,9 @@
         "district": "Darchula",
         "population": 6779,
         "area": 613.95,
-        "density": 11
+        "density": 11,
+        "website": "https://apihimalmun.gov.np/"
+
     },
     {
         "name": "Arjun Chaupari",
@@ -176,7 +186,8 @@
         "district": "Siraha",
         "population": 22912,
         "area": 37.76,
-        "density": 607
+        "density": 607,
+        "website": "https://arnamamun.gov.np/"
     },
     {
         "name": "Arun",
@@ -193,7 +204,8 @@
         "district": "Dhanusha",
         "population": 22578,
         "area": 25.56,
-        "density": 883
+        "density": 883,
+        "website": "https://aurahimundhanusha.gov.np/"
     },
     {
         "name": "Aurahi",
@@ -201,7 +213,8 @@
         "district": "Siraha",
         "population": 23046,
         "area": 35.87,
-        "density": 642
+        "density": 642,
+        "website": "https://aurahimunsiraha.gov.np/"
     },
     {
         "name": "Babai",
@@ -209,7 +222,8 @@
         "district": "Dang",
         "population": 27469,
         "area": 257.48,
-        "density": 107
+        "density": 107,
+        "website": "https://babaimun.gov.np/"
     },
     {
         "name": "Badhaiyatal",
@@ -217,7 +231,8 @@
         "district": "Bardiya",
         "population": 47868,
         "area": 115.19,
-        "density": 416
+        "density": 416,
+        "website": "https://badhaiyatalmun.gov.np/"
     },
     {
         "name": "Badigad",
@@ -234,7 +249,8 @@
         "district": "Doti",
         "population": 16720,
         "area": 332.55,
-        "density": 50
+        "density": 50,
+        "website": "https://badikedarmun.gov.np/"
     },
     {
         "name": "Bagmati",
@@ -242,23 +258,26 @@
         "district": "Lalitpur",
         "population": 13049,
         "area": 111.49,
-        "density": 117
+        "density": 117,
+        "website": "https://bagmatimunlalitpur.gov.np/"
     },
     {
         "name": "Bagmati",
         "nepali": "बाग्मती",
-        "district": "Makwanpur",
+        "district": "Makawanpur",
         "population": 30495,
         "area": 311.79,
-        "density": 98
+        "density": 98,
+        "website": "https://bagmatimunmakawanpur.gov.np/"
     },
     {
-        "name": "Bagnaskali",
+        "name": "Baganaskali",
         "nepali": "वगनासकाली",
         "district": "Palpa",
         "population": 21361,
         "area": 84.17,
-        "density": 254
+        "density": 254,
+        "website": "https://baganaskalimun.gov.np/"
     },
     {
         "name": "Baijanath",
@@ -266,15 +285,17 @@
         "district": "Banke",
         "population": 54418,
         "area": 141.67,
-        "density": 384
+        "density": 384,
+        "website": "https://baijanathmun.gov.np/"
     },
     {
-        "name": "Baiteshwar",
+        "name": "Baiteshwor",
         "nepali": "वैतेश्वर",
         "district": "Dolakha",
         "population": 19876,
         "area": 80.41,
-        "density": 247
+        "density": 247,
+        "website": "https://baiteshwormun.gov.np/"
     },
     {
         "name": "Bakaiya",
@@ -1576,7 +1597,8 @@
         "district": "Dhading",
         "population": 23966,
         "area": 114.04,
-        "density": 210
+        "density": 210,
+        "website": "https://jwalamukhimun.gov.np/"
     },
     {
         "name": "K.I. Singh",
