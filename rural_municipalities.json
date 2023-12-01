@@ -428,7 +428,8 @@
         "district": "Siraha",
         "population": 25256,
         "area": 37.72,
-        "density": 670
+        "density": 670,
+        "website": "https://bariyarpattimun.gov.np/"
     },
     {
         "name": "Barju",
@@ -454,15 +455,17 @@
         "district": "Sarlahi",
         "population": 23568,
         "area": 29.42,
-        "density": 801
+        "density": 801,
+        "website": "https://basbariyamun.gov.np/"
     },
     {
-        "name": "Bateshwar",
+        "name": "Bateshwor",
         "nepali": "बटेश्वर",
         "district": "Dhanusha",
         "population": 21530,
         "area": 31.66,
-        "density": 680
+        "density": 680,
+        "website": "https://bateshwormun.gov.np/"
     },
     {
         "name": "Baudikali",
@@ -479,7 +482,8 @@
         "district": "Kanchanpur",
         "population": 21949,
         "area": 36.7,
-        "density": 598
+        "density": 598,
+        "website": "https://beldandimun.gov.np/"
     },
     {
         "name": "Benighat Rorang",
@@ -487,7 +491,8 @@
         "district": "Dhading",
         "population": 31475,
         "area": 29.17,
-        "density": 1079
+        "density": 1079,
+        "website": "https://benighatrorangmun.gov.np/"
     },
     {
         "name": "Bethanchok",
@@ -495,7 +500,8 @@
         "district": "Kavrepalanchok",
         "population": 16777,
         "area": 101,
-        "density": 166
+        "density": 166,
+        "website": "https://www.bethanchowkmun.gov.np/"
     },
     {
         "name": "Bhagawatimai",
@@ -503,15 +509,17 @@
         "district": "Dailekh",
         "population": 18778,
         "area": 151.52,
-        "density": 124
+        "density": 124,
+        "website": "https://bhagawatimaimun.gov.np/"
     },
     {
-        "name": "Bhageshwar",
+        "name": "Bhageshwor",
         "nepali": "भागेश्वर",
         "district": "Dadeldhura",
         "population": 14129,
         "area": 233.38,
-        "density": 61
+        "density": 61,
+        "website": "https://www.bhageshwormun.gov.np/"
     },
     {
         "name": "Bhagwanpur",
@@ -519,7 +527,8 @@
         "district": "Siraha",
         "population": 20957,
         "area": 33.03,
-        "density": 634
+        "density": 634,
+        "website": "https://bhagwanpurmun.gov.np/"
     },
     {
         "name": "Bhairabi",
@@ -527,7 +536,8 @@
         "district": "Dailekh",
         "population": 21233,
         "area": 110.46,
-        "density": 192
+        "density": 192,
+        "website": "https://bhairabimun.gov.np/"
     },
     {
         "name": "Bhimphedi",
@@ -535,7 +545,8 @@
         "district": "Makwanpur",
         "population": 23344,
         "area": 245.27,
-        "density": 95
+        "density": 95,
+        "website": "https://bhimphedimun.gov.np/"
     },
     {
         "name": "Bhimsen Thapa",
@@ -544,7 +555,7 @@
         "population": 22033,
         "area": 101.25,
         "density": 218,
-        "website": "https://bhimsenmun.gov.np/"
+        "website": "https://www.bhimsenthapamun.gov.np/"
     },
     {
         "name": "Bhokraha",
@@ -570,7 +581,8 @@
         "district": "Sindhupalchok",
         "population": 17156,
         "area": 278.31,
-        "density": 62
+        "density": 62,
+        "website": "https://bhotekoshimun.gov.np/"
     },
     {
         "name": "Bhume",
@@ -578,7 +590,8 @@
         "district": "Eastern Rukum",
         "population": 18589,
         "area": 273.67,
-        "density": 68
+        "density": 68,
+        "website": "https://bhumemun.gov.np/"
     },
     {
         "name": "Bhumlu",
@@ -586,7 +599,8 @@
         "district": "Kavrepalanchok",
         "population": 18916,
         "area": 91,
-        "density": 208
+        "density": 208,
+        "website": "https://bhumlumun.gov.np/"
     },
     {
         "name": "Bigu",
@@ -594,7 +608,8 @@
         "district": "Dolakha",
         "population": 18449,
         "area": 663.2,
-        "density": 28
+        "density": 28,
+        "website": "https://bigumun.gov.np/"
     },
     {
         "name": "Bihadi",
@@ -602,7 +617,8 @@
         "district": "Parbat",
         "population": 13403,
         "area": 44.8,
-        "density": 299
+        "density": 299,
+        "website": "https://bihadimun.gov.np/"
     },
     {
         "name": "Bijaynagar",
@@ -610,7 +626,8 @@
         "district": "Kapilvastu",
         "population": 36937,
         "area": 173.19,
-        "density": 213
+        "density": 213,
+        "website": "https://bijaynagarmun.gov.np/"
     },
     {
         "name": "Binayi Triveni",
@@ -627,7 +644,8 @@
         "district": "Parsa",
         "population": 24468,
         "area": 26.04,
-        "density": 940
+        "density": 940,
+        "website": "https://www.bindabasinimun.gov.np/"
     },
     {
         "name": "Biruwa",
@@ -644,7 +662,8 @@
         "district": "Sarlahi",
         "population": 24748,
         "area": 28.09,
-        "density": 881
+        "density": 881,
+        "website": "https://www.bishnumun.gov.np/"
     },
     {
         "name": "Bishnupur",
@@ -652,7 +671,8 @@
         "district": "Saptari",
         "population": 23035,
         "area": 37,
-        "density": 623
+        "density": 623,
+        "website": "https://bishnupurmunsaptari.gov.np/"
     },
     {
         "name": "Bishnupur",
@@ -660,7 +680,8 @@
         "district": "Siraha",
         "population": 18522,
         "area": 26.34,
-        "density": 703
+        "density": 703,
+        "website": "https://bishnupurmunsiraha.gov.np/"
     },
     {
         "name": "Bishrampur",
@@ -668,7 +689,8 @@
         "district": "Bara",
         "population": 23785,
         "area": 19.81,
-        "density": 1201
+        "density": 1201,
+        "website": "https://bishrampurmun.gov.np/"
     },
     {
         "name": "Bitthadchir",
@@ -676,7 +698,8 @@
         "district": "Bajhang",
         "population": 17154,
         "area": 86.15,
-        "density": 199
+        "density": 199,
+        "website": "https://bitthadchirmun.gov.np/"
     },
     {
         "name": "Bogatan-Phudsil",
@@ -684,7 +707,8 @@
         "district": "Doti",
         "population": 17902,
         "area": 300.22,
-        "density": 60
+        "density": 60,
+        "website": "https://bogatanmun.gov.np/"
     },
     {
         "name": "Brahampuri",
@@ -692,7 +716,8 @@
         "district": "Sarlahi",
         "population": 29832,
         "area": 33.89,
-        "density": 880
+        "density": 880,
+        "website": "https://www.brahmapurimun.gov.np/"
     },
     {
         "name": "Buddha Shanti",
@@ -727,7 +752,8 @@
         "district": "Sarlahi",
         "population": 27952,
         "area": 25.16,
-        "density": 1111
+        "density": 1111,
+        "website": "https://chakraghattamun.gov.np/"
     },
     {
         "name": "Chame",
@@ -753,7 +779,8 @@
         "district": "Gulmi",
         "population": 21827,
         "area": 105.73,
-        "density": 206
+        "density": 206,
+        "website": "https://chandrakotmun.gov.np/"
     },
     {
         "name": "Chandranagar",
@@ -761,7 +788,8 @@
         "district": "Sarlahi",
         "population": 33328,
         "area": 47.5,
-        "density": 702
+        "density": 702,
+        "website": "https://chandranagarmun.gov.np/"
     },
     {
         "name": "Chankheli",
@@ -769,7 +797,8 @@
         "district": "Humla",
         "population": 5517,
         "area": 1310.41,
-        "density": 4
+        "density": 4,
+        "website": "https://chankhelimun.gov.np/"
     },
     {
         "name": "Chaubise",
@@ -786,7 +815,8 @@
         "district": "Surkhet",
         "population": 25240,
         "area": 381.01,
-        "density": 66
+        "density": 66,
+        "website": "https://chaukunemun.gov.np/"
     },
     {
         "name": "Chaunri Deurali",
@@ -794,7 +824,8 @@
         "district": "Kavrepalanchok",
         "population": 20829,
         "area": 98,
-        "density": 213
+        "density": 213,
+        "website": "https://chaunrideuralimun.gov.np/"
     },
     {
         "name": "Chaurpati",
@@ -802,7 +833,8 @@
         "district": "Achham",
         "population": 25149,
         "area": 182.16,
-        "density": 138
+        "density": 138,
+        "website": "https://chaurpatimun.gov.np/"
     },
     {
         "name": "Chhabis Pathibhera",
@@ -810,7 +842,8 @@
         "district": "Bajhang",
         "population": 16296,
         "area": 116.34,
-        "density": 140
+        "density": 140,
+        "website": "https://chhabispathibheramun.gov.np/"
     },
     {
         "name": "Chharka Tangsong",
