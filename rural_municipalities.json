@@ -2858,7 +2858,8 @@
         "district": "Bara",
         "population": 26722,
         "area": 23.65,
-        "density": 1130
+        "density": 1130,
+        "website": "https://phetamun.gov.np/"
     },
     {
         "name": "Phikkal",
@@ -2866,7 +2867,8 @@
         "district": "Sindhuli",
         "population": 16968,
         "area": 186.06,
-        "density": 91
+        "density": 91,
+        "website": "https://phikkalmun.gov.np/"
     },
     {
         "name": "Pipra",
@@ -2874,7 +2876,8 @@
         "district": "Mahottari",
         "population": 35524,
         "area": 39.98,
-        "density": 889
+        "density": 889,
+        "website": "https://pipramun.gov.np/"
     },
     {
         "name": "Prasauni",
@@ -2882,7 +2885,8 @@
         "district": "Bara",
         "population": 24478,
         "area": 20.24,
-        "density": 1209
+        "density": 1209,
+        "website": "https://prasaunimun.gov.np/"
     },
     {
         "name": "Pratappur",
@@ -2890,7 +2894,8 @@
         "district": "Parasi",
         "population": 41315,
         "area": 87.55,
-        "density": 472
+        "density": 472,
+        "website": "https://pratappurmun.gov.np/"
     },
     {
         "name": "Purbakhola",
@@ -2898,7 +2903,8 @@
         "district": "Palpa",
         "population": 19589,
         "area": 138.05,
-        "density": 142
+        "density": 142,
+        "website": "https://purbakholamun.gov.np/"
     },
     {
         "name": "Purbichauki",
@@ -2906,7 +2912,8 @@
         "district": "Doti",
         "population": 22483,
         "area": 117.66,
-        "density": 191
+        "density": 191,
+        "website": "https://purbichaukimun.gov.np/" 
     },
     {
         "name": "Putha Uttarganga",
@@ -2914,7 +2921,8 @@
         "district": "Eastern Rukum",
         "population": 17932,
         "area": 560.34,
-        "density": 32
+        "density": 32,
+        "website": "https://puthauttargangamun.gov.np/"
     },
     {
         "name": "Raghuganga",
