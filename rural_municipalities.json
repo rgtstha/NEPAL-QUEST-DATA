@@ -915,7 +915,8 @@
         "district": "Parsa",
         "population": 26671,
         "area": 24.9,
-        "density": 1071
+        "density": 1071,
+        "website": "https://chhipaharmaimun.gov.np/"
     },
     {
         "name": "Chichila",
@@ -932,7 +933,8 @@
         "district": "Surkhet",
         "population": 17275,
         "area": 170.19,
-        "density": 102
+        "density": 102,
+        "website": "https://chingadmun.gov.np/"
     },
     {
         "name": "Chisankhugadhi",
@@ -958,7 +960,8 @@
         "district": "Kailali",
         "population": 18924,
         "area": 493.18,
-        "density": 38
+        "density": 38,
+        "website": "https://churemun.gov.np/"
     },
     {
         "name": "Dangisharan",
@@ -966,7 +969,8 @@
         "district": "Dang",
         "population": 21484,
         "area": 110.7,
-        "density": 194
+        "density": 194,
+        "website": "https://dangisharanmun.gov.np/"
     },
     {
         "name": "Darma",
@@ -974,7 +978,8 @@
         "district": "Salyan",
         "population": 19966,
         "area": 81.46,
-        "density": 245
+        "density": 245,
+        "website": "https://darmamun.gov.np/"
     },
     {
         "name": "Devghat",
@@ -991,7 +996,8 @@
         "district": "Bara",
         "population": 23223,
         "area": 23.31,
-        "density": 996
+        "density": 996,
+        "website": "https://devtalmun.gov.np/"
     },
     {
         "name": "Dewanganj",
@@ -1008,15 +1014,17 @@
         "district": "Dhanusha",
         "population": 21395,
         "area": 22.13,
-        "density": 967
+        "density": 967,
+        "website": "https://dhanaujimun.gov.np/"
     },
     {
-        "name": "Dhankari",
-        "nepali": "ढँकारी",
+        "name": "Dhakari",
+        "nepali": "ढकारी",
         "district": "Achham",
         "population": 21562,
         "area": 227.88,
-        "density": 95
+        "density": 95,
+        "website": "https://dhankarimun.gov.np/"
     },
     {
         "name": "Dhankaul",
@@ -1024,7 +1032,8 @@
         "district": "Sarlahi",
         "population": 24788,
         "area": 45.94,
-        "density": 540
+        "density": 540,
+        "website": "https://dhankaulmun.gov.np/"
     },
     {
         "name": "Dhanpalthan",
@@ -1041,7 +1050,8 @@
         "district": "Gorkha",
         "population": 13229,
         "area": 651.52,
-        "density": 20
+        "density": 20,
+        "website": "https://dharchemun.gov.np/"
     },
     {
         "name": "Dhaulagiri",
@@ -1058,7 +1068,8 @@
         "district": "Parsa",
         "population": 19911,
         "area": 24.41,
-        "density": 816
+        "density": 816,
+        "website": "https://dhobinimun.gov.np/"
     },
     {
         "name": "Dhurkot",
@@ -1066,15 +1077,17 @@
         "district": "Gulmi",
         "population": 22454,
         "area": 86.32,
-        "density": 260
+        "density": 260,
+        "website": "https://dhurkotmun.gov.np/"
     },
     {
-        "name": "Dilashaini",
-        "nepali": "डिलाशैनी",
+        "name": "Dilasaini",
+        "nepali": "डिलासैनी",
         "district": "Baitadi",
         "population": 22924,
         "area": 125.28,
-        "density": 183
+        "density": 183,
+        "website": "https://dilasainimun.gov.np/"
     },
     {
         "name": "Diprung",
@@ -1083,7 +1096,7 @@
         "population": 20175,
         "area": 136.59,
         "density": 148,
-        "website": "https://diprungmun.gov.np/"
+        "website": "http://www.diprungmun.gov.np/"
     },
     {
         "name": "Dogdakedar",
@@ -1091,7 +1104,8 @@
         "district": "Baitadi",
         "population": 24632,
         "area": 126.38,
-        "density": 195
+        "density": 195,
+        "website": "https://dogdakedarmun.gov.np/"
     },
     {
         "name": "Dolpo Buddha",
@@ -1099,7 +1113,8 @@
         "district": "Dolpa",
         "population": 2126,
         "area": 377.38,
-        "density": 6
+        "density": 6,
+        "website": "https://dolpobuddhamun.gov.np/"
     },
     {
         "name": "Doramba",
@@ -1107,7 +1122,8 @@
         "district": "Ramechhap",
         "population": 22738,
         "area": 140.88,
-        "density": 161
+        "density": 161,
+        "website": "https://dorambamun.gov.np/"
     },
     {
         "name": "Dordi",
@@ -1133,23 +1149,26 @@
         "district": "Banke",
         "population": 37460,
         "area": 91.1,
-        "density": 411
+        "density": 411,
+        "website": "https://duduwamun.gov.np/"
     },
     {
-        "name": "Duhun Rural Municipality",
+        "name": "Duhun",
         "nepali": "दुहु",
         "district": "Darchula",
         "population": 10818,
         "area": 65.35,
-        "density": 166
+        "density": 166,
+        "website": "https://duhunmun.gov.np/"
     },
     {
-        "name": "Dungeshwar",
+        "name": "Dungeshwor",
         "nepali": "डुंगेश्वर",
         "district": "Dailekh",
         "population": 15883,
         "area": 105.19,
-        "density": 151
+        "density": 151,
+        "website": "https://dungeshwormun.gov.np/"
     },
     {
         "name": "Dupcheshwar",
@@ -3195,7 +3214,8 @@
         "district": "Mahottari",
         "population": 33791,
         "area": 21.57,
-        "density": 1567
+        "density": 1567,
+        "website": "https://samsimun.gov.np/"
     },
     {
         "name": "Sandakpur",
@@ -3221,7 +3241,8 @@
         "district": "Western Rukum",
         "population": 22194,
         "area": 133.8,
-        "density": 166
+        "density": 166,
+        "website": "https://sanibherimun.gov.np/"
     },
     {
         "name": "Sanni Triveni",
@@ -3229,7 +3250,8 @@
         "district": "Kalikot",
         "population": 12846,
         "area": 136.71,
-        "density": 94
+        "density": 94,
+        "website": "https://sannitrivenimun.gov.np/"
     },
     {
         "name": "Sarawal",
@@ -3237,7 +3259,8 @@
         "district": "Parasi",
         "population": 38163,
         "area": 73.19,
-        "density": 521
+        "density": 521,
+        "website": "https://sarawalmun.gov.np/"
     },
     {
         "name": "Sarkegad",
@@ -3245,7 +3268,8 @@
         "district": "Humla",
         "population": 9868,
         "area": 306.7,
-        "density": 32
+        "density": 32,
+        "website": "https://sarkegadmun.gov.np/"
     },
     {
         "name": "Sarumarani",
@@ -3253,7 +3277,8 @@
         "district": "Pyuthan",
         "population": 18627,
         "area": 157.97,
-        "density": 118
+        "density": 118,
+        "website": "https://sarumaranimun.gov.np/"
     },
     {
         "name": "Satyawati",
@@ -3261,7 +3286,8 @@
         "district": "Gulmi",
         "population": 23807,
         "area": 115.92,
-        "density": 205
+        "density": 205,
+        "website": "https://satyawatimun.gov.np/"
     },
     {
         "name": "Sayal",
@@ -3269,7 +3295,8 @@
         "district": "Doti",
         "population": 19551,
         "area": 122.72,
-        "density": 159
+        "density": 159,
+        "website": "https://sayalmun.gov.np/"
     },
     {
         "name": "Shahid Lakhan",
@@ -3286,7 +3313,8 @@
         "district": "Dolakha",
         "population": 20098,
         "area": 128.67,
-        "density": 156
+        "density": 156,
+        "website": "https://shailungmun.gov.np/"
     },
     {
         "name": "Shantinagar",
@@ -3294,7 +3322,8 @@
         "district": "Dang",
         "population": 25203,
         "area": 116.02,
-        "density": 217
+        "density": 217,
+        "website": "https://shantinagarmun.gov.np/"
     },
     {
         "name": "She Phoksundo",
@@ -3302,7 +3331,8 @@
         "district": "Dolpa",
         "population": 3099,
         "area": 123.07,
-        "density": 25
+        "density": 25,
+        "website": "https://shephoksundomun.gov.np/"
     },
     {
         "name": "Shivalaya",
@@ -3310,7 +3340,8 @@
         "district": "Jajarkot",
         "population": 15269,
         "area": 134.26,
-        "density": 114
+        "density": 114,
+        "website": "https://shibalayamun.gov.np/"
     },
     {
         "name": "Shivanath",
@@ -3318,7 +3349,8 @@
         "district": "Baitadi",
         "population": 17115,
         "area": 81.65,
-        "density": 210
+        "density": 210,
+        "website": "https://shivanathmun.gov.np/"
     },
     {
         "name": "Shivapuri",
@@ -3326,7 +3358,8 @@
         "district": "Nuwakot",
         "population": 20769,
         "area": 101.5,
-        "density": 205
+        "density": 205,
+        "website": "https://shivapurimun.gov.np/"
     },
     {
         "name": "Shubha Kalika",
@@ -3334,7 +3367,8 @@
         "district": "Kalikot",
         "population": 14080,
         "area": 97.32,
-        "density": 145
+        "density": 145,
+        "website": "https://kalikamunkalikot.gov.np/"
     },
     {
         "name": "Shuddhodhan",
@@ -3342,7 +3376,8 @@
         "district": "Rupandehi",
         "population": 34638,
         "area": 57.66,
-        "density": 601
+        "density": 601,
+        "website": "https://shuddhodhanmun.gov.np/"
     },
     {
         "name": "Siddha Kumakh",
@@ -3350,7 +3385,8 @@
         "district": "Salyan",
         "population": 13593,
         "area": 89.36,
-        "density": 152
+        "density": 152,
+        "website": "https://siddhakumakhmun.gov.np/"
     },
     {
         "name": "Siddhalekh",
@@ -3358,7 +3394,8 @@
         "district": "Dhading",
         "population": 23729,
         "area": 106.09,
-        "density": 224
+        "density": 224,
+        "website": "https://siddhalekhmun.gov.np/"
     },
     {
         "name": "Sidingwa",
@@ -3375,7 +3412,8 @@
         "district": "Baitadi",
         "population": 21510,
         "area": 245.44,
-        "density": 88
+        "density": 88,
+        "website": "https://sigasmun.gov.np/"
     },
     {
         "name": "Silichong",
@@ -3392,7 +3430,8 @@
         "district": "Humla",
         "population": 11557,
         "area": 785.89,
-        "density": 15
+        "density": 15,
+        "website": "https://simkotmun.gov.np/"
     },
     {
         "name": "Simta",
@@ -3400,7 +3439,8 @@
         "district": "Surkhet",
         "population": 25845,
         "area": 241.64,
-        "density": 10
+        "density": 10,
+        "website": "https://simtamun.gov.np/"
     },
     {
         "name": "Sinja",
@@ -3408,7 +3448,8 @@
         "district": "Jumla",
         "population": 12395,
         "area": 153.29,
-        "density": 81
+        "density": 81,
+        "website": "https://sinjamun.gov.np/"
     },
     {
         "name": "Siranchowk",
@@ -3434,7 +3475,8 @@
         "district": "Eastern Rukum",
         "population": 16497,
         "area": 327.12,
-        "density": 50
+        "density": 50,
+        "website": "https://sisnemun.gov.np/"
     },
     {
         "name": "Siyari",
@@ -3442,7 +3484,8 @@
         "district": "Rupandehi",
         "population": 38466,
         "area": 66.17,
-        "density": 581
+        "density": 581,
+        "website":  "https://siyarimun.gov.np/"
     },
     {
         "name": "Sonama",
@@ -3450,7 +3493,8 @@
         "district": "Mahottari",
         "population": 38747,
         "area": 57.77,
-        "density": 671
+        "density": 671,
+        "website": "https://sonmamun.gov.np/"
     },
     {
         "name": "Soru",
@@ -3458,7 +3502,8 @@
         "district": "Mugu",
         "population": 12238,
         "area": 365.8,
-        "density": 33
+        "density": 33,
+        "website": "https://sorumun.gov.np/"
     },
     {
         "name": "Sotang",
@@ -3475,7 +3520,8 @@
         "district": "Kapilvastu",
         "population": 45201,
         "area": 91.69,
-        "density": 493
+        "density": 493,
+        "website": "https://shuddhodhanmunkapilvastu.gov.np/"
     },
     {
         "name": "Sunapati",
@@ -3483,7 +3529,8 @@
         "district": "Ramechhap",
         "population": 18141,
         "area": 86.98,
-        "density": 209
+        "density": 209,
+        "website": "https://sunapatimun.gov.np/"
     },
     {
         "name": "Sunchhahari",
@@ -3491,7 +3538,8 @@
         "district": "Rolpa",
         "population": 16034,
         "area": 277.62,
-        "density": 58
+        "density": 58,
+        "website": "https://sunchhaharimun.gov.np/"
     },
     {
         "name": "Sunilsmriti",
@@ -3499,7 +3547,8 @@
         "district": "Rolpa",
         "population": 28213,
         "area": 156.55,
-        "density": 180
+        "density": 180,
+        "website": "https://sunilsmritimun.gov.np/"
     },
     {
         "name": "Sunkoshi",
@@ -3516,7 +3565,8 @@
         "district": "Sindhuli",
         "population": 21473,
         "area": 154.68,
-        "density": 139
+        "density": 139,
+        "website": "https://sunkoshimunsindhuli.gov.np/"
     },
     {
         "name": "Sunkoshi",
@@ -3524,7 +3574,8 @@
         "district": "Sindhupalchok",
         "population": 16713,
         "area": 72.84,
-        "density": 229
+        "density": 229,
+        "website": "https://sunkoshimunsindhupalchowk.gov.np/"
     },
     {
         "name": "Surma",
@@ -3532,7 +3583,8 @@
         "district": "Bajhang",
         "population": 9022,
         "area": 270.8,
-        "density": 33
+        "density": 33,
+        "website": "https://surmamun.gov.np/"
     },
     {
         "name": "Surnaya",
@@ -3540,7 +3592,8 @@
         "district": "Baitadi",
         "population": 18549,
         "area": 124.52,
-        "density": 149
+        "density": 149,
+        "website": "https://sunaryamun.gov.np/"
     },
     {
         "name": "Suryagadhi",
@@ -3552,11 +3605,12 @@
     },
     {
         "name": "Susta",
-        "nepali": "त्रिवेणी सुस्ता",
+        "nepali": "त्सुस्ता",
         "district": "Parasi",
         "population": 43797,
         "area": 112.17,
-        "density": 390
+        "density": 390,
+        "website": "https://sustamun.gov.np/"
     },
     {
         "name": "Suwarna",
@@ -3564,7 +3618,8 @@
         "district": "Bara",
         "population": 29602,
         "area": 36.84,
-        "density": 804
+        "density": 804,
+        "website": "https://suwarnamun.gov.np/"
     },
     {
         "name": "Swami Kartik Khapar",
@@ -3572,7 +3627,8 @@
         "district": "Bajura",
         "population": 12784,
         "area": 110.55,
-        "density": 116
+        "density": 116,
+        "website": "https://www.swamikartikmun.gov.np/"
     },
     {
         "name": "Tadi",
@@ -3580,7 +3636,8 @@
         "district": "Nuwakot",
         "population": 17932,
         "area": 69.8,
-        "density": 257
+        "density": 257,
+        "website": "https://tadimun.gov.np/"
     },
     {
         "name": "Talkot",
@@ -3588,7 +3645,8 @@
         "district": "Bajhang",
         "population": 11557,
         "area": 335.26,
-        "density": 34
+        "density": 34,
+        "website": "https://talkotmun.gov.np/"
     },
     {
         "name": "Tamakoshi",
@@ -3596,7 +3654,8 @@
         "district": "Dolakha",
         "population": 18849,
         "area": 153.06,
-        "density": 123
+        "density": 123,
+        "website": "https://tamakoshimun.gov.np/"
     },
     {
         "name": "Tamankhola",
@@ -3613,7 +3672,8 @@
         "district": "Humla",
         "population": 5964,
         "area": 159.1,
-        "density": 37
+        "density": 37,
+        "website": "https://tajakotmun.gov.np/"
     },
     {
         "name": "Tapli",
@@ -3634,12 +3694,13 @@
         "website": "https://tarakholamun.gov.np/"
     },
     {
-        "name": "Tarkeshwar",
+        "name": "Tarkeshwor",
         "nepali": "तारकेश्वर",
         "district": "Nuwakot",
         "population": 15719,
         "area": 72.62,
-        "density": 216
+        "density": 216,
+        "website": "https://tarakeshwormunnuwakot.gov.np/"
     },
     {
         "name": "Tatopani",
@@ -3647,7 +3708,8 @@
         "district": "Jumla",
         "population": 14638,
         "area": 525.56,
-        "density": 28
+        "density": 28,
+        "website": "https://tatopanimun.gov.np/"
     },
     {
         "name": "Temal",
@@ -3655,7 +3717,8 @@
         "district": "Kavrepalanchok",
         "population": 22712,
         "area": 89,
-        "density": 255
+        "density": 255,
+        "website": "https://temalmun.gov.np/"
     },
     {
         "name": "Thabang",
@@ -3663,7 +3726,8 @@
         "district": "Rolpa",
         "population": 10881,
         "area": 191.07,
-        "density": 57
+        "density": 57,
+        "website": "https://thabangmun.gov.np/"
     },
     {
         "name": "Thakre",
@@ -3671,7 +3735,8 @@
         "district": "Dhading",
         "population": 32914,
         "area": 96.41,
-        "density": 341
+        "density": 341,
+        "website": "https://thakremun.gov.np/"
     },
     {
         "name": "Thalara",
@@ -3679,7 +3744,8 @@
         "district": "Bajhang",
         "population": 17952,
         "area": 105.51,
-        "density": 170
+        "density": 170,
+        "website": "https://thalaramun.gov.np/"
     },
     {
         "name": "Thantikandh",
@@ -3687,7 +3753,8 @@
         "district": "Dailekh",
         "population": 18896,
         "area": 88.22,
-        "density": 214
+        "density": 214,
+        "website": "https://thantikandhmun.gov.np/"
     },
     {
         "name": "Thasang",
@@ -3704,7 +3771,8 @@
         "district": "Parsa",
         "population": 20296,
         "area": 128.67,
-        "density": 158
+        "density": 158,
+        "website": "https://thorimun.gov.np/"
     },
     {
         "name": "Thulung Dudhkoshi",
@@ -3721,7 +3789,8 @@
         "district": "Jumla",
         "population": 13607,
         "area": 175.49,
-        "density": 78
+        "density": 78,
+        "website": "https://tilamun.gov.np/"
     },
     {
         "name": "Tilathi Koiladi",
@@ -3729,7 +3798,8 @@
         "district": "Saptari",
         "population": 32389,
         "area": 32.91,
-        "density": 984
+        "density": 984,
+        "website": "https://tilathikoiladimun.gov.np/"
     },
     {
         "name": "Tinau",
@@ -3737,7 +3807,8 @@
         "district": "Palpa",
         "population": 19085,
         "area": 202,
-        "density": 94
+        "density": 94,
+        "website": "https://tinaumun.gov.np/"
     },
     {
         "name": "Tinpatan",
@@ -3745,7 +3816,8 @@
         "district": "Sindhuli",
         "population": 38395,
         "area": 280.26,
-        "density": 137
+        "density": 137,
+        "website": "https://tinpatanmun.gov.np/"
     },
     {
         "name": "Tirhut",
@@ -3753,7 +3825,8 @@
         "district": "Saptari",
         "population": 22010,
         "area": 37.81,
-        "density": 582
+        "density": 582,
+        "website": "https://tirahutmun.gov.np/"
     },
     {
         "name": "Tribeni",
@@ -3761,15 +3834,17 @@
         "district": "Western Rukum",
         "population": 19404,
         "area": 85.49,
-        "density": 227
+        "density": 227,
+        "website": "https://trivenimunrukum.gov.np/"
     },
     {
-        "name": "Tribeni",
+        "name": "Triveni",
         "nepali": "त्रिवेणी",
         "district": "Salyan",
         "population": 16634,
         "area": 119.11,
-        "density": 140
+        "density": 140,
+        "website": "https://trivenimunsalyan.gov.np/"
     },
     {
         "name": "Tripurasundari",
@@ -3777,7 +3852,8 @@
         "district": "Dhading",
         "population": 22960,
         "area": 271.23,
-        "density": 85
+        "density": 85,
+        "website": "https://tripurasundarimundhading.gov.np/"
     },
     {
         "name": "Tripurasundari",
@@ -3785,7 +3861,8 @@
         "district": "Sindhupalchok",
         "population": 15062,
         "area": 94.28,
-        "density": 160
+        "density": 160,
+        "website": "https://tripurasundarimunsindhupalchowk.gov.np/"
     },
     {
         "name": "Triveni",
@@ -3793,15 +3870,17 @@
         "district": "Rolpa",
         "population": 22957,
         "area": 205.39,
-        "density": 112
+        "density": 112,
+        "website": "https://trivenimunrolpa.gov.np/"
     },
     {
-        "name": "Tsum Nubri",
-        "nepali": "चुम नुव्री",
+        "name": "Chumanuwri",
+        "nepali": "चुमनुव्री",
         "district": "Gorkha",
         "population": 6923,
         "area": 1648.65,
-        "density": 4
+        "density": 4,
+        "website": "https://chumanuwrimun.gov.np/"
     },
     {
         "name": "Tumbewa",
@@ -3818,7 +3897,8 @@
         "district": "Achham",
         "population": 24940,
         "area": 232.07,
-        "density": 107
+        "density": 107,
+        "website": "https://turmakhadmun.gov.np/"
     },
     {
         "name": "Tyamke Maiyum",
@@ -3844,7 +3924,8 @@
         "district": "Ramechhap",
         "population": 17601,
         "area": 451.99,
-        "density": 39
+        "density": 39,
+        "website": "https://umakundamun.gov.np/"
     },
     {
         "name": "Uttargaya",
@@ -3852,7 +3933,8 @@
         "district": "Rasuwa",
         "population": 8255,
         "area": 104.51,
-        "density": 79
+        "density": 79,
+        "website": "https://uttargayamun.gov.np/"
     },
     {
         "name": "Vyans (Byans)",
@@ -3860,7 +3942,8 @@
         "district": "Darchula",
         "population": 10347,
         "area": 839.26,
-        "density": 12
+        "density": 12,
+        "website": "https://vyansmun.gov.np/"
     },
     {
         "name": "Yamunamai",
@@ -3868,7 +3951,8 @@
         "district": "Rautahat",
         "population": 23885,
         "area": 16.7,
-        "density": 1430
+        "density": 1430,
+        "website": "https://yamunamaimun.gov.np/"
     },
     {
         "name": "Yangwarak",
@@ -3885,6 +3969,7 @@
         "district": "Kapilvastu",
         "population": 38952,
         "area": 67.56,
-        "density": 577
+        "density": 577,
+        "website": "https://yasodharamun.gov.np/"
     }
 ]
