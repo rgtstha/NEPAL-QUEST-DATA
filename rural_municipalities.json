@@ -851,7 +851,9 @@
         "district": "Dolpa",
         "population": 1451,
         "area": 345.57,
-        "density": 4
+        "density": 4,
+        "website": "https://chharkatangsongmun.gov.np/"
+
     },
     {
         "name": "Chhathar",
@@ -877,7 +879,8 @@
         "district": "Arghakhanchi",
         "population": 25336,
         "area": 87.62,
-        "density": 289
+        "density": 289,
+        "website": "https://chhatradevmun.gov.np/"
     },
     {
         "name": "Chhatrakot",
@@ -885,7 +888,8 @@
         "district": "Gulmi",
         "population": 21481,
         "area": 87.01,
-        "density": 247
+        "density": 247,
+        "website": "https://chhatrakotmun.gov.np/"
     },
     {
         "name": "Chhatreshwari",
@@ -893,7 +897,8 @@
         "district": "Salyan",
         "population": 21452,
         "area": 150.69,
-        "density": 142
+        "density": 142,
+        "website": "https://chhatreshworimun.gov.np/"
     },
     {
         "name": "Chhinnamasta",
@@ -901,7 +906,8 @@
         "district": "Saptari",
         "population": 28370,
         "area": 38.71,
-        "density": 733
+        "density": 733,
+        "website": "https://chhinnamastamun.gov.np/"
     },
     {
         "name": "Chhipahrmai",
