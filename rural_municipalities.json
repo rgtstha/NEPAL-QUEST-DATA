@@ -303,7 +303,8 @@
         "district": "Makwanpur",
         "population": 39620,
         "area": 393.75,
-        "density": 101
+        "density": 101,
+        "website": "https://bakaiyamun.gov.np/"
     },
     {
         "name": "Balan-Bihul",
@@ -311,7 +312,8 @@
         "district": "Saptari",
         "population": 26068,
         "area": 33.04,
-        "density": 789
+        "density": 789,
+        "website": "https://balanbihulmun.gov.np/"
     },
     {
         "name": "Balephi",
@@ -319,7 +321,8 @@
         "district": "Sindhupalchok",
         "population": 18909,
         "area": 61.6,
-        "density": 307
+        "density": 307,
+        "website": "https://balephimun.gov.np/"
     },
     {
         "name": "Bandipur",
@@ -331,12 +334,13 @@
         "website": "https://ghiringmun.gov.np/"
     },
     {
-        "name": "Banglachuli",
+        "name": "Bangalachuli",
         "nepali": "वंगलाचुली",
         "district": "Dang",
         "population": 24245,
         "area": 245.14,
-        "density": 99
+        "density": 99,
+        "website": "https://bangalachulimun.gov.np/"
     },
     {
         "name": "Bannigadi Jayagad",
@@ -344,7 +348,8 @@
         "district": "Achham",
         "population": 17359,
         "area": 58.26,
-        "density": 298
+        "density": 298,
+        "website": "https://bannigadhijaygadhmun.gov.np/"
     },
     {
         "name": "Banphikot",
@@ -352,7 +357,8 @@
         "district": "Western Rukum",
         "population": 18696,
         "area": 190.42,
-        "density": 98
+        "density": 98,
+        "website": "https://banphikotmun.gov.np/"
     },
     {
         "name": "Baragadhi",
@@ -360,7 +366,8 @@
         "district": "Bara",
         "population": 27191,
         "area": 39.29,
-        "density": 692
+        "density": 692,
+        "website": "https://baragadhimun.gov.np/"
     },
     {
         "name": "Baragung Muktichhetra",
@@ -377,7 +384,8 @@
         "district": "Surkhet",
         "population": 26802,
         "area": 455.09,
-        "density": 59
+        "density": 59,
+        "website": "https://barahatalmun.gov.np/"
     },
     {
         "name": "Barahpokhari",
@@ -394,7 +402,8 @@
         "district": "Kailali",
         "population": 32683,
         "area": 77.26,
-        "density": 423
+        "density": 423,
+        "website": "https://bardgoriyamun.gov.np/"
     },
     {
         "name": "Barekot",
@@ -402,7 +411,8 @@
         "district": "Jajarkot",
         "population": 18083,
         "area": 577.5,
-        "density": 31
+        "density": 31,
+        "website": "https://barekotmun.gov.np/"
     },
     {
         "name": "Bareng",
@@ -1176,7 +1186,8 @@
         "district": "Nuwakot",
         "population": 22106,
         "area": 131.62,
-        "density": 168
+        "density": 168,
+        "website": "https://dupcheshwormun.gov.np/"
     },
     {
         "name": "Durga Bhagawati",
@@ -1184,7 +1195,8 @@
         "district": "Rautahat",
         "population": 22599,
         "area": 19.8,
-        "density": 1141
+        "density": 1141,
+        "website": "https://durgabhagawatimun.gov.np/"
     },
     {
         "name": "Durgathali",
@@ -1192,7 +1204,8 @@
         "district": "Bajhang",
         "population": 12972,
         "area": 61.83,
-        "density": 210
+        "density": 210,
+        "website": "https://durgathalimun.gov.np/"
     },
     {
         "name": "Ekdara",
@@ -1200,7 +1213,8 @@
         "district": "Mahottari",
         "population": 29315,
         "area": 24,
-        "density": 1221
+        "density": 1221,
+        "website": "https://ekdaramun.gov.np/"
     },
     {
         "name": "Gadhawa",
@@ -1208,7 +1222,8 @@
         "district": "Dang",
         "population": 38592,
         "area": 358.57,
-        "density": 108
+        "density": 108,
+        "website": "https://gadhawamun.gov.np/"
     },
     {
         "name": "Gadhi",
@@ -1225,7 +1240,8 @@
         "district": "Rupandehi",
         "population": 47565,
         "area": 96.79,
-        "density": 491
+        "density": 491,
+        "website": "https://gaidahawamun.gov.np/"
     },
     {
         "name": "Gajuri",
@@ -1233,7 +1249,8 @@
         "district": "Dhading",
         "population": 27084,
         "area": 138.66,
-        "density": 195
+        "density": 195,
+        "website": "https://gajurimun.gov.np/"
     },
     {
         "name": "Galchhi",
@@ -1241,7 +1258,8 @@
         "district": "Dhading",
         "population": 27784,
         "area": 129.08,
-        "density": 215
+        "density": 215,
+        "website": "https://galchhimun.gov.np/"
     },
     {
         "name": "Gandaki",
@@ -1249,7 +1267,8 @@
         "district": "Gorkha",
         "population": 23253,
         "area": 123.86,
-        "density": 188
+        "density": 188,
+        "website": "https://gandakimun.gov.np/"
     },
     {
         "name": "Gangadev",
@@ -1257,7 +1276,8 @@
         "district": "Rolpa",
         "population": 20009,
         "area": 124.38,
-        "density": 161
+        "density": 161,
+        "website": "https://gangadevmun.gov.np/"
     },
     {
         "name": "Gangajamuna",
@@ -1265,7 +1285,8 @@
         "district": "Dhading",
         "population": 21784,
         "area": 152.72,
-        "density": 143
+        "density": 143,
+        "website": "https://gangajamunamun.gov.np/"
     },
     {
         "name": "Ganyapadhura",
@@ -1273,7 +1294,8 @@
         "district": "Dadeldhura",
         "population": 15093,
         "area": 135.65,
-        "density": 111
+        "density": 111,
+        "website": "https://ganyapadhuramun.gov.np/"
     },
     {
         "name": "Gaumukhi",
@@ -1281,7 +1303,8 @@
         "district": "Pyuthan",
         "population": 25421,
         "area": 139.04,
-        "density": 183
+        "density": 183,
+        "website": "https://gaumukhimun.gov.np/"
     },
     {
         "name": "Gaumul",
@@ -1289,7 +1312,8 @@
         "district": "Bajura",
         "population": 8515,
         "area": 314.66,
-        "density": 27
+        "density": 27,
+        "website": "https://gaumulmun.gov.np/"
     },
     {
         "name": "Gaurigunj",
@@ -1306,7 +1330,8 @@
         "district": "Dolakha",
         "population": 17062,
         "area": 681.39,
-        "density": 25
+        "density": 25,
+        "website": "https://gaurishankarmun.gov.np/"
     },
     {
         "name": "Geruwa",
@@ -1314,7 +1339,8 @@
         "district": "Bardiya",
         "population": 34871,
         "area": 78.41,
-        "density": 445
+        "density": 445,
+        "website": "https://geruwamun.gov.np/"
     },
     {
         "name": "Gharapjhong",
@@ -1340,7 +1366,8 @@
         "district": "Sindhuli",
         "population": 13661,
         "area": 166.77,
-        "density": 82
+        "density": 82,
+        "website": "https://ghyanglekhmun.gov.np/"
     },
     {
         "name": "Gokulganga",
@@ -1348,7 +1375,8 @@
         "district": "Ramechhap",
         "population": 20058,
         "area": 198.4,
-        "density": 101
+        "density": 101,
+        "website": "https://gokulgangamun.gov.np/"
     },
     {
         "name": "Golanjor",
@@ -1356,15 +1384,17 @@
         "district": "Sindhuli",
         "population": 19329,
         "area": 184.13,
-        "density": 105
+        "density": 105,
+        "website": "https://golanjormun.gov.np/"
     },
     {
-        "name": "Gosaikund",
+        "name": "Gosaikunda",
         "nepali": "गोसाईकुण्ड",
         "district": "Rasuwa",
         "population": 7143,
         "area": 978.77,
-        "density": 7
+        "density": 7,
+        "website": "https://gosaikundamun.gov.np/"
     },
     {
         "name": "Gramthan",
@@ -1381,7 +1411,8 @@
         "district": "Gulmi",
         "population": 22037,
         "area": 79.99,
-        "density": 275
+        "density": 275,
+        "website": "https://gulmidarbarmun.gov.np/"
     },
     {
         "name": "Gurans",
@@ -1389,7 +1420,8 @@
         "district": "Dailekh",
         "population": 22033,
         "area": 164.79,
-        "density": 134
+        "density": 134,
+        "website": "https://guransmun.gov.np/"
     },
     {
         "name": "Guthichaur",
@@ -1397,7 +1429,8 @@
         "district": "Jumla",
         "population": 9870,
         "area": 427,
-        "density": 23
+        "density": 23,
+        "website": "https://guthichaurmun.gov.np/"
     },
     {
         "name": "Haldibari",
@@ -1414,7 +1447,8 @@
         "district": "Sindhuli",
         "population": 27727,
         "area": 343.9,
-        "density": 81
+        "density": 81,
+        "website": "https://hariharpurgadhimun.gov.np/"
     },
     {
         "name": "Harinagara",
@@ -1449,7 +1483,8 @@
         "district": "Sindhupalchok",
         "population": 17671,
         "area": 287.26,
-        "density": 62
+        "density": 62,
+        "website": "https://helambumun.gov.np/"
     },
     {
         "name": "Hilihang",
@@ -1466,7 +1501,8 @@
         "district": "Jumla",
         "population": 10961,
         "area": 132.32,
-        "density": 83
+        "density": 83,
+        "website": "https://himamun.gov.np/"
     },
     {
         "name": "Himali",
@@ -1474,7 +1510,8 @@
         "district": "Bajura",
         "population": 9214,
         "area": 830.33,
-        "density": 11
+        "density": 11,
+        "website": "https://himalimun.gov.np/"
     },
     {
         "name": "Hupsekot",
@@ -1491,7 +1528,8 @@
         "district": "Chitwan",
         "population": 25012,
         "area": 166.73,
-        "density": 150
+        "density": 150,
+        "website": "https://ichchhakamanamun.gov.np/"
     },
     {
         "name": "Indrasarowar",
@@ -1499,7 +1537,8 @@
         "district": "Makwanpur",
         "population": 17585,
         "area": 97.34,
-        "density": 181
+        "density": 181,
+        "website": "https://indrasarowarmun.gov.np/"
     },
     {
         "name": "Indrawati",
@@ -1507,7 +1546,8 @@
         "district": "Sindhupalchok",
         "population": 28517,
         "area": 105.09,
-        "density": 271
+        "density": 271,
+        "website": "https://indrawatimun.gov.np/"
     },
     {
         "name": "Isma",
@@ -1515,7 +1555,8 @@
         "district": "Gulmi",
         "population": 20964,
         "area": 81.88,
-        "density": 256
+        "density": 256,
+        "website": "https://ismamun.gov.np/"
     },
     {
         "name": "Jagadulla",
@@ -1523,7 +1564,8 @@
         "district": "Dolpa",
         "population": 2273,
         "area": 83.3,
-        "density": 27
+        "density": 27,
+        "website": "https://www.jagdullamun.gov.np/"
     },
     {
         "name": "Jagannath",
@@ -1531,7 +1573,8 @@
         "district": "Bajura",
         "population": 9432,
         "area": 171.72,
-        "density": 55
+        "density": 55,
+        "website": "http://pandavgufamun.gov.np/"
     },
     {
         "name": "Jagarnathpur",
@@ -1539,7 +1582,8 @@
         "district": "Parsa",
         "population": 31591,
         "area": 45.29,
-        "density": 698
+        "density": 698,
+        "website": "https://jagarnathpurmun.gov.np/"
     },
     {
         "name": "Jahada",
