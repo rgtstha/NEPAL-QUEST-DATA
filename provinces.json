@@ -11,7 +11,7 @@
         "sub_metropolitan_count": 2,
         "municipality_count": 4,
         "map_asset_path": "https://raw.githubusercontent.com/rgtstha/NEPAL-QUEST-DATA/main/images/province_1.png",
-        "rural_municipality_count": 8
+        "rural_municipality_count": 88
     },
     "province_2": {
         "name": "मधेश प्रदेश",
